@@ -14,6 +14,7 @@ Cada dispositivo abaixo foi conferido no texto da base (`references/texto/`) em 
 | OC11 | `conep-oficio-circular-11-2023-assentimento.txt` |
 | CC01 | `conep-carta-circular-01-2021-ambiente-virtual.txt` |
 | OC23 | `conep-oficio-circular-23-2022-consentimento-eletronico.txt` |
+| L14063 | `lei-14063-2020-assinaturas-eletronicas-planalto.txt` |
 | LGPD | `lgpd-lei-13709-2018-planalto.txt` |
 | D03 | `inaep-despacho-03-2026-dou.txt` |
 | IMC | `inaep-informe-tecnico-multicentricas-despacho-03-2026.txt` |

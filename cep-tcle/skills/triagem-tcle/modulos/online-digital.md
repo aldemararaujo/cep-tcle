@@ -31,11 +31,18 @@ Fontes: **Carta Circular nº 1/2021-Conep (CC01)**, sobre pesquisas com etapa em
 | D16 | Pesquisador conhece a política de privacidade da ferramenta e o risco de compartilhamento com terceiros | CC01 item 2.4 | O |
 | D17 | Após a coleta, baixar os dados para dispositivo local e apagar da nuvem; o mesmo vale para gravações de consentimento | CC01 itens 3.2 e 3.3 | O (recomendação) |
 | D18 | Sistema com acesso restrito e criptografia (ou medida equivalente justificada), envio individualizado, integridade e armazenamento seguro | OC23 itens 4.1 e 4.3 | O |
-| D19 | Assinatura eletrônica conforme a classificação do art. 4º da Lei 14.063/2020 | OC23 item 4.3, I | O |
+| D19 | Assinatura eletrônica conforme a classificação do art. 4º da Lei 14.063/2020 (ver nota abaixo) | OC23 item 4.3, I; L14063 art. 4º | O |
 | D20 | Oportunidade de discutir as informações em tempo real antes de consentir | OC23 item 2.2, V | O |
 | D21 | Orientação sobre a segurança do local onde o participante fará o consentimento | OC23 item 2.2, VII | O |
 | D22 | Responsabilidade do pesquisador não se transfere à plataforma | OC23 item 2.2, III | O |
 
 **Incerteza normativa:** a Lei 14.874/2024, art. 18, § 1º, exige TCLE "datado e assinado". A assinatura eletrônica e o "aceite" por clique em formulário não são tratados expressamente na Lei nem no Decreto. Não classifique o aceite eletrônico como pendência por si só: sinalize a incerteza e indique conferir o entendimento do CEP e eventual norma da Inaep.
 
-**Lei 14.063/2020:** citada pelo OC23, não está na base. Cite-a só como referência do ofício.
+**Lei 14.063/2020** (`references/texto/lei-14063-2020-assinaturas-eletronicas-planalto.txt`): o art. 4º, que o OC23 item 4.3, I, manda observar, classifica as assinaturas eletrônicas em:
+- **simples:** identifica o signatário ou associa dados dele ao documento (art. 4º, I);
+- **avançada:** vinculada ao signatário de forma unívoca, sob controle exclusivo dele, e que torna detectável qualquer alteração posterior (art. 4º, II);
+- **qualificada:** usa certificado digital ICP-Brasil (art. 4º, III).
+
+Ao citar essa lei, observe dois limites:
+- O capítulo do art. 4º trata das interações com entes públicos. O art. 2º, parágrafo único, II, "a", exclui as interações entre particulares. A lei não fixa, por si, o nível de assinatura exigido para um TCLE. Use a classificação para descrever o mecanismo proposto (por exemplo, "o aceite por clique corresponde, no máximo, a assinatura simples"), não como exigência legal autônoma.
+- O nível exigido depende do entendimento do CEP. Não há norma da Inaep sobre o tema na base.

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.1 (2026-11-20)
+
+- Lei 14.063/2020 (assinaturas eletrônicas), texto compilado do Planalto, na base.
+- Módulo de ambiente virtual explica os três níveis de assinatura do art. 4º e registra que esse capítulo da lei trata de interações com entes públicos (art. 2º, parágrafo único, II, "a"). A classificação serve para descrever o mecanismo proposto, não como exigência autônoma para o TCLE.
+
 ## 1.4.0 (2026-11-20)
 
 - Carta Circular nº 1/2021/Conep (ambiente virtual) e Ofício Circular nº 23/2022/Conep (consentimento eletrônico) na base.

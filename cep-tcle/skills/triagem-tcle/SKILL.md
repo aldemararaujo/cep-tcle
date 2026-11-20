@@ -147,5 +147,6 @@ Declare incertezas e conflitos normativos. Se a resposta depender de atualizaç�
 | `conep-manual-pendencias-clinica-2015.txt` | Manual de pendências em pesquisa clínica (2015) | 4 | Orientação operacional; fundamentos podem estar desatualizados. |
 | `conep-manual-pendencias-chs-2023.txt` | Manual de pendências em CHS (2023) | 4 | Orientação operacional. |
 | `lgpd-lei-13709-2018-planalto.txt` | LGPD, texto compilado | Subsidiária | Aplicação subsidiária (Lei 14.874, art. 61). |
+| `lei-14063-2020-assinaturas-eletronicas-planalto.txt` | Lei nº 14.063/2020 (assinaturas eletrônicas), texto compilado | Referência | Planalto, obtido em 20/11/2026. Citada pelo Ofício Circular nº 23/2022; o capítulo do art. 4º trata de interações com entes públicos (ver `modulos/online-digital.md`). |
 
-**Lacunas conhecidas:** Lei nº 14.063/2020 (assinaturas eletrônicas, citada pelo Ofício Circular nº 23/2022); eventual resolução da Inaep sobre biobancos e sobre Ciências Humanas e Sociais. Quando a análise depender deles, indique a necessidade de conferência.
+**Lacunas conhecidas:** eventual resolução da Inaep sobre biobancos e sobre Ciências Humanas e Sociais. Quando a análise depender deles, indique a necessidade de conferência.
