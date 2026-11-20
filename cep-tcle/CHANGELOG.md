@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.3 (2026-11-20)
+
+- Critério G11 (ressarcimento) passa a citar a Lei 14.874/2024, art. 12, VII: o TCLE deve especificar formas, quantias e periodicidade do ressarcimento. Encontrado na revisão do app web tcle, que já usa os critérios deste plugin.
+
 ## 1.4.2 (2026-11-20)
 
 - Marketplace renomeado de `cep-tcle-local` para `cep-tcle`. Instalação: `claude plugin install cep-tcle@cep-tcle`. Quem instalou com o nome antigo precisa remover e instalar de novo (ver README).

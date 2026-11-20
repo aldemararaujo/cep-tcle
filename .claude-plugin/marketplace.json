@@ -9,7 +9,7 @@
       "name": "cep-tcle",
       "source": "./cep-tcle",
       "description": "Assistente de triagem ética de TCLEs de pesquisas com seres humanos no Brasil.",
-      "version": "1.4.2"
+      "version": "1.4.3"
     }
   ]
 }

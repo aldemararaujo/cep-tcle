@@ -40,7 +40,7 @@ Cada dispositivo abaixo foi conferido no texto da base (`references/texto/`) em 
 | G08 | Liberdade de recusar e de retirar o consentimento sem penalização | LEI art. 18, § 7º; R466 IV.3 "d"; R510 art. 9º, II e art. 17, III | N | |
 | G09 | Sigilo, privacidade e confidencialidade | LEI art. 19; R466 IV.3 "e"; R510 art. 9º, III-IV e art. 17, IV | N | R510 art. 9º, V: participante decide se a identidade será divulgada. |
 | G10 | Tratamento e armazenamento de dados pessoais | LEI art. 51 (guarda por 5 anos; 10 anos em terapias avançadas); LEI art. 61 (LGPD subsidiária); LGPD art. 7º, IV; LGPD art. 11, II, "c" | N | Ver módulo de dados e uso futuro. |
-| G11 | Ressarcimento de despesas | LEI art. 20, § 1º; R466 IV.3 "g"; R510 art. 9º, VII e art. 17, VII | N | |
+| G11 | Ressarcimento de despesas, com formas, quantias e periodicidade | LEI art. 12, VII; LEI art. 20, § 1º; R466 IV.3 "g"; R510 art. 9º, VII e art. 17, VII | N | LEI art. 12, VII: cabe ao CEP assegurar que o ressarcimento ou provimento material prévio esteja claramente especificado no TCLE, "incluídas as formas, as quantias e a respectiva periodicidade". |
 | G12 | Vedação de remuneração ou vantagem | LEI art. 20, caput (exceção do § 2º para fase I e bioequivalência com voluntários sadios) | N | |
 | G13 | Indenização por danos | LEI art. 23; R466 IV.3 "h"; R510 art. 9º, VI | N | |
 | G14 | Ausência de cláusula de renúncia de direitos ou de isenção de responsabilidade | LEI art. 18, § 3º; R466 IV.4 "c" | N | MCL itens 1.8, 1.11 e 1.15 listam expressões a evitar. |

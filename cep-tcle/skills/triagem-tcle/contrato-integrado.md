@@ -36,7 +36,7 @@ Devolva um bloco JSON seguido de um resumo curto em texto. Não converse diretam
 ```json
 {
   "origem": "cep-tcle",
-  "versao_plugin": "1.4.2",
+  "versao_plugin": "1.4.3",
   "base_atualizada_em": "2026-11-20",
   "caso_id": "o mesmo recebido",
   "modulos_aplicados": ["clinico", "menores-assentimento"],
