@@ -4,14 +4,18 @@ Assistente de triagem ética de Termos de Consentimento Livre e Esclarecido (TCL
 
 **Não substitui a avaliação nem o parecer de um Comitê de Ética em Pesquisa.**
 
-## Instalação (local)
+## Instalação
+
+No Claude Code (2.1 ou mais recente):
 
 ```
-claude plugin marketplace add C:\Users\aldem\claude-plugins\tcle
+claude plugin marketplace add aldemararaujo/cep-tcle
 claude plugin install cep-tcle@cep-tcle-local
 ```
 
-Depois de editar arquivos do plugin: `claude plugin update cep-tcle@cep-tcle-local`.
+Para receber atualizações: `claude plugin marketplace update cep-tcle-local` e depois `claude plugin update cep-tcle@cep-tcle-local`.
+
+Para desenvolver a partir de um clone local, use o caminho da pasta clonada no lugar de `aldemararaujo/cep-tcle`.
 
 ## Uso
 
@@ -44,7 +48,7 @@ Exportação: `.docx` exige [pandoc](https://pandoc.org); `.xlsx` exige LibreOff
 ## Testes
 
 ```
-claude plugin eval C:\Users\aldem\claude-plugins\tcle\cep-tcle --runs 1 --ablation none --no-publish
+claude plugin eval ./cep-tcle --runs 1 --ablation none --no-publish
 ```
 
 Os 8 casos cobrem: TCLE adequado de CHS, ensaio clínico com falhas, menores sem assentimento, formulário on-line, biobanco, pergunta sobre a Inaep, instrução maliciosa escondida no documento e documento não anonimizado. Rode após qualquer mudança na base ou nas instruções. Cada execução completa custa em torno de US$ 2 a 4.
