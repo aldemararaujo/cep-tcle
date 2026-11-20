@@ -1,0 +1,1287 @@
+INSTÂNCIA NACIONAL DE ÉTICA EM PESQUISA
+                 INFORME TÉCNICO
+
+                     (versão 1.1, de 30/09/2026)
+
+LEI Nº 14.874/2024, DECRETO Nº 12.651/2025 E DESPACHO INAEP Nº 3/2026-
+                    ANÁLISE ÉTICA ÚNICA EM PESQUISAS MULTICÊNTRICAS
+
+Esta página reúne orientações para pesquisadores, Comitês de Ética em Pesquisa — CEPs,
+instituições, patrocinadores e participantes sobre a análise ética única de pesquisas
+multicêntricas.
+
+As respostas esclarecem a aplicação da Lei nº 14.874/2024, do Decreto nº 12.651/2025 e do
+Despacho Inaep nº 3/2026. Não substituem essas normas nem criam obrigações ou dispensas
+não previstas nas disposições aplicáveis.
+
+1 Natureza, finalidade e princípios
+
+Este Informe Técnico constitui instrumento de orientação regulatória, de natureza não
+normativa. Sua finalidade é esclarecer a aplicação prática da Lei nº 14.874/2024, do Decreto
+nº 12.651/2025, do Despacho Inaep nº 3/2026 e das demais normas vigentes relacionadas à
+análise ética de pesquisas multicêntricas.
+
+O documento não cria obrigações, requisitos documentais, competências ou restrições não
+previstos no ordenamento aplicável. Também não substitui as normas vigentes, o parecer
+emitido pelo Comitê de Ética em Pesquisa (CEP), a instância de análise ética competente, nem
+a avaliação das particularidades de cada protocolo de pesquisa com seres humanos. Em caso
+de divergência, prevalecem a legislação e os atos normativos aplicáveis.
+
+As orientações procuram promover previsibilidade, harmonização e transparência na atuação
+do Sistema Nacional de Ética em Pesquisa com Seres Humanos (Sinep), mediante a
+explicitação dos entendimentos aplicáveis às dúvidas recorrentes de CEPs, pesquisadores,
+patrocinadores e instituições envolvidas na condução de pesquisas multicêntricas.
+
+1.1 Caráter orientativo e não vinculante
+As respostas apresentam o entendimento institucional da Inaep sobre a aplicação das normas
+vigentes, sem inovar na ordem jurídica. Soluções operacionais alternativas poderão ser
+adotadas quando forem compatíveis com a legislação, preservarem a análise ética única e
+
+                                                                   Página 1 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+proporcionarem proteção equivalente aos direitos, à segurança e ao bem-estar dos
+participantes.
+
+O caráter orientativo não afasta o cumprimento das obrigações previstas em lei, decreto,
+regulamento ou ato normativo do Sinep. As respostas distinguem, conforme o caso, a
+obrigação decorrente de norma vigente, a interpretação destinada a esclarecer essa obrigação
+e a recomendação de boa prática.
+
+1.2 Segurança normativa e previsibilidade
+A consolidação das dúvidas recorrentes em documento público favorece a aplicação uniforme
+das normas e reduz interpretações divergentes no Sinep. Também permite que
+pesquisadores, patrocinadores e instituições conheçam previamente os procedimentos
+esperados, os limites de atuação dos diferentes atores e os documentos efetivamente
+necessários.
+
+A previsibilidade não autoriza a criação de requisitos por interpretação extensiva. As
+exigências documentais permanecem sujeitas aos arts. 13 e 14, § 8º, da Lei 14.874/2024.
+
+1.3 Diálogo e atualização contínua
+As perguntas e respostas poderão ser atualizadas com base nas dúvidas apresentadas por
+CEPs, pesquisadores, instituições, patrocinadores, participantes de pesquisa e demais
+interessados. A atualização permite esclarecer dificuldades de aplicação e aperfeiçoar os
+fluxos operacionais sem recorrer, para cada dúvida, à alteração das normas vigentes.
+
+O documento não substitui o processo normativo quando a solução demandar a criação de
+obrigação, a ampliação de competência, a restrição de direito ou a definição de requisito não
+estabelecido na legislação.
+
+1.4 Eficiência administrativa e redução de duplicidades
+A divulgação de orientações comuns reduz consultas individuais repetidas, exigências
+divergentes e retrabalho na tramitação dos protocolos. No regime de análise ética única, essa
+função é relevante para evitar análises, pareceres ou registros locais que não acrescentem
+proteção aos participantes.
+
+A otimização dos procedimentos deve preservar a rastreabilidade das decisões, os canais de
+comunicação de riscos e denúncias e a adoção imediata de medidas de proteção quando
+necessária.
+
+2 Regime de análise ética única
+
+2.1 O que caracteriza uma pesquisa multicêntrica?
+Resposta — É a pesquisa executada em diferentes centros de estudo, por mais de um
+pesquisador e sob protocolo único, conforme o art. 2º, inciso XXXV, da Lei nº 14.874/2024.
+
+                                                                   Página 2 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+2.2 Quem realiza a análise ética da pesquisa multicêntrica?
+Resposta — A análise da pesquisa que envolve mais de um centro no País é realizada por um
+único CEP, preferencialmente aquele vinculado ao centro coordenador. Esse CEP emite o
+parecer ético e comunica sua decisão aos CEPs dos demais centros participantes.
+
+Devem ser observadas as regras de competência relacionadas à classificação de risco, ao
+credenciamento e à acreditação dos CEPs. A preferência pelo CEP vinculado ao centro
+coordenador não é absoluta: a designação de CEP diverso deve ser formalmente motivada e
+fundamentada.
+
+2.3 Qual expressão deve identificar o CEP que emite o parecer único?
+
+Resposta — Deve-se utilizar “CEP responsável pela análise ética única”. A expressão “CEP
+vinculado ao centro coordenador” será empregada quando o texto se referir especificamente
+ao vínculo institucional, pois a atribuição de analisar o protocolo é preferencial, e não
+necessariamente conferida ao CEP do centro coordenador.
+
+2.4 O parecer ético único abrange todos os centros participantes?
+Resposta — Sim. O parecer possui validade ética para os centros participantes no País
+abrangidos pelo protocolo aprovado. Essa validade não autoriza, isoladamente, o início das
+atividades em cada local, que permanece condicionado à autorização institucional e às
+exigências sanitárias ou setoriais aplicáveis. A mesma pesquisa não deve receber decisões
+éticas autônomas em cada instituição.
+
+2.5 O CEP vinculado ao centro participante pode, por iniciativa própria ou por exigência da
+instituição, realizar nova análise ética ou emitir segunda aprovação?
+Resposta — Não. Nas pesquisas multicêntricas, compete a um único CEP realizar a análise
+ética, emitir o parecer e comunicar sua decisão aos CEPs dos demais centros participantes.
+Essa limitação decorre da Lei 14.874/2024 e do Decreto 12.651/2025.
+
+O CEP do centro participante não pode reavaliar o mérito científico, metodológico ou ético já
+apreciado, formular novas pendências, exigir alterações no protocolo ou nos documentos
+aprovados. Essa vedação não impede o CEP participante de exercer as atribuições de proteção
+e acompanhamento local previstas no Despacho Inaep nº 3/2026.
+
+2.6 Quais são as responsabilidades do CEP do centro participante após a aprovação ética
+única?
+Resposta — Embora não tenha competência para realizar uma nova análise do protocolo ou
+emitir outra decisão ética sobre a pesquisa, o CEP do centro participante mantém
+responsabilidades de ser a referência local. O CEP do centro participante permanece como
+instância de proteção ética no âmbito da instituição em que a pesquisa é realizada.
+
+Isso significa que, ao tomar conhecimento de situação ocorrida no centro que possa afetar os
+direitos, a segurança ou o bem-estar dos participantes, cabe ao CEP participante:
+
+                                                                   Página 3 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+     acolher participantes e receber dúvidas, reclamações ou denúncias;
+     comunicar ao CEP responsável pela análise ética única riscos, violações, desvios e
+
+         outras ocorrências relevantes no centro;
+     apoiar a adoção, pela instituição e pelos responsáveis pela pesquisa, das medidas
+
+         locais de proteção necessárias;
+     recomendar à instituição a adoção de medidas imediatas diante de risco grave ou
+
+         iminente; e
+     encaminhar à instância competente as situações que demandem decisão sobre o
+
+         protocolo, sua suspensão ou a alteração dos documentos aprovados.
+
+Em síntese: quem analisa e aprova responde pela análise e pelo parecer; quem executa
+responde pela condução da pesquisa; e o CEP local atua como ponto institucional de proteção,
+acolhimento e comunicação, sem realizar uma segunda análise.
+
+Figura 1. Papel do CEP local na análise ética única em pesquisas multicêntricas.
+
+Fonte: Inaep. Imagem gerada por Inteligência Artificial.
+
+2.7 Como devem ser tratados os registros exigidos pela plataforma?
+
+Resposta — Registros, replicações ou manifestações exigidas exclusivamente para viabilizar a
+tramitação terão natureza operacional. Não deverão produzir parecer de mérito, convalidação
+ou aprovação ética adicional.
+Quando a Plataforma Brasil exigir manifestação do CEP participante, deverá ser observado o
+item VII do Despacho nº 3/2026, que recomenda texto específico para identificar essa
+
+                                                                   Página 4 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+finalidade operacional. A manifestação não poderá abrir novo prazo de análise ética, formular
+pendências sobre o mérito ou condicionar a eficácia do parecer único.
+
+2.8 O regime de análise ética única aplica-se às emendas feitas às pesquisas aprovadas antes
+do Despacho Inaep nº 3/2026?
+
+Resposta — Sim. O regime de análise ética única aplica-se às emendas submetidas a partir de
+8 de junho de 2026, data da entrada em vigor do Despacho Inaep nº 3/2026, ainda que a
+pesquisa tenha recebido aprovações éticas anteriormente.
+
+Nesses casos, a análise da emenda caberá ao CEP vinculado ao centro coordenador
+originalmente cadastrado na pesquisa. Não será necessária a definição posterior de outro CEP
+entre aqueles que emitiram as aprovações anteriores. Essa regra preserva a continuidade e a
+rastreabilidade do processo e considera as limitações operacionais da plataforma vigente para
+alteração do centro coordenador e do respectivo CEP.
+
+Os pareceres regularmente emitidos antes da entrada em vigor do Despacho permanecem
+plenamente válidos. A transição para o regime de análise ética única não exige ratificação das
+aprovações anteriores nem autoriza a reanálise integral do protocolo, tampouco exige a
+manifestação dos CEPs dos demais centros participantes. O CEP responsável deverá analisar a
+emenda e seus efeitos sobre o protocolo aprovado, inclusive eventuais repercussões sobre a
+relação risco-benefício, o consentimento e a proteção dos participantes. Essa avaliação deve
+se limitar às alterações propostas e aos aspectos do protocolo diretamente afetados por elas,
+sem reabrir matérias já regularmente analisadas e não modificadas.
+
+Após a decisão, o parecer sobre a emenda deverá ser comunicado aos centros participantes
+e, quando aplicável, aos respectivos CEPs, produzindo efeitos para todos os centros
+abrangidos pelo protocolo único.
+
+Excepcionalmente, se o CEP do centro coordenador originalmente cadastrado estiver
+impedido de atuar, tiver encerrado suas atividades ou não possuir credenciamento ou
+acreditação compatível com o risco da pesquisa, a definição do CEP responsável deverá
+observar as orientações da Inaep, sem que isso implique reanálise integral do protocolo.
+
+2.9 Quando o parecer ético único passa a produzir efeitos para os centros participantes?
+
+Resposta — Após a aprovação pelo CEP responsável pela análise única, a Plataforma Brasil
+replica o protocolo para os pesquisadores responsáveis pelos centros participantes. Cabe ao
+pesquisador responsável pelo respectivo centro realizar a submissão ao CEP de sua instituição,
+para fins de registro, ciência e acompanhamento local. Portanto, uma vez realizada a
+submissão, a aprovação ética única passa a abranger formalmente o centro participante, sem
+necessidade de emissão de novo parecer.
+
+                                                                   Página 5 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+É importante notar que o único protocolo válido para o estudo é aquele aprovado pelo CEP
+responsável pela análise ética única.
+
+2.10 Como deve ser realizada a inclusão ou a regularização de um centro participante na
+Plataforma Brasil?
+
+Resposta — A inclusão de novo centro participante deverá ser realizada por meio de emenda
+submetida ao CEP responsável pela análise ética única. O pesquisador-coordenador deverá
+incluir o centro no cadastro da pesquisa na Plataforma Brasil, inserir a documentação
+pertinente e submeter a emenda para análise.
+
+A avaliação do CEP responsável deverá se concentrar na inclusão do centro e em seus
+eventuais impactos éticos, especialmente quanto a:
+
+     à identificação da instituição e do pesquisador responsável local;
+     à adequação das informações locais do TCLE ou do Termo de Assentimento, quando
+
+         aplicável;
+     às condições específicas que possam afetar a proteção dos participantes; e
+     às alterações do protocolo ou de outros documentos decorrentes da inclusão.
+
+Após a aprovação da emenda, o pesquisador responsável local deverá realizar a submissão da
+emenda para fins de registro da pesquisa perante o CEP de sua instituição, conforme o
+procedimento descrito no item 2.8. Esse registro destina-se exclusivamente à ciência, à
+rastreabilidade e ao acompanhamento local, não constituindo nova submissão para análise
+ética.
+
+Documentos administrativos, contratuais ou integrantes do pacote regulatório exigido pelo
+patrocinador ou pela instituição deverão ser tratados nas instâncias competentes. Ainda que
+sejam inseridos na plataforma, sua apresentação não autoriza o CEP local a reexaminar o
+protocolo ou emitir nova aprovação ética.
+
+2.11. A análise ética única se aplica a todas as pesquisas multicêntricas ou apenas às
+pesquisas clínicas?
+Resposta — A análise ética única não se restringe às pesquisas clínicas. Ela se aplica às
+pesquisas envolvendo seres humanos que sejam multicêntricas, ou seja, executadas em
+diferentes centros de pesquisa, por mais de um pesquisador e sob um protocolo único. A regra
+decorre do art. 14, § 7º, da Lei nº 14.874/2024 e do art. 27 do Decreto nº 12.651/2025,
+alcançando as pesquisas com seres humanos de todas as áreas do conhecimento,
+consideradas suas especificidades.
+
+                                                                   Página 6 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+3 Autorização institucional e anuência
+
+3.1 A aprovação ética substitui a autorização da instituição participante?
+
+Resposta — Não. São avaliações diferentes e complementares. O CEP avalia os aspectos éticos
+do protocolo. A instituição verifica as condições administrativas, assistenciais e operacionais
+e decide sobre a realização da pesquisa em seu âmbito.
+
+A atividade somente poderá começar depois da aprovação ética pelo CEP competente e das
+autorizações institucionais aplicáveis. A avaliação administrativa não poderá reproduzir o
+julgamento ético já realizado.
+
+3.2 A carta de anuência é uma aprovação ética?
+
+Resposta — Não. A carta de anuência, ou documento institucional equivalente, formaliza a
+concordância administrativa da instituição com a realização da pesquisa. Ela não substitui o
+parecer do CEP e não autoriza o CEP vinculado ao centro participante a reapreciar o mérito do
+protocolo. Sua função é demonstrar que o responsável competente conhece as atividades que
+serão realizadas e concorda com seu desenvolvimento no âmbito institucional. O documento
+não transfere ao gestor a competência para aprovar o protocolo da pesquisa no âmbito ético.
+
+3.3 A anuência da instituição do centro coordenador deve integrar o dossiê inicial?
+
+Resposta — A carta de anuência formaliza autorização administrativa e, como regra, poderá
+ser obtida paralelamente à análise ética. Sua ausência não impedirá a apreciação do
+protocolo, salvo quando o documento contiver informação necessária à avaliação ética ou
+quando sua apresentação estiver expressamente prevista em norma aplicável. A pesquisa
+somente poderá começar depois da autorização da instituição competente. Contudo, é uma
+boa prática incluir a anuência do Centro Coordenador.
+
+3.4 É necessária a carta de anuência de todos os centros antes da submissão ética?
+
+Resposta — Não, como requisito geral. A anuência dos demais centros participantes não
+integra obrigatoriamente o dossiê inicial, salvo quando sua apresentação estiver prevista em
+ato normativo ou tiver pertinência com a matéria analisada, nos termos do art. 14, § 8º, da
+Lei nº 14.874/2024. A análise única recai sobre o protocolo e suas salvaguardas, e não sobre
+a conclusão prévia de todos os processos administrativos locais. Isso não dispensa cada
+instituição de autorizar a pesquisa antes do início de suas atividades.
+
+3.5 A ausência da anuência de um centro participante impede a análise ética?
+
+Resposta — Não, isoladamente. O centro poderá ser identificado no protocolo antes da
+apresentação de sua anuência. A instituição deverá, contudo, autorizar a realização da
+pesquisa antes do início de qualquer atividade naquele local. Essa solução permite que o CEP
+avalie o desenho multicêntrico completo e, ao mesmo tempo, preserva a competência
+administrativa das instituições participantes. Se a inclusão posterior modificar o protocolo ou
+a documentação aprovada, deverá seguir o fluxo de emenda.
+
+                                                                   Página 7 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+3.6 O contrato, o convênio ou o termo de adesão podem substituir a carta de anuência?
+
+Resposta — Sim. A capacidade dos centros para executar a pesquisa é eticamente relevante,
+pois condições inadequadas de equipe, infraestrutura, assistência ou segurança podem
+comprometer os direitos e o bem-estar dos participantes. Recomenda-se que o protocolo
+apresente, pelo menos para o centro coordenador, documento ou declaração institucional
+que demonstre sua concordância com a pesquisa e a disponibilidade de condições
+compatíveis com as atividades previstas.
+
+3.7 A instituição pode recusar a execução depois da aprovação ética?
+
+Resposta — Sim. A instituição preserva sua competência administrativa e pode não autorizar
+ou interromper atividades em seu âmbito quando ausentes as condições necessárias ou
+diante de risco imediato. Essa decisão não altera, por si só, o mérito do parecer ético, mas
+deverá ser comunicada quando repercutir na execução do protocolo. A recusa pode decorrer
+de insuficiência de infraestrutura, recursos humanos, capacidade assistencial, proteção de
+dados, condições contratuais ou outras limitações institucionais justificadas. Ela produz
+efeitos apenas no respectivo centro e não equivale à revogação do parecer ético para os
+demais locais.
+
+3.8 Qual o procedimento para registrar a interrupção não prevista do estudo em um
+centro de pesquisa?
+
+Resposta — O pesquisador responsável deve submeter ao CEP responsável pela análise única,
+via emenda, a alteração da lista de centros participantes, acompanhada de um relatório
+contendo o motivo do encerramento precoce, a situação dos participantes em relação às fases
+previstas no protocolo e a destinação dos dados e das amostras biológicas coletadas. O
+documento também deve estabelecer, se aplicável, o plano de encaminhamento para os que
+não finalizaram os procedimentos, a necessidade de eventual quebra de cegamento, a
+garantia de continuidade da assistência e do suporte integral aos que necessitarem, e as
+condições para o acesso aos benefícios do estudo, como exames e medicação pós-estudo,
+além de outras informações pertinentes ao caso.
+
+3.9 A instituição pode pedir uma manifestação técnica ao seu CEP antes de decidir
+participar?
+
+Resposta — Sim. Antes de formalizar sua adesão, a instituição pode consultar o CEP local para
+obter subsídios técnicos relacionados aos aspectos éticos do protocolo e às condições
+institucionais para sua execução. Conforme o Parecer nº 00392/2026/CONJUR-MS/CGU/AGU,
+essa manifestação possui natureza exclusivamente interna e consultiva. Não constitui nova
+análise ou aprovação ética, não afeta a validade do parecer único e não atribui ao CEP local
+função decisória no Sinep. Como esclarece o Parecer:
+
+                                                                   Página 8 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+“Tal atuação não se confundirá com reanálise ética, na medida em que não resultar em juízo
+sobre a validade do protocolo e da pesquisa, mas apenas subsidiar decisão institucional de
+aderir ou não à pesquisa.”.
+
+Por se tratar de consulta interna, sem natureza de análise ética ou de ato decisório do Sinep,
+a solicitação e a manifestação consultiva do CEP local não devem tramitar pela Plataforma
+Brasil, devendo ser formalizadas no fluxo administrativo interno da instituição.
+
+Após a formalização da adesão, a instituição e o CEP local não poderão exigir nova avaliação
+ética, revisar o protocolo aprovado nem estabelecer condicionantes éticas adicionais para o
+início da pesquisa. Nos termos do Parecer:
+
+“Uma vez formalizada a adesão à pesquisa, não é dado à instituição – tampouco ao seu CEP –
+condicionar o início da execução do estudo à realização de nova avaliação ética ou à revisão
+do protocolo inicialmente aprovado, sob pena de contrariar o regime de análise ética única
+previsto na Lei nº 14.874/2024.”.
+
+4 Papéis e responsabilidades
+
+4.1 Quais são as responsabilidades dos principais atores?
+
+Resposta — As responsabilidades devem ser interpretadas em conjunto com a Lei nº
+14.874/2024, o Decreto nº 12.651/2025 e o Despacho Inaep nº 3/2026, conforme o quadro
+abaixo.
+
+Ator                Responsabilidades principais                   Limites
+
+CEP responsável     Analisa protocolo e emendas; emite o           Não substitui
+pela análise ética  parecer único; avalia relatórios, denúncias    competências
+única               e eventos; e determina medidas de              administrativas,
+                    proteção, suspensão ou encerramento,           sanitárias, assistenciais
+                    quando cabíveis. Arts. 12, 14, § 7º, 16 e 55   ou contratuais.
+                    da Lei nº 14.874/2024.
+
+CEP vinculado ao    Acolhe participantes; recebe denúncias; Não reanalisa o
+Centro/Instituiçã   acompanha condições locais; comunica protocolo, não emite
+o participante      fatos relevantes; e recomenda medidas de segunda aprovação e não
+                    proteção, conforme o Despacho nº 3/2026. altera o parecer único.
+
+                    Verifica condições institucionais e, após o Realiza análise de mérito
+
+Instituição         parecer favorável, autoriza o início local. É no campo administrativo.
+participante ou
+executora           corresponsável pela condução e pela            Não realiza apreciação
+
+                    assistência relativa a complicações e danos. ética ou emite parecer
+
+                    Arts. 18, § 3º, inciso II, 26, § 3º, e 51 da Lei. sobre o tema.
+
+                                                                   Página 9 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+        Ator    Responsabilidades principais                       Limites
+Pesquisador
+coordenador     Coordena os centros; submete emendas;              A coordenação não afasta
+                consolida informações; encaminha                   as responsabilidades dos
+Pesquisador     relatório anual; e cumpre os arts. 16, 22,         demais atores.
+responsável no  34 e 53 da Lei.
+Centro/
+Instituição                                                        Não submete o protocolo
+
+Patrocinador    Submete o protocolo para ciência do CEP a nova aprovação local,
+
+                local quando replicado pela Plataforma             sendo a submissão
+
+                Brasil; Conduz o protocolo no seu respectivo somente para fins de
+
+                centro; protege participantes; mantém              registro e comunicação
+
+                registros; permite monitoramento e                 com o CEP pela PB, sem
+
+                inspeção; e comunica eventos graves ou prejuízo da comunicação
+
+                inesperados. Art. 27 da Lei.                       direta de riscos e
+
+                                                                   denúncias.
+
+                Seleciona instituições qualificadas; garante
+                recursos; mantém a integridade dos dados; A delegação não afasta
+                monitora; comunica achados de segurança; sua responsabilidade
+                e responde pela assistência e indenização. final. Art. 26, § 1º, da Lei.
+                Arts. 23, parágrafo único, e 26 da Lei.
+
+5 Consentimento e assentimento
+
+5.1 Quem analisa os Termos de Consentimento Livre e Esclarecido (TCLEs) e os Termos de
+Assentimento a serem aplicados nos centros participantes?
+
+Resposta — O CEP responsável pela análise ética única examina os TCLEs, os Termos de
+Assentimento e os demais materiais do processo de consentimento ou assentimento. Os CEPs
+vinculados aos centros participantes poderão colaborar com informações locais, mas não
+emitirão nova aprovação. A concentração da análise deve alcançar os elementos comuns e as
+diferenças eticamente relevantes, sem exigir a repetição de versões que mudem apenas dados
+cadastrais. Os subsídios locais devem ser apresentados de modo organizado, permitindo ao
+CEP distinguir adaptações administrativas de alterações que influenciem a decisão do
+participante.
+
+5.2 Todos os centros devem apresentar versões próprias do TCLE ou do Termo de
+Assentimento?
+
+Resposta — Não. Recomenda-se um modelo-base, acompanhado, quando necessário, de
+campos ou módulos locais delimitados. Não é necessária a submissão de versões distintas
+quando as diferenças se limitarem a dados cadastrais e não alterarem o núcleo ético
+aprovado. A análise ética única não exige que todos os participantes recebam documento
+
+                                                                               Página 10 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+materialmente idêntico: exige que os elementos comuns e as adaptações locais eticamente
+relevantes sejam examinados por um único CEP.
+
+5.3 Quando devem ser submetidas versões específicas?
+Resposta — Quando houver diferenças relevantes do recorte populacional, procedimentos,
+riscos, linguagem, responsabilidades ou salvaguardas. A versão aplicável deverá refletir as
+atividades efetivamente realizadas, e as diferenças deverão estar descritas no protocolo e
+destacadas ao CEP responsável. Nesses casos, a versão específica não representa duplicação
+burocrática, mas requisito de fidelidade ao processo de consentimento. O participante deve
+receber informações correspondentes às atividades, aos riscos e aos canais de assistência
+efetivamente disponíveis no local em que participa.
+
+5.4 O conteúdo dos termos deve ser idêntico em todos os centros?
+Resposta — Não necessariamente. Os elementos éticos comuns devem permanecer
+harmonizados, mas os termos poderão ser adaptados às características dos participantes e às
+atividades realizadas em cada local. A identidade absoluta dos termos pode ser inadequada
+quando os centros recrutam públicos distintos ou realizam etapas diferentes. A harmonização
+deve recair sobre o núcleo ético comum, enquanto as adaptações locais devem ser
+proporcionais, justificadas e claramente identificadas.
+
+5.5 Quais contatos devem constar no TCLE?
+Resposta — Nos termos do item V do Despacho Inaep nº 3/2026, devem constar de forma
+nítida o endereço, o telefone e o e-mail do CEP responsável pela análise ética única. O contato
+do CEP vinculado ao centro participante poderá ser incluído como canal complementar de
+acolhimento, sem gerar dúvida sobre a competência decisória.
+
+5.6 É obrigatório incluir o contato da Inaep no TCLE?
+Resposta — Não. A Lei nº 14.874/2024, o Decreto nº 12.651/2025 e o Despacho nº 3/2026
+não estabelecem essa exigência geral.
+
+O contato da Inaep poderá ser indicado como informação complementar, sem substituir os
+contatos do CEP responsável e da equipe de pesquisa.
+
+5.7 Telefone de atendimento ininterrupto e hospital de retaguarda são sempre
+obrigatórios?
+
+Resposta — Não, como exigência uniforme para todas as pesquisas. A necessidade desses
+recursos deverá considerar a natureza da pesquisa, os procedimentos, os riscos previsíveis, as
+condições dos participantes e a possibilidade de ocorrência de intercorrências fora do horário
+habitual de funcionamento do centro de pesquisa.
+
+A inexistência desses recursos somente será aceitável quando compatível com o risco da
+pesquisa e quando o protocolo demonstrar que os canais e as medidas de assistência
+propostos são suficientes para proteger os participantes. Em qualquer pesquisa que possa
+
+                                                                   Página 11 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+produzir intercorrências clínicas, o protocolo deverá apresentar plano de atendimento
+proporcional aos riscos identificados, indicando, conforme aplicável:
+
+     os sinais, sintomas ou situações que exigem contato com a equipe de pesquisa;
+     os canais e os horários de atendimento disponibilizados;
+     o profissional ou a equipe responsável pelas orientações e decisões clínicas;
+     os procedimentos para atendimento de urgência e emergência;
+     o serviço de saúde de referência ou a estrutura assistencial disponível;
+     o fluxo de encaminhamento e transporte, quando necessário;
+     as medidas para continuidade do cuidado;
+     a forma de registro, avaliação e comunicação das intercorrências e dos eventos
+
+         adversos; e
+     as responsabilidades do pesquisador, do patrocinador e da instituição pela assistência
+
+         relacionada à pesquisa.
+
+O telefone de atendimento ininterrupto é necessário quando os riscos da pesquisa puderem
+se manifestar a qualquer momento e demandarem orientação imediata da equipe, decisão
+clínica relacionada ao protocolo ou rápida articulação com serviço assistencial. O canal deverá
+ser efetivamente disponível, atendido por profissional capacitado ou conectado a fluxo que
+assegure resposta tempestiva. A indicação de número que funcione apenas em horário
+administrativo não atende à finalidade de proteção quando houver possibilidade de
+intercorrência fora desse período.
+
+O hospital de retaguarda, ou serviço assistencial equivalente, é necessário quando os
+procedimentos ou produtos investigados puderem produzir complicações agudas que
+ultrapassem a capacidade de atendimento do centro. A retaguarda poderá ser assegurada
+pela própria estrutura da instituição ou por serviço de referência formalmente definido, desde
+que haja capacidade compatível com os riscos, fluxo de encaminhamento viável e condições
+de atendimento em tempo oportuno. A exigência não deve ser reduzida à indicação genérica
+de um hospital nem pressupõe, em todos os casos, a celebração de instrumento específico; o
+arranjo apresentado deve ser suficiente e verificável.
+
+Nas pesquisas sem intervenção clínica ou naquelas em que os riscos não demandem
+assistência emergencial relacionada à pesquisa, poderão ser adotados canais e horários
+compatíveis com as necessidades previsíveis dos participantes. Ainda assim, deverão estar
+claramente informados os meios de contato com o pesquisador e com o CEP, bem como a
+orientação sobre como proceder diante de dúvida, dano ou intercorrência.
+
+Quando aplicáveis, o TCLE e os materiais entregues ao participante deverão informar, em
+linguagem clara:
+
+     quem deve ser procurado em caso de intercorrência relacionada à pesquisa;
+     telefone e demais canais de contato, com os respectivos horários;
+     onde e como será prestado o atendimento;
+     como proceder fora do horário de funcionamento do centro; e
+     que, diante de situação de urgência ou emergência, o participante deverá procurar
+
+         imediatamente o serviço de saúde apropriado, sem necessariamente aguardar contato
+         prévio com a equipe de pesquisa.
+
+                                                                                               Página 12 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+A avaliação ética deve verificar não apenas se o telefone ou o hospital foram nominalmente
+indicados, mas se o plano de atendimento é proporcional aos riscos, exequível no contexto
+local e capaz de garantir assistência tempestiva. Não se admite transferir ao participante os
+custos ou a responsabilidade pela organização da assistência necessária em decorrência de
+dano relacionado à pesquisa.
+
+Essa orientação decorre da obrigação de assegurar assistência à saúde em casos que envolvam
+intervenção, com fulcro no art. 3º, VIII, da Lei nº 14.874/2024, bem como da responsabilidade
+do patrocinador à indenização e a assistência à saúde necessária, relacionada a eventuais
+danos sofridos em decorrência da participação na pesquisa, à luz do art. 23, caput e parágrafo
+único, c/c art. 26, XV; da responsabilidade do patrocinador de garantir recursos adequados,
+inclusive para resolução de eventos adversos, nos termos do art. 26, inciso VI; da
+corresponsabilidade das instituições pela assistência integral, prevista no art. 26, § 3º; e das
+responsabilidades do pesquisador pelo acompanhamento clínico e pela proteção da
+segurança e do bem-estar dos participantes, previstas no art. 27, incisos V e XII, todos da Lei
+nº 14.874/2024.
+
+5.8 O TCLE ou o Termo de Assentimento pode ser submetido com campos administrativos
+em aberto?
+
+Resposta — Sim. O modelo base poderá conter campos delimitados para posterior
+preenchimento da identificação e dos contatos do pesquisador local, da instituição e do CEP,
+bem como do endereço e do local de atendimento. Esses campos não poderão compreender
+elementos essenciais à decisão do participante. O pesquisador-coordenador, o patrocinador
+e as instituições deverão manter mecanismo documentado de controle das versões utilizadas
+em cada centro, sem modificar o núcleo ético aprovado.
+
+5.9 Alterações administrativas ou gráficas do TCLE e do Termo de Assentimento precisam
+ser tramitadas via emenda?
+
+Resposta — Não, quando se limitarem a telefone, endereço, contato institucional, cabeçalho,
+rodapé, paginação, logomarca ou formatação e não modificarem nem ocultarem o conteúdo
+aprovado poderá ser tramitado via notificação (opção de classificação da notificação:
+“outros”). A tramitação poderá ser simultânea no CEP responsável pela análise única (para
+ciência) e no CEP local (neste último somente para fins de registro). Se afetarem a
+compreensão, a apresentação de riscos, direitos, procedimentos ou canais de assistência,
+deverão ser submetidas ao CEP responsável pela análise ética única via emenda.
+
+5.10 Os termos específicos de estudos aprovados antes do Despacho Inaep nº 3/2026 devem
+ser substituídos por um modelo-base único?
+
+Resposta — Não obrigatoriamente. Os termos regularmente aprovados permanecem válidos,
+desde que adequados à legislação e às condições atuais da pesquisa. Sua harmonização
+poderá ocorrer quando houver emenda que modifique o processo de consentimento,
+necessidade de atualização das informações aos participantes ou vantagem concreta para sua
+
+                                                                   Página 13 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+compreensão e proteção. A mera existência de versões locais anteriores não exige nova
+submissão nem obtenção de novo consentimento.
+
+6 Emendas e alterações
+
+6.1 Quais alterações devem ser submetidas como emenda?
+Resposta — Após o início da pesquisa, a alteração que interfira na relação risco-benefício ou
+na documentação aprovada deverá ser submetida, por escrito e com justificativa, pelo
+pesquisador-coordenador ao CEP responsável, conforme o art. 16 da Lei nº 14.874/2024. O
+critério é material, e não apenas formal. Mudanças capazes de afetar a decisão do
+participante, a avaliação de riscos, os procedimentos, as responsabilidades ou as salvaguardas
+exigem apreciação ética. Alterações puramente cadastrais podem seguir fluxo simplificado,
+desde que não modifiquem a documentação em seu conteúdo ético.
+
+6.2 Uma emenda pode ser implementada antes da aprovação?
+Resposta — Somente quando a segurança do participante depender de implementação
+imediata. Nos demais casos, a alteração deverá aguardar a aprovação do CEP, conforme o art.
+16, § 1º.
+
+6.3 Como tramitar uma alteração específica de um centro?
+
+Resposta — Emendas ao protocolo, mesmo que referentes a um centro participante, devem
+ser submetidas exclusivamente pelo pesquisador-coordenador ao CEP responsável pela
+análise única. A emenda deverá identificar:
+
+     o centro ao qual a alteração se aplica;
+     a justificativa da alteração;
+     os documentos afetados;
+     seus possíveis efeitos sobre os participantes; e
+     se a alteração possui ou não repercussão sobre os demais centros.
+
+Compete ao CEP responsável pela análise ética única avaliar a alteração e emitir o respectivo
+parecer. Quando a mudança for exclusivamente local, a decisão produzirá efeitos apenas para
+o centro identificado. Alterações semelhantes relativas a vários centros poderão ser
+consolidadas em uma única emenda.
+
+Na configuração atual da Plataforma Brasil, após a aprovação da emenda pelo CEP responsável
+pela análise ética única, a tramitação poderá ser replicada aos pesquisadores responsáveis
+pelos centros participantes. Quando o sistema exigir submissão aos respectivos CEPs para
+permitir tramitações posteriores, esses atos deverão ser realizados exclusivamente para
+registro, ciência e continuidade operacional na plataforma, nos mesmos moldes da análise
+única do projeto original.
+
+                                                                   Página 14 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+6.4 A inclusão de novo centro exige emenda?
+Resposta — Sim, a inclusão de um centro de pesquisa que ainda não integra o protocolo aprovado
+
+deverá ser realizada por emenda, apreciada pelo CEP responsável pela análise ética única. Após a
+aprovação, por questões de tramitação na atual Plataforma Brasil (PB), o pesquisador do novo
+centro a submeterá ao seu CEP, que emitirá um parecer exclusivamente para fins de registro, ou
+seja, sem nova análise ética. Quanto ao início das atividades do novo centro, caberá à instituição
+determinar quando ele poderá iniciar, visto que se trata de uma questão administrativa.
+
+6.5 O que fazer quando a alteração descaracteriza a pesquisa aprovada?
+Resposta — Não há definição normativa e atualizada sobre quando uma alteração
+“descaracteriza” a pesquisa. A utilização dessa expressão, sem critérios objetivos, pode
+resultar em decisões divergentes e na exigência indevida de apresentação de novo protocolo.
+O tema deverá ser disciplinado em orientação específica da Inaep.
+
+As modificações deverão ser avaliadas conforme seus efeitos sobre os objetivos, o desenho, a
+metodologia, a população, as intervenções, a relação risco-benefício e os documentos
+aprovados. A apresentação de novo protocolo somente deverá ser exigida quando houver
+critérios expressamente definidos em norma ou orientação da Inaep, não sendo suficiente a
+afirmação genérica de que a alteração “descaracteriza” a pesquisa.
+
+6.6 Alterações meramente cadastrais exigem nova análise?
+
+Resposta — Não. Alterações meramente cadastrais não exigem nova análise ética quando não
+modificarem o protocolo, os direitos dos participantes, as informações essenciais do
+consentimento, os procedimentos, os riscos, os benefícios, as responsabilidades ou as
+medidas de proteção previstas.
+
+Exemplos de situações que podem ser tratadas como alterações cadastrais, conforme o caso:
+
+     correção de erro material ou de digitação;
+     atualização de telefone, endereço eletrônico ou contato administrativo;
+     atualização da denominação institucional, sem mudança da instituição ou das
+
+         condições de realização da pesquisa;
+     correção ou atualização de dados de identificação que não altere responsabilidades; e
+     outras atualizações sem repercussão ética, científica, assistencial ou operacional sobre
+
+         a pesquisa.
+
+Na configuração atual da Plataforma Brasil, recomenda-se que a alteração seja encaminhada
+pelo pesquisador-coordenador como notificação, utilizando a classificação “Outros”,
+acompanhada de breve descrição da informação atualizada e, quando necessário, do
+documento correspondente.
+
+                                                                   Página 15 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+A notificação possui finalidade de registro, ciência e preservação da rastreabilidade. Portanto,
+não deverá ser tratada como emenda nem submetida a nova deliberação do CEP. O CEP
+responsável poderá verificar apenas se a modificação é efetivamente cadastral. Se identificar
+possível repercussão ética, deverá indicar, de forma fundamentada, a necessidade de
+apresentação de emenda.
+
+Quando a atualização disser respeito exclusivamente a um centro participante, o pesquisador
+responsável local deverá comunicá-la ao pesquisador-coordenador, a quem caberá realizar a
+notificação ao CEP responsável pela análise ética única.
+
+Não são classificadas como meramente cadastrais as alterações que envolvam, por exemplo:
+
+     substituição do pesquisador responsável ou mudança de responsabilidades;
+     inclusão, exclusão ou substituição de centro participante;
+     mudança do local de realização dos procedimentos;
+     alteração das condições de infraestrutura ou assistência;
+     modificação do recrutamento ou do processo de consentimento; ou
+     qualquer mudança capaz de afetar a segurança, os direitos ou o bem-estar dos
+
+         participantes.
+
+Essas situações deverão ser apresentadas como emenda e analisadas pelo CEP responsável
+pela análise ética única.
+
+6.7 Quem analisa as emendas de pesquisas multicêntricas?
+
+Resposta — As emendas são submetidas pelo pesquisador-coordenador ao CEP responsável
+pela análise ética única. O parecer sobre a emenda abrange os centros aos quais a alteração
+se aplica. O CEP vinculado ao centro participante não realiza nova análise; cabe-lhe receber as
+informações necessárias ao acompanhamento local, comunicar particularidades ou riscos e
+acompanhar a implementação da alteração aprovada. Quando a emenda se aplicar somente
+a determinado centro, o parecer deverá delimitar os centros abrangidos.
+
+7 Comunicações, segurança e acompanhamento
+
+7.1 A denominação “notificação” define o tratamento ético do documento?
+
+Resposta — Não. O conteúdo prevalece sobre o nome atribuído pelo sistema. Se o documento
+alterar o protocolo, a relação risco-benefício, o consentimento ou outra salvaguarda, deverá
+seguir o fluxo de emenda.
+
+7.2 A notificação precisa ser aprovada?
+
+Resposta — A comunicação destinada à ciência ou ao monitoramento não depende de
+
+aprovação. Quando o conteúdo exigir decisão ética, deverá ser encaminhado pelo
+
+procedimento correspondente, com decisão fundamentada do CEP responsável. A expressão
+
+“aprovação de notificação” deve ser evitada quando não houver conteúdo decisório. Se o
+
+                                                                   Página 16 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+documento apenas informa um fato, cabe registro e ciência; se contém alteração ética, deve
+ser tratado como emenda ou pelo procedimento específico aplicável.
+
+7.3 A quem devem ser comunicados os eventos adversos graves?
+
+Resposta — Os eventos adversos graves de qualquer centro envolvido no estudo deverão ser
+comunicados ao CEP que aprovou a pesquisa, nos termos do art. 55 da Lei nº 14.874/2024,
+sem aguardar manifestação prévia de outro CEP.
+
+Além disso, o art. 27, inciso X, determina ao pesquisador a pronta comunicação de todos os
+eventos adversos graves ou inesperados ao patrocinador e à autoridade sanitária. Essas
+comunicações não podem ser condicionadas ou aguardar a conclusão de um relatório
+consolidado.
+
+O CEP vinculado ao centro participante poderá reunir informações locais, acompanhar as
+providências adotadas e encaminhar ao CEP responsável sua avaliação ou recomendação. Essa
+manifestação possui natureza informativa e protetiva e não constitui parecer ético
+concorrente.
+
+Quando o evento ocorrer em centro participante, a instituição e o CEP a ela vinculado deverão
+ser informados simultaneamente sempre que essa ciência for necessária à assistência, à
+investigação do evento ou à adoção de medidas imediatas de proteção. A comunicação não
+poderá depender de tramitação sequencial entre os CEPs.
+
+Compete exclusivamente ao CEP responsável pela análise ética única avaliar as repercussões
+do evento sobre o protocolo e emitir decisão ética com efeitos para um, alguns ou todos os
+centros, inclusive quanto à necessidade de:
+
+     solicitar informações complementares;
+     modificar o protocolo ou os documentos aprovados;
+     interromper temporariamente o recrutamento;
+     suspender procedimentos ou intervenções;
+     comunicar os participantes; ou
+     suspender a pesquisa.
+
+Se houver divergência entre a manifestação do CEP local e a avaliação do CEP responsável,
+prevalecerá, no âmbito da análise ética, a decisão do CEP que aprovou a pesquisa. A
+divergência deverá ser registrada e encaminhada a esse CEP com as respectivas justificativas
+e evidências. Persistindo controvérsia relevante para a segurança dos participantes, a questão
+deve ser submetida à Inaep, sem prejuízo das medidas urgentes de proteção.
+
+A competência do CEP responsável pelo parecer único não impede que o pesquisador, a
+instituição ou o patrocinador suspendam imediatamente, no centro afetado, o recrutamento,
+
+                                                                   Página 17 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+a intervenção ou outro procedimento diante de risco grave ou iminente. Essas medidas não
+dependem de autorização ética prévia, mas deverão ser prontamente comunicadas ao CEP
+responsável, acompanhadas das justificativas e das providências adotadas.
+
+7.4 A adoção de medida urgente depende da análise prévia do CEP?
+
+Resposta — Não. Medidas imediatas necessárias à segurança do participante deverão ser
+adotadas e prontamente comunicadas às instâncias competentes.
+
+7.5 Todos os desvios e violações exigem análise individual?
+
+Resposta — Não. A forma de comunicação e avaliação poderá ser proporcional à natureza, à
+gravidade, à frequência, e às possíveis consequências da ocorrência. Entretanto, deve-se
+distinguir desvio de protocolo de violação do protocolo.
+
+Nos termos da Lei nº 14.874/2024, violação do protocolo é o desvio que pode comprometer
+a qualidade dos dados, a integridade da pesquisa ou a segurança ou os direitos dos
+participantes.
+
+Ocorrências semelhantes ou recorrentes poderão ser avaliadas de forma conjunta ou
+consolidada, quando cabível, desde que isso não prejudique a identificação de riscos nem
+retarde a adoção de medidas necessárias à proteção dos participantes.
+
+Desvios sem repercussões éticas relevantes poderão ser registrados e consolidados conforme
+o plano de monitoramento. As violações, por sua vez, permanecem sujeitas às obrigações de
+pronta comunicação previstas na legislação, ainda que sua avaliação possa ocorrer de forma
+conjunta com ocorrências semelhantes.
+
+7.6 Como devem ser encaminhadas as notificações referentes a desvios e violações de
+protocolo?
+
+Resposta — As notificações referentes a desvios e violações de protocolo,
+independentemente do centro em que tenham ocorrido, devem ser submetidas, na
+Plataforma Brasil, ao CEP responsável pela análise ética única, observadas as obrigações de
+comunicação previstas na legislação e nas normas aplicáveis. No fluxo da Plataforma Brasil,
+cabe ao pesquisador-coordenador realizar essa submissão e identificar claramente os centros
+envolvidos.
+
+Quando a ocorrência se der em centro participante, o CEP vinculado à respectiva instituição
+poderá ser informado paralelamente, por meio de notificação encaminhada pelo pesquisador
+responsável pelo centro, para ciência e acompanhamento local. Essa comunicação não
+substitui a submissão ao CEP responsável pela análise ética única.
+
+A ciência do CEP vinculado ao centro participante não exige manifestação, parecer ou
+
+deliberação sobre a ocorrência e não autoriza nova análise do mérito nem decisão ética
+
+concorrente sobre o protocolo. Eventuais manifestações do CEP participante necessárias
+
+                                                                   Página 18 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+exclusivamente à tramitação na Plataforma Brasil terão caráter operacional e não constituirão
+nova análise ou aprovação ética.
+
+Caso o CEP participante tome conhecimento de situação que demande medida local de
+proteção, deverá exercer as atribuições previstas no Despacho Inaep nº 3/2026 e realizar as
+comunicações cabíveis ao CEP responsável pela análise ética única e à Inaep.
+
+7.7 Como assegurar que os CEPs dos centros participantes tenham acesso às informações
+necessárias ao acompanhamento local?
+
+Resposta — O documento é analisado uma única vez; o compartilhamento com os CEPs locais
+ocorre para ciência, proteção e monitoramento, sem nova aprovação ética. As notificações,
+os relatórios, os eventos adversos graves, as violações e os demais documentos que possam
+produzir efeitos sobre o protocolo deverão ser submetidos ao CEP responsável pela análise
+ética única. Compete a esse CEP realizar a avaliação ética e emitir as decisões aplicáveis à
+pesquisa.
+
+O CEP vinculado ao centro participante deverá receber, para fins de ciência, registro e
+acompanhamento local:
+
+     eventos adversos graves ocorridos em seu centro;
+     desvios ou violações verificados localmente;
+     denúncias, reclamações ou riscos relacionados aos participantes de seu centro;
+     medidas de proteção adotadas pela instituição;
+     suspensões ou interrupções que afetem o centro; e
+     decisões do CEP responsável que produzam efeitos sobre as atividades locais.
+
+Os relatórios gerais, notificações agregadas e documentos sem repercussão específica sobre
+determinado centro não precisam ser novamente submetidos ao respectivo CEP local, salvo
+quando sua ciência for necessária à proteção dos participantes ou ao cumprimento de
+responsabilidade institucional.
+
+Enquanto a Plataforma Brasil não realizar o compartilhamento automático dessas
+informações, o pesquisador responsável local poderá submetê-las ao CEP de sua instituição
+exclusivamente para ciência e registro. Essa tramitação não constitui nova análise ética.
+
+O CEP local não deverá emitir parecer de aprovação, não aprovação, ratificação ou
+convalidação. Caso a Plataforma Brasil exija formalmente a emissão de parecer para concluir
+a tramitação, recomenda-se o emprego de manifestação padronizada, com o seguinte teor:
+
+Manifestação para registro e ciência: o CEP registra ciência do documento e da decisão
+emitida pelo CEP responsável pela análise ética única. Não foi realizada nova análise de
+mérito, e esta manifestação não constitui aprovação, ratificação ou convalidação ética.
+
+                                                                   Página 19 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+A manifestação local não poderá formular pendências, modificar a decisão central ou impedir
+seus efeitos. Se o CEP local identificar risco, violação ou informação nova relevante, deverá
+comunicá-la ao CEP responsável pela análise ética única, que decidirá sobre suas repercussões
+para o protocolo.
+
+7.8 Como deve ser classificada uma nova versão da Brochura do Investigador?
+
+Resposta — A classificação depende do conteúdo da atualização e de seus efeitos sobre a
+pesquisa e a documentação aprovada.
+
+Será submetida como emenda quando trouxer alterações que afetem o protocolo, o
+consentimento, as medidas de segurança, a relação risco-benefício ou outras salvaguardas.
+Será submetida como notificação quando não alterar tais elementos.
+
+O pesquisador-coordenador deverá apresentar uma síntese das mudanças e justificar a
+classificação adotada. A simples mudança do número ou da data da versão não determina,
+isoladamente, o fluxo aplicável.
+
+7.9 Como devem ser tratadas cartas de segurança, cartas de esclarecimento e outras
+comunicações do patrocinador?
+
+Resposta — O conteúdo e os efeitos do documento determinam o fluxo, e não o título
+atribuído pelo patrocinador ou pela plataforma. Safety Letters, Protocol Clarification Letters,
+Dear Investigator Letters e comunicações equivalentes serão registradas como notificações
+quando apenas informarem ou esclarecerem fatos. Serão submetidas como emenda quando
+modificarem procedimentos, responsabilidades, consentimento, medidas de segurança ou a
+relação risco-benefício. Informações que revelem risco imediato exigem a adoção das medidas
+necessárias à proteção, seguida de pronta comunicação.
+
+7.10 Como devem ser encaminhados os relatórios e demais documentos de
+acompanhamento?
+
+Resposta — Os relatórios parciais, anuais ou gerais devem ser apresentados ao CEP
+responsável pela análise única anualmente e sempre que solicitados, conforme o art. 27,
+inciso IX, da Lei 14.874/2024. O pesquisador-coordenador deverá encaminhar esses
+relatórios.
+
+Relatórios anuais ou gerais, desvios com relevância ética e documentos que possam repercutir
+sobre o protocolo deverão ser encaminhados ao CEP responsável pela análise ética única.
+Ocorrências exclusivamente locais devem ser registradas e comunicadas pelo pesquisador
+coordenador e ao CEP responsável pela análise única. Caso a ocorrência apresente relevância
+específica para o centro, o pesquisador local também deverá submetê-la ao CEP local para fins
+de ciência. Desvios administrativos sem repercussão ética poderão ser consolidados de forma
+periódica. Em regra, não há exigência de submissão duplicada a todos os CEPs participantes,
+ressalvadas as necessidades de acompanhamento local ou exigência técnica do sistema.
+
+                                                                   Página 20 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+7.11 Como o CEP vinculado ao centro participante realiza o acompanhamento local?
+
+Resposta — O acompanhamento poderá compreender o acolhimento de participantes e o
+recebimento de denúncias; a comunicação de eventos, riscos, violações e dificuldades locais;
+a verificação de fatos que indiquem descumprimento do protocolo aprovado; e a articulação
+com o pesquisador responsável, a instituição e o CEP responsável pela análise ética única. Será
+proporcional ao risco e não poderá reproduzir a análise ética, instituir aprovação periódica
+local nem criar exigências documentais sem fundamento normativo.
+
+7.12 Como se compatibiliza o fluxo de eventos adversos graves com a Carta Circular nº
+13/2020?
+
+Resposta — O evento adverso grave deverá ser comunicado tempestivamente ao CEP
+responsável pela análise ética única, nos termos do art. 55 da Lei nº 14.874/2024. O CEP
+vinculado ao centro e a instituição em que ocorreu o evento deverão ser informados
+simultaneamente, via notificação, quando necessário à assistência, à investigação, ao
+acompanhamento local ou à adoção de medidas de proteção, exclusivamente para fins de
+registro, de modo a preservar a unicidade da apreciação ética. Contudo, em situações que
+acarretem risco imediato aos participantes, o centro tem o dever de atuar prontamente para
+salvaguardar a segurança e o bem-estar dos envolvidos. O pesquisador-coordenador e o
+patrocinador deverão consolidar as informações de segurança do conjunto dos centros. A
+Carta Circular nº 13/2020 permanece aplicável apenas no que for compatível com a legislação
+e os atos posteriores, sem múltiplas análises do mesmo evento.
+
+7.13 A manifestação do CEP vinculado ao centro participante, exigida pela Plataforma Brasil
+após a aprovação ética única, precisa ser deliberada em reunião colegiada?
+
+Resposta — Não. Quando a manifestação for exigida exclusivamente para registro e conclusão
+da tramitação na Plataforma Brasil, e o protocolo já tiver parecer regularmente emitido pelo
+CEP responsável pela análise ética única, não se exige nova deliberação colegiada do CEP
+participante sobre o protocolo.
+
+Nessa situação, a manifestação possui caráter exclusivamente operacional e não constitui
+nova análise ética, ratificação, convalidação ou segunda aprovação. Recomenda-se utilizar o
+texto padrão proposto pela Inaep no Despacho nº 3, de 29 de maio de 2026, no item VII, alínea
+"a".
+
+O CEP participante deverá observar os procedimentos necessários para registro e ciência no
+âmbito do próprio Comitê, sem reabrir a análise do mérito científico, metodológico ou ético
+já apreciado pelo CEP responsável.
+
+                                                                   Página 21 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+7.14 Os materiais específicos de um centro devem ser encaminhados ao CEP responsável
+pela análise ética única?
+Resposta — Depende da natureza do material. Deverão ser encaminhados ao CEP responsável
+pela análise ética única, antes de sua utilização, os materiais específicos do centro que
+contenham conteúdo eticamente relevante, especialmente:
+
+     materiais de recrutamento;
+     informações dirigidas aos participantes;
+     adaptações locais do TCLE ou do Termo de Assentimento;
+     orientações assistenciais relacionadas à pesquisa;
+     modificações de procedimentos;
+     medidas adicionais de proteção; ou
+     alterações capazes de afetar direitos, segurança, bem-estar ou decisão de
+
+         participação.
+Esses materiais deverão ser apresentados como emenda quando modificarem conteúdo
+previamente aprovado.
+
+Documentos exclusivamente administrativos, institucionais ou cadastrais não precisam ser
+obrigatoriamente notificados, salvo quando houver exigência normativa ou operacional
+específica. Sua comunicação ao CEP será opcional quando destinada apenas a facilitar o
+registro, a rastreabilidade ou o acompanhamento local.
+
+Cartões de participante, formulários e materiais padronizados poderão ser aprovados como
+modelos-base. O posterior preenchimento de informações locais, como nome da instituição,
+endereço, telefone e contato da equipe, não exigirá nova análise, desde que:
+
+     o conteúdo aprovado seja integralmente preservado;
+     não sejam incluídas novas orientações ou afirmações;
+     não haja alteração das medidas de proteção; e
+     as informações inseridas sejam exclusivamente cadastrais.
+
+Quando houver dúvida sobre a natureza da modificação, o pesquisador poderá encaminhar o
+material como notificação para ciência e registro. Essa notificação, quando realizada, não
+implicará nova análise de mérito.
+
+8 Interlocução entre os CEPs
+
+8.1 Quando o CEP responsável pode consultar os CEPs participantes?
+
+Resposta — A comunicação entre o CEP responsável e os CEPs participantes constitui boa
+prática de cooperação e proteção dos participantes e deve ser estimulada ao longo da
+pesquisa.
+
+                                                                   Página 22 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+Antes do parecer final, a consulta é especialmente útil quando houver particularidades locais
+relevantes, como características socioculturais dos participantes, vulnerabilidades, condições
+assistenciais, estratégias de recrutamento ou riscos relacionados à execução naquele centro.
+
+A consulta tem natureza colaborativa. Não transfere a responsabilidade pela análise, não
+exige aprovação local e não autoriza decisões concorrentes.
+
+Após a aprovação, a comunicação deve continuar sempre que surgirem informações ou
+decisões capazes de afetar os centros e a proteção dos participantes.
+
+8.2 Deve ser concedido prazo fixo de cinco dias úteis para manifestação?
+
+Resposta — Recomenda-se, nos termos do Despacho Inaep nº 3/2026, que o CEP vinculado
+ao centro coordenador assegure aos CEPs dos centros participantes prazo de, no mínimo,
+cinco dias úteis para encaminhamento de considerações sobre vulnerabilidades específicas
+das populações envolvidas, particularidades regionais, aspectos socioculturais ou arranjos
+institucionais locais, antes da emissão do parecer final.
+
+Esse prazo constitui recomendação de boa prática destinada a tornar efetiva a interlocução
+entre os CEPs e a permitir que o conhecimento do contexto local contribua para a proteção
+dos participantes. Não se trata de prazo legal autônomo, de etapa adicional de análise ética
+ou de condição de validade do parecer único.
+
+A contagem do prazo deverá ocorrer a partir da disponibilização, ao CEP participante, das
+informações necessárias à compreensão das questões sobre as quais se solicita manifestação.
+A consulta deverá indicar, de maneira objetiva, os aspectos locais sobre os quais se espera
+contribuição, evitando o encaminhamento genérico do protocolo para nova análise integral.
+
+Durante esse período, o CEP participante poderá, por exemplo:
+
+ encaminhar manifestação escrita;
+ indicar vulnerabilidades ou riscos específicos do contexto local;
+ apresentar informações sobre condições institucionais ou assistenciais;
+ sugerir salvaguardas relacionadas à população ou ao centro; e
+ participar, mediante convite, da reunião do colegiado do CEP responsável pela análise
+
+    ética única, para dialogar com o relator e compartilhar experiências sobre as
+    particularidades locais.
+
+A manifestação do CEP participante tem natureza consultiva. Não constitui parecer de
+aprovação, não transfere a competência decisória, não autoriza a formulação de pendências
+diretamente ao pesquisador e não reabre a análise ética no centro participante. Compete ao
+CEP responsável pela análise ética única avaliar as contribuições recebidas e decidir sobre sua
+incorporação ao parecer.
+
+O prazo de cinco dias úteis deverá ser organizado dentro do prazo máximo de 30 dias úteis
+
+para a análise ética, previsto no art. 14 da Lei nº 14.874/2024. A consulta aos CEPs
+
+participantes não suspende nem interrompe esse prazo legal.
+
+                                                                   Página 23 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+Em situações de maior complexidade ou quando houver necessidade justificada de
+aprofundar questões locais relevantes, o CEP responsável poderá conceder prazo superior,
+desde que isso seja compatível com o prazo legal da análise e não comprometa a proteção
+dos participantes.
+
+A ausência de manifestação no prazo concedido:
+
+     não equivale à anuência ou à aprovação do CEP participante;
+     não permite presumir a inexistência de particularidades locais;
+     não impede o prosseguimento da análise ética única; e
+     não afasta a possibilidade de comunicação posterior de risco, denúncia ou fato local
+
+         relevante.
+
+Se a manifestação for recebida após o prazo, mas antes da deliberação final, recomenda-se
+que seja considerada sempre que houver viabilidade. Informações sobre risco relevante,
+violação de direitos ou necessidade de proteção deverão ser recebidas e avaliadas a qualquer
+tempo, inclusive após a aprovação da pesquisa.
+
+8.3 O silêncio do CEP participante significa anuência?
+
+Resposta — Não. A ausência de manifestação não impede o prosseguimento da análise única,
+mas não equivale a anuência nem permite presumir inexistência de riscos ou particularidades
+locais.
+
+8.4 Como proceder diante de risco grave ou iminente em um centro?
+
+Resposta — Ao tomar conhecimento, o CEP vinculado ao centro participante poderá
+recomendar à direção da instituição a interrupção imediata das atividades naquele local e
+deverá comunicar o fato ao CEP responsável e à Inaep, conforme o Despacho nº 3/2026. A
+interrupção administrativa local não se confunde com a suspensão ética do protocolo. Essa
+providência decorre do dever de proteção e do poder de gestão da instituição. Seus efeitos
+ficam restritos ao centro até que o CEP responsável avalie eventual repercussão sobre o
+protocolo e os demais locais.
+
+8.5 Como comunicar à Inaep possível descumprimento do regime de análise ética única?
+
+Resposta — Pesquisadores, participantes, patrocinadores, instituições, CEPs e demais
+interessados poderão utilizar os canais oficiais divulgados pela Inaep para comunicar
+repetição da análise ética, exigência de segunda aprovação, exigência documental sem
+fundamento normativo, recusa injustificada de recebimento de comunicação ou outro
+descumprimento. A comunicação deverá identificar, quando possível, o protocolo, os CEPs e
+as instituições envolvidos, descrever os fatos e apresentar os documentos disponíveis. A Inaep
+poderá solicitar esclarecimentos e adotar as medidas de orientação, supervisão ou apuração
+cabíveis. Canais de comunicação: Email: inaep.fiscalizacao@saude.gov.br e Ouvidoria-Geral
+
+do SUS – OuvSUS, disponível no link: https://www.gov.br/saude/pt-br/canais-
+deatendimento/ouvsus.
+
+                                                                   Página 24 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+9 Disposições transitórias e compatibilidade normativa
+
+9.1 As resoluções, normas operacionais, cartas circulares e orientações anteriores
+permanecem aplicáveis?
+Resposta — Não de forma automática ou integral. As normas do Conselho Nacional de Saúde
+permanecem aplicáveis somente naquilo que não contrariarem a Lei nº 14.874/2024, o
+Decreto nº 12.651/2025 e as normas supervenientes da Inaep. A ausência de revogação
+expressa não mantém aplicável disposição incompatível com o novo regime. Os atos e
+dispositivos superados poderão ser objeto de revogação expressa em processo de revisão ou
+consolidação normativa.
+
+Não se aplicam aos fluxos de pesquisas multicêntricas as disposições que determinem
+múltiplas análises do mesmo protocolo, atribuam ao CEP participante competência para
+emitir segunda aprovação ou criem etapas e requisitos incompatíveis com o regime de análise
+ética única. A revogação formal de atos anteriores deverá ocorrer por instrumento próprio,
+preservados os atos validamente praticados.
+
+10 Referências
+
+BRASIL. Lei nº 14.874, de 28 de maio de 2024. Dispõe sobre a pesquisa com seres humanos e
+institui o Sistema Nacional de Ética em Pesquisa com Seres Humanos.
+
+BRASIL. Decreto nº 12.651, de 7 de outubro de 2025. Regulamenta a Lei nº 14.874, de 28 de
+maio de 2024.
+
+BRASIL. Ministério da Saúde. Instância Nacional de Ética em Pesquisa. Despacho nº 3, de 29
+de maio de 2026. Estabelece diretrizes para a análise ética centralizada de pesquisas
+multicêntricas no âmbito do Sinep.
+
+BRASIL. Advocacia-Geral da União. Consultoria-Geral da União. Consultoria Jurídica junto ao
+Ministério da Saúde. Coordenação-Geral de Assuntos de Saúde. Parecer nº
+00392/2026/CONJUR-MS/CGU/AGU, de 23 de abril de 2026. Orientações quanto ao fluxo para
+análise ética de protocolos de pesquisa nos CEPs, em obediência à Lei nº 14.874/2024 e ao
+Decreto nº 12.651/2025.
+
+*o que mudou nesta versão (1.1, de 30/06/2026):
+1. Correção de identificação e fonte
+Na página 4 de 25, a figura apresentada não foi corretamente identificada e referenciada,
+foram incluídos, respectivamente:
+
+Figura 1. Papel do CEP local na análise ética única em pesquisas multicêntricas.
+
+Fonte: Inaep. Imagem gerada por Inteligência Artificial.
+
+2. Correção de pontuação                                           Página 25 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+Na página 14, na pergunta “Como tramitar uma alteração específica de um centro?”
+Onde se lê:
+“Emendas ao protocolo, mesmo que referentes a um centro participante devem ser
+submetidas exclusivamente pelo pesquisador-coordenador...”
+Leia-se:
+“Emendas ao protocolo, mesmo que referentes a um centro participante, devem ser
+submetidas exclusivamente pelo pesquisador-coordenador...”
+
+Na página 15, na pergunta “Alterações meramente cadastrais exigem nova análise?”
+Onde se lê:
+“Não, Alterações meramente cadastrais não exigem nova análise ética...”
+Leia-se:
+“Não. Alterações meramente cadastrais não exigem nova análise ética...”
+
+3. Correção de formatação
+Na página 13 de 25, a pergunta” 5.8 O TCLE ou o Termo de Assentimento pode ser submetido
+com campos administrativos em aberto?” não foi adequadamente destacada.
+
+4. Numeração
+
+Na página 20 de 25, a numeração dos itens foi alterada para a sequência correta de 7.8 em
+diante.
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 19/02/2026
+
+                                                                   Página 26 de 26
+
+Instância Nacional de Ética em Pesquisa (Inaep)
+Informe Técnico - Análise Ética Única em Pesquisas Multicêntricas
+Versão: 1.1, de 30/09/2026
+

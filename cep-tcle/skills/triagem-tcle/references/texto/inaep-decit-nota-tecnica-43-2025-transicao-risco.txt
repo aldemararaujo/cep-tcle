@@ -1,0 +1,674 @@
+                                                 Ministério da Saúde
+Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da
+
+                                                           Saúde
+                                   Departamento de Ciência e Tecnologia
+
+                       NOTA TÉCNICA Nº 43/2025-DECIT/SECTICS/MS
+
+1.    ASSUNTO
+
+1.1.  Orientações sobre a tramitação e a classiﬁcação de risco de pesquisas
+
+no âmbito do Sistema Nacional de Ética em Pesquisa com Seres Humanos (SINEP),
+
+visando à segurança jurídica, à conformidade ética e regulatória e à continuidade da
+
+prestação do serviço público, nos termos da Lei nº 14.874, de 28 de maio de 2024, e
+
+do Decreto nº 12.651, de 7 de outubro de 2025.
+
+2.    CONTEXTUALIZAÇÃO
+
+2.1.  A Lei nº 14.874/2024 e o Decreto nº 12.651/2025, que a regulamenta,
+
+estabeleceram novos parâmetros para a tramitação e o processo de análise ética de
+
+pesquisas envolvendo seres humanos. Entre esses parâmetros, destacam-se as
+
+modiﬁcações estruturais nas competências das instâncias de análise ética,
+
+representadas pelos Comitês de Ética em Pesquisa (CEPs), especialmente no que se
+
+refere à análise das pesquisas conforme a gradação dos riscos envolvidos.
+
+2.2.  Foram estabelecidas distinções de alçada nas competências atribuídas
+
+aos CEPs credenciados e àqueles acreditados perante o Sistema Nacional de Ética
+
+em Pesquisa com Seres Humanos (SINEP), nos termos da Lei nº 14.874/2024, de
+
+acordo com o grau de risco envolvido nas pesquisas.
+
+2.3.  O Decreto nº 12.651/2025 complementa as disposições legais ao definir
+
+a acreditação como o reconhecimento formal da capacidade técnica e operacional
+
+dos CEPs acreditados para a análise de pesquisas classificadas como de risco
+
+elevado, estabelecendo, ainda, que esses comitês se diferenciam de acordo com a
+
+complexidade das análises éticas que realizam.
+
+2.4.  Em decorrência disso, aos CEPs credenciados compete apenas a
+
+apreciação das pesquisas de risco baixo e moderado, enquanto aos CEPs
+
+acreditados é conferida a competência exclusiva para a análise das pesquisas de
+
+risco elevado, podendo, adicionalmente, avaliar estudos de outros graus de risco,
+
+conforme sua capacidade técnica e operacional.
+
+2.5.  Entretanto, a legislação não apresenta definição objetiva para o conceito
+
+de “risco elevado”. O que se depreende do Decreto nº 12.651/2025 é que a
+
+classificação deve decorrer de uma análise multidimensional, que considere, de
+
+forma equilibrada, os riscos e benefícios à saúde, à segurança, à dignidade e ao
+
+bem-estar dos participantes, em consonância com o interesse legítimo de avanço do
+
+conhecimento científico.
+
+      Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 1
+2.6.   Essa contextualização é especialmente relevante no atual período de
+
+transição normativa, em que as normas precedentes permanecem aplicáveis até a
+
+publicação das novas diretrizes complementares, assegurando a continuidade
+
+regulatória e evitando lacunas interpretativas. Tal mecanismo visa garantir a
+
+estabilidade institucional e a continuidade e a regularidade do serviço público
+
+prestado pela Administração, durante a consolidação do novo modelo.
+
+2.7.   Nesse contexto, o art. 39 do Decreto nº 12.651/2025 estabelece, de
+
+forma expressa, o regime de transição normativa entre o Sistema CEP/Conep e o
+
+SINEP, determinando que, até a edição de normas próprias, permanecem em vigor
+
+as normas do Conselho Nacional de Saúde (CNS), desde que não contrariem o
+
+disposto na Lei nº 14.874/2024 ou no referido Decreto.
+
+2.8.   Portanto, no que tange às competências estabelecidas e à sua relação
+
+com o período de transição normativa, destaca-se que a Comissão Nacional de Ética
+
+em Pesquisa (Conep/CNS/MS) detinha, até então, a atribuição de analisar protocolos
+
+de pesquisa enquadrados em áreas temáticas especiais, usualmente associados a
+
+risco elevado. Contudo, com a edição dos novos atos normativos que regulamentam
+
+a pesquisa com seres humanos e instituem o SINEP e a Instância Nacional de Ética
+
+em Pesquisa (INAEP), essa competência passou a ser exercida exclusivamente pelos
+
+CEPs acreditados, nos termos da legislação vigente.
+
+2.9.   Cumpre salientar que o atual processo de transição institucional pode,
+
+eventualmente, gerar apreensão e insegurança, dado a sensibilidade, os impactos e
+
+a relevância deste momento de reorganização administrativa e normativa.
+
+2.10.  Diante desse cenário, têm-se envidado esforços contínuos para
+
+assegurar o amparo legal, a continuidade e a integridade das análises éticas, de
+
+modo a minimizar impactos sobre pesquisadores, patrocinadores e, especialmente,
+
+sobre os participantes de pesquisa.
+
+2.11.  Nesse sentido, ressalta-se que tanto a Conep/CNS/MS quanto a
+
+Secretaria de Ciência, Tecnologia, Inovação e do Complexo Econômico-Industrial da
+
+Saúde (SECTICS/MS) têm atuado de forma conjunta e coordenada para garantir a
+
+manutenção das análises éticas e o andamento das atividades rotineiras,
+
+assegurando a proteção dos participantes de pesquisa e a continuidade das
+
+atividades essenciais.
+
+2.12.  Dessa forma, as medidas administrativas e operacionais pertinentes
+
+serão adotadas para assegurar uma transição institucional ordenada, mantendo-se a
+
+continuidade do serviço público prestado à sociedade, garantindo-se a integridade e
+
+o pleno funcionamento do SINEP.
+
+2.13.  Diante das mudanças introduzidas concernentes à gradação de risco e
+
+às competências de atuação das instâncias de análise ética, torna-se necessária a
+
+edição de orientações transitórias específicas para o tratamento das pesquisas
+
+anteriormente submetidas à Conep e aos CEPs, que eventualmente ainda aguardem
+
+apreciação ética, bem como daquelas que venham a ser apresentadas durante o
+
+período de transição institucional.
+
+       Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 2
+2.14.  Dessa forma, as pesquisas classificadas como de risco elevado já
+
+protocoladas e as que vierem a ser submetidas até a edição de nova diretriz deverão
+
+ser encaminhadas aos CEPs acreditados, observando-se o novo fluxo de análise
+
+ética definido pela Lei nº 14.874/2024 e pelo Decreto nº 12.651/2025.
+
+3.     CEPS ACREDITADOS, SUAS ATRIBUIÇÕES E COMPETÊNCIAS
+
+3.15.  A acreditação dos Comitês de Ética em Pesquisa (CEPs), nos termos do
+
+art. 19 do Decreto nº 12.651/2025, constitui reconhecimento formal de capacidade
+
+técnica e operacional, conferido aos comitês acreditados.
+
+3.16.  Esse procedimento tem por finalidade habilitar os CEPs acreditados a
+
+realizarem a análise ética de protocolos de pesquisa classificados como de risco
+
+elevado, podendo, igualmente, deliberar sobre pesquisas de risco baixo e moderado,
+
+conforme sua competência técnica e operacional e demais matérias afetas às suas
+
+competências.
+
+3.17.  A acreditação representa um marco de qualificação institucional e
+
+descentralização responsável dentro do SINEP, conferindo aos comitês acreditados
+
+autonomia técnica ampliada, maior poder decisório e responsabilidade reforçada na
+
+proteção dos participantes de pesquisa.
+
+3.18.  Esses CEPs tornam-se, assim, instâncias estratégicas da governança
+
+ética nacional, atuando em estreita articulação com a INAEP e o Ministério da Saúde
+
+para assegurar celeridade, qualidade e uniformidade procedimental nas análises e
+
+no acompanhamento das pesquisas científicas envolvendo seres humanos.
+
+3.19.  Os CEPs acreditados assumem, ainda, a atribuição de monitorar,
+
+acompanhar e zelar pela execução das pesquisas sob sua responsabilidade,
+
+garantindo o cumprimento dos preceitos éticos, a transparência processual e a
+
+integridade científica dos estudos. Devem, igualmente, promover o diálogo
+
+permanente com os pesquisadores e instituições proponentes, fortalecendo a
+
+cultura de conformidade e a confiança pública na pesquisa científica.
+
+3.20.  Atualmente, oito Comitês de Ética encontram-se acreditados,
+
+representando centros de excelência técnico-científica e referência nacional em
+
+ética da pesquisa:
+
+    0082 – Centro Universitário FMABC. UF: SP. Município: Santo André.
+
+    5432 – Fundação Antônio Prudente - A.C. Camargo Cancer Center. UF: SP.
+    Município: São Paulo.
+
+    5462 – Instituto Dante Pazzanese de Cardiologia (IDPC). UF: SP. Município: São
+    Paulo.
+
+    0071 – Hospital Israelita Albert Einstein (HIAE). UF: SP. Município: São Paulo.
+
+    0068 – Hospital das Clínicas da Faculdade de Medicina da Universidade de São
+    Paulo (HCFMUSP). UF: SP. Município: São Paulo.
+
+    5415 – Faculdade de Medicina de São José do Rio Preto – FAMERP. UF: SP.
+    Município: São José do Rio Preto.
+
+    8083 – Faculdade Ceres - FACERES. UF: SP. Município: São José do Rio Preto.
+
+    CEP 5411 - Faculdade de Medicina de Botucatu (FMB). UF: SP. Município:
+
+               Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 3
+    Botucatu.
+
+3.21.  Saliente-se que a transição do Sistema CEP/Conep para o SINEP implica
+
+mudanças estruturais signiﬁcativas, sobretudo para os CEPs acreditados, que
+
+passam a exercer papel central na análise ética das pesquisas de risco elevado.
+
+3.22.  Essa nova configuração amplia as responsabilidades técnicas e
+
+institucionais desses comitês, que deverão recepcionar, avaliar e acompanhar as
+
+pesquisas sob sua alçada, observando o rigor ético e regulatório exigido, de modo a
+
+assegurar a proteção dos participantes e a continuidade segura das atividades
+
+científicas no país.
+
+4.     CLASSIFICAÇÃO DE RISCO DOS PROTOCOLOS DE PESQUISA
+
+4.23.  A classiﬁcação de risco dos protocolos de pesquisa orienta a atuação das
+
+instâncias que compõem o SINEP e constitui fundamento para a adoção de critérios
+
+proporcionais de análise ética, conforme o impacto potencial das intervenções.
+
+4.24.  Para garantir um processo de transição institucional eficaz e fazer
+
+cumprir as competências de instância de análise ética prevista para os CEPs
+
+credenciados e os CEPs acreditados, considerando as limitações técnico-
+
+operacionais atualmente vigentes, torna-se necessário implementar, gradualmente,
+
+novos procedimentos a serem adotados e observados, por CEPs e pesquisadores,
+
+durante a submissão e tramitação dos protocolos de pesquisa.
+
+4.25.  Com relação especificamente à definição do grau de risco das pesquisas,
+
+entende-se que, durante o período de transição, particularmente no período de
+
+atuação do Grupo de Trabalho Temporário (GTT) - previsto no artigo 38 do Decreto
+
+nº 12.651/2025 e instituído e nomeado, respectivamente, pela Portaria SECTICS/MS
+
+nº 85, de 14 de outubro de 2025, e pela Portaria de Pessoal SECTICS/MS nº 31, de 24
+
+de outubro de 2025 - inexistem condições gerenciais e operacionais para a
+
+implementação imediata das diretrizes estabelecidas no artigo 20 do Decreto nº
+
+12.651/2025.
+
+4.26.  Por uma perspectiva gerencial, entende-se que para uma
+
+implementação ordenada é imprescindível que haja: i) definições inteligíveis e
+
+passíveis de serem aplicadas de forma razoavelmente homogênea pelos CEPs; ii)
+
+amplo trabalho educativo e de difusão de conhecimento voltado para CEPs e
+
+comunidade científica sobre os critérios para classificação de risco da pesquisa e a
+
+consequência do nível de risco para a tramitação do protocolo nos CEPs. Para
+
+atendimento de ambos, espera-se que o GTT e a uma Inaep estabelecida possam
+
+planejar, articular e executar ações que aproximem o SINEP da implementação
+
+integral da classificação de risco, conforme as diretrizes do Decreto nº 12.651/2025.
+
+Com relação às condições necessárias para a operacionalização, destaca-se a
+
+necessidade de uma ferramenta tecnológica que atenda aos requisitos necessários à
+
+tramitação ética dos protocolos de pesquisa de risco elevado, em observância a Lei
+
+e ao Decreto, a saber: i) classificação do risco da pesquisa no momento da
+
+submissão pelo pesquisador responsável; ii) direcionamento automático do protocolo
+
+de pesquisa de risco elevado para CEP acreditado.
+
+4.27.  Com base nessas limitações, propõe-se que, durante o período de
+
+transição e até o atendimento das necessidades descritas, para garantir a
+
+continuidade e a legitimidade das análises éticas realizadas pelos CEPs, sejam
+
+considerados de risco elevados os protocolos de pesquisa passíveis de serem
+
+               Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 4
+classificados como de área temática, tendo em conta o disposto na Resolução CNS
+nº 466, de 12 de dezembro de 2012 e na Carta Circular nº.
+172/2017/CONEP/CNS/MS, datada de 20 de abril de 2017. Essa proposição se
+justifica com base tantos nos aspectos gerenciais e operacionais já descritos, seja
+pelo amplo esforço dispendido a cerca de 13 anos para assegurar o entendimento
+conceitual dos critérios aplicáveis para classificação de área temática; seja pelo fato
+de que atualmente a Plataforma Brasil - ferramenta tecnológica usada para a
+tramitação ética dos protocolos de pesquisa - está configurada para, no momento da
+submissão do protocolo de pesquisa por parte do pesquisador responsável, fazer a
+classificação automática do protocolo como pertencente ou não a alguma área
+temática.
+
+4.28.  Do ponto de vista histórico-normativo, é pertinente registrar que o item
+
+IX.4 da Resolução CNS nº 466, de 12 de dezembro de 2012, definiu que competia à
+
+Conep “analisar protocolos de pesquisa envolvendo seres humanos, emitindo
+
+parecer, devidamente justificado, sempre orientado, dentre outros, pelos princípios
+
+da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência,
+
+dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que
+
+resultem em morosidade na análise”, sendo de sua responsabilidade a dupla análise
+
+de pesquisas das seguintes áreas:
+
+           1. genética humana, quando o projeto envolver:
+           1.1. envio para o exterior de material genético ou qualquer material biológico
+           humano para obtenção de material genético, salvo nos casos em que houver
+           cooperação com o Governo Brasileiro;
+           1.2. armazenamento de material biológico ou dados genéticos humanos no
+           exterior e no País, quando de forma conveniada com instituições estrangeiras
+           ou em instituições comerciais;
+           1.3. alterações da estrutura genética de células humanas para utilização in
+           vivo;
+           1.4. pesquisas na área da genética da reprodução humana (reprogenética);
+           1.5. pesquisas em genética do comportamento; e
+           1.6. pesquisas nas quais esteja prevista a dissociação irreversível dos dados
+           dos participantes de pesquisa;
+
+           2. reprodução humana: pesquisas que se ocupam com o funcionamento do
+           aparelho reprodutor, procriação e fatores que afetam a saúde reprodutiva de
+           humanos, sendo que nessas pesquisas serão considerados “participantes da
+           pesquisa” todos os que forem afetados pelos procedimentos delas. Caberá
+           análise da CONEP quando o projeto envolver:
+           2.1. reprodução assistida;
+           2.2. manipulação de gametas, pré-embriões, embriões e feto; e
+           2.3. medicina fetal, quando envolver procedimentos invasivos;
+           3. equipamentos e dispositivos terapêuticos, novos ou não registrados no País;
+           4. novos procedimentos terapêuticos invasivos;
+           5. estudos com populações indígenas;
+           6. projetos de pesquisa que envolvam organismos geneticamente modiﬁcados
+           (OGM), células-tronco embrionárias e organismos que representem alto risco
+           coletivo, incluindo organismos relacionados a eles, nos âmbitos de:
+           experimentação, construção, cultivo, manipulação, transporte, transferência,
+
+       Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 5
+                   importação, exportação, armazenamento, liberação no meio ambiente e
+                   descarte;
+
+                   7. protocolos de constituição e funcionamento de biobancos para ﬁns de
+                   pesquisa;
+
+                   8. pesquisas com coordenação e/ou patrocínio originados fora do Brasil,
+                   excetuadas aquelas com copatrocínio do Governo Brasileiro; e
+
+                   9. projetos que, a critério do CEP e devidamente justiﬁcados, sejam julgados
+                   merecedores de análise pela CONEP;
+
+4.29.  Para operacionalização imediata e contínua do serviço público, importa
+
+destacar que, conforme disposto na Decreto nº 12.651/2025, as normas do Conselho
+
+Nacional de Saúde, que não contrariarem o disposto na Lei nº 14.874/2024,
+
+permanecem válidas (art. 39), porém, a mesma norma prevê que a Conep
+
+continuará a atuar apenas como instância recursal, e somente até a posse dos
+
+membros da Instância Nacional de Ética em Pesquisa (art. 40). Esses comandos
+
+normativos teriam o objetivo de assegurar continuidade do sistema e estabilidade
+
+na transição de competências.
+
+4.30.  No Anexo I desta Nota Técnica se encontra a Carta Circular Conep nº
+
+172/2017, onde se detalha os critérios para classificação de um protocolo de
+
+pesquisa como pertencente às áreas temáticas estabelecidas pela Resolução CNS nº
+
+466/2012 e no Anexo II é descrito em linhas gerais a organização do fluxo de
+
+distribuição dos protocolos de pesquisa de risco elevado que chegaram à Conep/CNS
+
+via Plataforma Brasil e que serão encaminhados para análise junto as CEPs
+
+acreditados.
+
+5.     ORIENTAÇÕES SOBRE O PROCEDIMENTO OPERACIONAL PARA
+
+TRAMITAÇÃO E DIRECIONAMENTO AOS CEPS ACREDITADOS
+
+5.31.  Considerando as limitações operacionais da Plataforma Brasil¹ para a
+
+tramitação eletrônica dos protocolos de pesquisa com seres humanos,
+
+especialmente a limitação de recursos tecnológicos que permitam a implementação
+
+imediata e a classiﬁcação automática do grau de risco dos protocolos, propõe-se um
+
+plano de implementação por fase.
+
+5.32.  Nesse sentido, inicialmente, a SECTICS/MS deverá priorizar os protocolos
+
+de pesquisa de área temática aprovados por CEP credenciado e que aguardam
+
+emissão de novo parecer. Utilizando como embasamento as diretrizes de
+
+classificação de risco descritas na Resolução CNS nº 466/2012, serão verificados
+
+todos os protocolos de pesquisa que podem ser associados a um ou mais dos
+
+critérios presentes na norma.
+
+5.33.  Como segunda etapa do plano de implementação, propõe-se a
+
+ampliação do esforço de classificação de risco para além dos protocolos de área
+
+temática. Para tanto, será necessário: aprimorar e pormenorizar os critérios de
+
+classificação de risco elevado; promover amplo trabalho de comunicação e
+
+orientação direcionado aos CEPs e a comunidade científica sobre os critérios de
+
+classificação; instituir procedimentos específicos para identificação e
+
+direcionamento dos protocolos de risco elevado para os CEPs acreditados; e oferecer
+
+suporte técnico aos CEPs acreditados para o atendimento da demanda de protocolos
+
+de risco elevado.
+
+5.34.  Imperioso frisar que a tramitação dos protocolos classificados como de
+
+risco elevado junto aos Comitês de Ética em Pesquisa acreditados permanece
+
+observando o disposto no art. 17 da Resolução CNS nº 506, de 3 de fevereiro de
+
+              Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 6
+2016, uma vez que o Decreto nº 12.651/2025 reconhece a validade das normas
+preexistentes compatíveis com a Lei nº 14.874/2024 e com seu regulamento.
+
+5.35.  Ainda, vale destacar que o conjunto de protocolos de pesquisa de área
+
+temática a serem verificados pela equipe técnica da SECTICS/MS não constitui um
+
+passivo fixo e limitado, uma vez que, diariamente, novos protocolos de área
+
+temática, nos termos do item IX.4 da Resolução CNS nº 466 de 12 de dezembro de
+
+2012, são aprovados, tanto por CEPs acreditados quanto por CEPs credenciados.
+
+Deste modo, até que a Plataforma Brasil seja atualizada para refletir as alterações
+
+introduzidas pela Lei nº 14.874/2024 e pelo Decreto nº 12.651/2025, o processo de
+
+classificação dos protocolos será realizado pela equipe técnica, até a edição de
+
+novas diretrizes e normativas pela Inaep.
+
+5.36.  Destaca-se, ainda, que a implementação dessas medidas não implica em
+
+conflito com as determinações constantes das Resoluções do Conselho Nacional de
+
+Saúde relativas à ética em pesquisa envolvendo seres humanos.
+
+6.     CONSIDERAÇÕES FINAIS
+
+6.37.  A transição do Sistema CEP/Conep para o SINEP implica mudanças
+
+estruturais importantes, especialmente no que se refere à avaliação de pesquisas de
+
+elevado risco e a definição das instâncias responsáveis por sua apreciação ética.
+
+6.38.  Essa nova configuração reforça o princípio da descentralização
+
+qualificada e aprimora a governança das análises éticas, assegurando maior
+
+eficiência, especialização e uniformidade nas deliberações.
+
+6.39.  Nesse sentido, para assegurar o amparo legal, a continuidade e a
+
+integridade das análises éticas, de modo a minimizar impactos sobre pesquisadores,
+
+patrocinadores e, especialmente, sobre os participantes de pesquisa, todos os
+
+protocolos classificados como de risco elevado deverão ser direcionados a um dos
+
+oito CEPs acreditados para análise ética, em conformidade com as competências
+
+estabelecidas pela Lei nº 14.874/2024 e seu decreto regulamentador.
+
+6.40.  Já os protocolos que não se enquadrarem na classificação de risco
+
+elevado deverão ser devolvidos aos pesquisadores, mantendo-se o parecer
+
+previamente emitido pelo CEP de origem, resguardando-se, assim, a segurança
+
+jurídica e a continuidade processual.
+
+6.41.  No caso de protocolos de risco elevado que tenham sido analisados e
+
+aprovados por CEP acreditado, será igualmente realizada a devolução ao CEP,
+
+preservando-se o parecer ético emitido e a validade da decisão proferida pela
+
+instância competente.
+
+                                             MEIRUZE SOUSA FREITAS
+                          Diretora do Departamento de Ciência e Tecnologia
+
+                                                   Decit/SECTICS/MS
+
+                                    ANA LÚCIA SILVA MARÇAL PADUELLO
+             Coordenadora da Comissão Nacional de Ética em Pesquisa - CONEP
+
+REFERÊNCIAS
+BRASIL. Decreto nº 12.651, de 7 de outubro de 2025. Regulamenta a Lei nº 14.874,
+de 28 de maio de 2024, que dispõe sobre o Sistema Nacional de Ética em Pesquisa
+
+                              Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 7
+com Seres Humanos (SINEP) e dá outras providências. Diário Oﬁcial da União,
+
+Brasília,   DF,           7  out.  2025.            Disponível               em:
+
+http://www.planalto.gov.br/ccivil_03/_Ato2025-2028/2025/Decreto/D12651.htm.
+
+Acesso em: 15 out. 2025.
+
+BRASIL. Lei nº 14.874, de 28 de maio de 2024. Dispõe sobre a pesquisa com seres
+
+humanos e institui o Sistema Nacional de Ética em Pesquisa com Seres Humanos.
+
+Disponível       em:         https://www.planalto.gov.br/ccivil_03/_ato2023-
+
+2026/2024/lei/l14874.htm. Acesso em: 15 out. 2025.
+
+BRASIL. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de
+Ética em Pesquisa. Resolução CNS nº 466, de 12 de dezembro de 2012. Disponível
+e m : http://bvsms.saude.gov.br/bvs/saudelegis/cns/2013/res0466_12_12_2012.html.
+Acesso em: 15 out. 2025.
+
+BRASIL. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de
+Ética em Pesquisa. Resolução CNS nº 506, de 03 de fevereiro de 2016. Disponível
+em:
+https://bvsms.saude.gov.br/bvs/saudelegis/cns/2016/res0506__03_02_2016.html.
+Acesso em: 15 out. 2025.
+
+BRASIL. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de
+Ética em Pesquisa. Resolução CNS nº 304, de 09 de agosto de 2000. Disponível em:
+https://www.gov.br/conselho-nacional-de-saude./pt-br/atos-
+normativos/resolucoes/2000/resolucao-no-304.pdf/@@download/file. Acesso em: 15
+out. 2025.
+
+BRASIL. Ministério da Saúde. Conselho Nacional de Saúde. Comissão Nacional de
+Ética em Pesquisa. Carta Circular nº 172, de 20 de abril de 2017. Disponível em:
+https://www.gov.br/conselho-nacional-de-saude./pt-br/atos-
+normativos/resolucoes/2000/resolucao-no-304.pdf/@@download/file. Acesso em: 15
+out. 2025.
+
+ANEXOS
+
+Anexo I - Carta Circular Conep nº 172/2017 (SEI 0051736694)
+
+Anexo II - Descrição do ﬂuxo e organização da tramitação das pesquisas de
+risco elevado.
+
+                 Todo protocolo de pesquisa de área temática (“área temática” e “risco
+elevado” serão utilizados de maneira intercambiável neste Anexo) que não for
+protocolo de desenvolvimento de biobanco, que não for protocolo de pesquisa que
+tenha o Ministério da Saúde como instituição proponente e que estiverem em
+situação de recurso (i.e. protocolo que recebeu parecer de “Não aprovado” e o
+pesquisador requisitou recurso junto à instância superior dentro do prazo de 30
+dias), necessariamente, deverá ser analisado por CEP Acreditado. O direcionamento
+do protocolo de pesquisa ao CEP Acreditado poderá ocorrer de três formas distintas:
+i) protocolo de pesquisa direcionado automaticamente ao CEP Acreditado, devido ao
+fato de a instituição proponentes estar vinculada ao CEP na Plataforma Brasil; ii)
+protocolo de pesquisa transferido ao CEP Acreditado antes de ser analisado por CEP
+Credenciado; iii) protocolo de pesquisa transferido ao CEP Acreditado depois de ser
+analisado por CEP Credenciado.
+
+                 Os casos previstos no item III (“protocolo de pesquisa transferido ao CEP
+Acreditado depois de ser analisado por CEP Credenciado”) são o objeto desta Nota
+Técnica e englobam os protocolos que foram direcionados pela Plataforma Brasil a
+Comissão Nacional de Ética em Pesquisa (Conep/CNS) e que não foram analisados
+
+                              Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 8
+ pela Comissão. Respeitando o que estabelece a Lei nº 14.874, de 28 de maio de
+ 2024 e no Decreto nº 12.651, de 7 de outubro de 2025, torna-se necessário o
+ direcionamento dos protocolos de pesquisa para análise por CEP Acreditado. Para
+ todos os protocolos de pesquisa nessa situação, será adotado o ﬂuxo descrito na
+ Imagem 1.
+
+Imagem – Fluxo de tramitação dos protocolos de pesquisa transferidos aos
+CEPs Acreditados
+
+                 * Ressalta-se que a Nota Técnica que será elaborada e anexada ao
+documento do protocolo de pesquisa, quando da transferência ao CEP Acreditado,
+deverá servir de subsídio ao processo de análise ética, não sendo substituta ao
+parecer elaborado pelo membro relator e pelo colegiado do CEP.
+
+Documento assinado eletronicamente por Meiruze Sousa Freitas, Diretor(a) do
+Departamento de Ciência e Tecnologia, em 12/11/2025, às 17:26, conforme
+horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº
+10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março
+de 2017.
+
+Documento assinado eletronicamente por Ana Lúcia Silva Marçal Paduello,
+Coordenador(a) da Comissão Nacional de Ética em Pesquisa, em
+12/11/2025, às 17:39, conforme horário oficial de Brasília, com fundamento no §
+3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código
+verificador 0051734309 e o código CRC EFE7C869.
+
+Referência: Processo nº 25000.192788/2025-69                   SEI nº 0051734309
+
+                                            Departamento de Ciência e Tecnologia - DECIT
+SRTVN 701, Lote D Via W3 Norte, Edifício PO 700, 5º Andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+
+                                                                  Site - saude.gov.br
+
+Nota Técnica 43 (0051734309) SEI 25000.192788/2025-69 / pg. 9
+

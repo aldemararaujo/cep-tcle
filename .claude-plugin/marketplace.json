@@ -1,0 +1,15 @@
+{
+  "name": "cep-tcle-local",
+  "description": "Marketplace local com o plugin CEP - TCLE de triagem ética de TCLEs.",
+  "owner": {
+    "name": "Aldemar A Castro"
+  },
+  "plugins": [
+    {
+      "name": "cep-tcle",
+      "source": "./cep-tcle",
+      "description": "Assistente de triagem ética de TCLEs de pesquisas com seres humanos no Brasil.",
+      "version": "1.2.0"
+    }
+  ]
+}

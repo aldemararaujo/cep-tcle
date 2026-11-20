@@ -1,0 +1,441 @@
+                                 Ministério da Saúde
+      Secretaria de Ciência, Tecnologia e Inovação em Saúde
+
+                  Departamento de Ciência e Tecnologia
+
+            NOTA TÉCNICA Nº 1/2026-DECIT/SCTIE/MS
+
+1.    ASSUNTO
+
+1.1.  Orientações acerca da tramitação de protocolos de pesquisa com seres
+
+humanos, da deﬁnição de competências no âmbito do Sistema Nacional de Ética em
+
+Pesquisa com Seres Humanos, da análise ética de protocolos com o Ministério da
+
+Saúde como instituição proponente, da prorrogação excepcional do credenciamento
+
+dos Comitês de Ética em Pesquisa e dos procedimentos aplicáveis a biobancos, no
+
+contexto da implementação da Instância Nacional de Ética em Pesquisa.
+
+2.    CONTEXTUALIZAÇÃO
+
+2.1.  Visando a segurança jurídica, a conformidade ética e regulatória e a
+
+continuidade da prestação do serviço público, nos termos da Lei nº 14.874, de 28 de
+
+maio de 2024, do Decreto nº 12.651, de 7 de outubro de 2025, e da Portaria
+
+SECTICS/MS nº 85, de 14 de outubro de 2025, o Departamento de Ciência e
+
+Tecnologia da Secretaria de Ciência, Tecnologia e Inovação em Saúde do Ministério
+
+da Saúde (Decit/SCTIE/MS), após aprovação do racional e diretrizes pelos membros e
+
+na condição de coordenador do Grupo de Trabalho Temporário (GTT) responsável
+
+por auxiliar nas orientações acerca das decisões operacionais e contribuir para a
+
+continuidade das avaliações éticas durante a fase de transição para a Instância
+
+Nacional de Ética em Pesquisa (Inaep), resolve, por esta Nota Técnica nº 1/2026-
+
+DECIT/SCTIE/MS prover orientações e esclarecimentos:
+
+      I-  Tramitação de protocolos de risco elevado no âmbito do
+
+      Sistema Nacional de Ética em Pesquisa;
+
+      II - Protocolos de pesquisa de risco baixo e moderado cuja
+      instituição proponente na Plataforma Brasil seja o Ministério da Saúde;
+
+      III - Vigência do registro de credenciamento dos Comitês de
+      Ética em Pesquisa (CEPs);
+
+      IV - Desenvolvimento e credenciamento de Biobancos, para
+      dirimir as dúvidas procedimentais surgidas no processo de transição.
+
+2.2.  A presente orientação responde às demandas enviadas por CEPs,
+
+pesquisadores e patrocinadores ao GTT, visando conferir eﬁciência operacional ao
+
+sistema. Ressalta-se que este documento endereça lacunas procedimentais não
+
+exauridas pela legislação de base, mas indispensáveis para o avanço gradativo e
+
+seguro das inovações previstas no novo marco legal da pesquisa clínica no Brasil.
+
+2.3.  Considerando o imperativo de manter o avanço gradativo da
+
+implementação das inovações previstas na Lei nº 14.874/2024 e no Decreto nº
+
+12.651/2025, para o adequado funcionamento do Sistema Nacional de Ética em
+
+Pesquisa com Seres Humanos, esta Nota Técnica objetiva orientar a respeito de
+
+dúvidas evocadas pelos CEPs, pesquisadores e patrocinadores desde o início da
+
+          Nota Técnica 1 (0052834543) SEI 25000.192788/2025-69 / pg. 1
+atuação do Grupo de Trabalho Temporário, assim como elucidar questões
+complementares para tornar a tramitação ética dos protocolos de pesquisa e o
+funcionamento dos Comitês mais eﬁciente. Observa-se, em especial, a importância
+de resguardar a autoridade e a legitimidade do funcionamento dos CEPs durante o
+período de transição, reaﬁrmando a legalidade de atuação como instância de análise
+ética. São também endereçados por esta Nota Técnica aspectos de transição não
+abordados na Lei nº 14.874/2024 ou no Decreto nº 12.651/2025, mas que se
+apresentaram como necessários no contexto do processo de transição.
+
+2.4.
+
+3.       TRAMITAÇÃO INICIAL DE PROTOCOLOS DE PESQUISA DE RISCO
+
+ELEVADO
+
+3.1.     Em complemento às orientações providas sobre o processo de
+
+tramitação de protocolos de pesquisa de risco elevado descritas na Nota Técnica Nº
+
+43/2025-Decit/SECTICS/MS[1] procedimentos adicionais deverão ser adotados para
+
+garantir a adequada tramitação dos protocolos de pesquisa de risco elevado.
+
+3.2.     Considerando que apenas os CEPs acreditados são reconhecidos como
+
+instância de análise ética para os protocolos de pesquisa de risco elevado, e que
+
+atualmente a Plataforma Brasil não apresenta os recursos necessários para fazer o
+
+direcionamento automático aos CEPs acreditados de todos os protocolos de pesquisa
+
+de risco elevado tão logo são submetidos à revisão ética, torna-se necessário que,
+
+todo CEP credenciado, ao receber para tramitação inicial protocolo de pesquisa de
+
+risco elevado (PO), na condição de CEP do Centro Coordenador do estudo, siga as
+
+instruções a seguir, de forma a garantir tramitação célere e em conformidade com
+
+as normas atualmente vigentes:
+
+         a) Na condição de CEP do Centro Coordenador, ao receber para
+         primeira tramitação um protocolo de pesquisa assinalado como
+         pertencente a uma ou mais área temática, deﬁnidas no item IX.4 da
+         Resolução CNS nº 466/2012, o CEP credenciado deverá checar se de
+         fato o protocolo em questão se enquadra na(s) área(s) temática(s)
+         informada(s) no momento da submissão junto a Plataforma Brasil.
+         Quando o CEP credenciado atestar que o protocolo de pesquisa não se
+         enquadra como área temática (risco elevado), o protocolo deverá ser
+         devolvido ao pesquisador solicitando a correção da informação
+         cadastrada, e quando retornar o CEP deverá prosseguir com a análise
+         ética.
+
+         b) Caso o CEP credenciado conclua que o protocolo de pesquisa se
+         enquadra, de fato, em uma ou mais áreas temáticas indicadas pelo
+         pesquisador, caracterizando-se como pesquisa de risco elevado,
+         deverá ser adotado procedimento administrativo de encaminhamento,
+         exclusivamente para ﬁns de direcionamento do protocolo à instância
+         competente. Nessa hipótese, será realizada tramitação protocolar sem
+         análise ética e sem caráter deliberativo, com a emissão de parecer
+         consubstanciado classiﬁcado como ‘Aprovado’, exclusivamente para
+         viabilizar a transferência do protocolo, via Plataforma Brasil, à Inaep,
+         responsável por promover sua distribuição a um CEP acreditado.
+         Esclarece-se que esse procedimento não conﬁgura manifestação de
+         mérito ético por parte do CEP credenciado, tampouco autoriza o início
+         da pesquisa, tendo como única ﬁnalidade assegurar a celeridade e a
+         correta alocação do protocolo à instância legalmente competente para
+         a análise ética. O próprio coordenador do CEP poderá realizar todas as
+         etapas da tramitação, devendo incluir em todos os campos de
+         preenchimento obrigatório do parecer a mensagem: “Em observância
+
+         Nota Técnica 1 (0052834543) SEI 25000.192788/2025-69 / pg. 2
+              à Nota Técnica nº 1/2026-DECIT/SCTIE/MS e para fazer cumprir o
+              artigo 9º, § 1º, inciso II, da Lei nº 14.874, de 24 de maio de 2024, e o
+              artigo 25, inciso II, do Decreto nº 12.651, de 7 de outubro de 2025,
+              informa-se que este parecer de "Aprovado" não representa a opinião
+              do colegiado do CEP sobre a eticidade do protocolo de pesquisa e que
+              a liberação deste parecer tem por único objetivo acelerar o seu
+              processo de transferência para tramitação em um CEP acreditado. Por
+              ser a instância competente e legitimamente designada para a análise
+              ética de projetos classificados como de risco elevado, o CEP acreditado
+              é o responsável efetivo pela revisão ética do protocolo de pesquisa e
+              emissão do parecer consubstanciado.”.
+
+3.3.     Estes procedimentos descritos deverão ser adotados por todo CEP
+
+credenciado.
+
+4.       TRAMITAÇÃO DE PROTOCOLOS DE PESQUISA DO MINISTÉRIO DA
+SAÚDE
+
+4.1.     Para fazer cumprir os prazos normativos estabelecidos para a tramitação
+
+ética dos protocolos de pesquisa e evitar prejuízos ao desenvolvimento de pesquisas
+
+cientíﬁcas que estiverem em conformidade com as diretrizes éticas nacionais,
+
+reconhece-se a necessidade de transferência para instância de análise ética correta,
+
+o conjunto de protocolos de pesquisa submetidos a análise ética que possuem o
+
+Ministério da Saúde cadastrado como instituição proponente, junto a Plataforma
+
+Brasil.
+
+4.2.     Conforme ﬂuxo de tramitação estabelecido previamente à publicação da
+
+Lei nº 14.874/2024 e do Decreto nº 12.651/2025, a instância de análise ética
+
+responsável pela análise dos protocolos de pesquisa em que o Ministério da Saúde
+
+ﬁgurava como instituição proponente era a Comissão Nacional de Ética em Pesquisa
+
+(Conep). Porém, conforme art. 40 do Decreto nº 12.651/2025, à Conep atualmente
+
+cabe a atribuição de instância recursal. Determina-se, portanto, que até nova
+
+manifestação da Inaep sobre essa questão, será de responsabilidade dos CEPs
+
+credenciados de instituição vinculada ao Ministério da Saúde (ex.: fundações,
+
+institutos, hospitais etc.) a responsabilidade pela análise ética dos protocolos de
+
+pesquisa de risco baixo e moderado e que será de responsabilidade dos CEPs
+
+acreditados a análise ética de protocolos de pesquisa de risco elevado, que possuam
+
+o Ministério da Saúde como instituição proponente.
+
+4.3.     Serão direcionados tanto os protocolos de pesquisa que estiverem em
+
+tramitação inicial (PO), quanto as emendas e notiﬁcações de protocolos que tiverem
+
+sido previamente analisados e aprovados pela Conep.
+
+5.       EXTENSÃO DOS REGISTROS DE CREDENCIAMENTO DE CEP
+
+5.1.     Com a ﬁnalidade de prevenir situações de insegurança jurídica e
+
+institucional e de assegurar a continuidade regular, legítima e ininterrupta do
+
+funcionamento dos Comitês de Ética em Pesquisa (CEPs), ﬁca estabelecida, em
+
+caráter excepcional, a prorrogação automática, por 1 (um) ano, do credenciamento
+
+dos CEPs cujo prazo de vigência tenha se encerrado no exercício de 2025, contado a
+
+partir da respectiva data-limite de vencimento.
+
+5.2.     A prorrogação excepcional de que trata o item anterior não afasta, nem
+
+substitui, a obrigação da instituição mantenedora do CEP de promover a submissão
+
+tempestiva da documentação necessária à análise e à renovação do
+
+credenciamento, nos termos e prazos previstos no art. 8º da Resolução CNS nº 706,
+
+de 16 de fevereiro de 2023, permanecendo igualmente obrigatória a observância e
+
+o atendimento às eventuais solicitações de complementação ou adequação
+
+documental formuladas no curso da instrução processual.
+
+              Nota Técnica 1 (0052834543) SEI 25000.192788/2025-69 / pg. 3
+5.3.  Os processos de renovação de credenciamento permanecerão em
+
+regular tramitação administrativa e, uma vez concluída a respectiva análise técnica,
+
+serão submetidos, oportunamente, à deliberação da Inaep, produzindo plenos
+
+efeitos administrativos a partir da decisão colegiada.
+
+6.    TRAMITAÇÃO DE PROTOCOLOS DE DESENVOLVIMENTO DE
+
+BIOBANCOS
+
+6.1.  No que se refere aos protocolos de desenvolvimento de biobancos,
+
+identiﬁcou-se, uma lacuna normativa quanto à deﬁnição clara e inequívoca das
+
+instâncias competentes e dos ﬂuxos procedimentais aplicáveis, especialmente no
+
+contexto da transição para a Inaep. Assim, pautando-se pelos princípios da
+
+segurança jurídica e da proteção dos participantes, ﬁca estabelecida, em caráter
+
+excepcional e transitório, o sobrestamento temporário das tramitações
+
+relacionadas aos protocolos de desenvolvimento de biobancos, independentemente
+
+de sua situação cadastral, até que sobrevenha manifestação específica da Inaep.
+
+6.2.  O sobrestamento mencionado no item anterior não se aplica aos
+
+biobancos já aprovados pelo Sistema CEP/Conep que estejam em situação regular.
+
+Para estes, aplicam-se as seguintes regras:
+
+           6.2.1 Continuidade Operacional: Podem manter suas atividades, desde
+           que restritas às condições, ﬁnalidades e procedimentos expressamente
+           aprovados em seu registro original.
+
+           6.2.2 Vedação de Alterações: Durante o período de transição, ﬁca proibida
+           qualquer alteração em regimentos, governança ou rotinas operacionais que
+           não tenha sido previamente aprovada pela instância competente.
+
+           6.2.3 Responsabilidade Institucional: As instituições mantenedoras devem
+           reforçar medidas internas de controle para assegurar a conformidade ética, a
+           rastreabilidade e a preservação dos direitos dos participantes.
+
+6.3.  A situação excepcional ora estabelecida será indicada como objeto de
+
+reavaliação prioritária pela Inaep e orientações complementares serão divulgadas
+
+quanto à retomada das tramitações, à deﬁnição de competências e aos
+
+procedimentos aplicáveis aos protocolos de desenvolvimento de biobancos.
+
+7.    CONSIDERAÇÕES FINAIS
+
+7.1.  O processo de implementação do Sistema Nacional de Ética em Pesquisa
+
+com Seres Humanos e da Instância Nacional de Ética em Pesquisa – Inaep, conforme
+
+disposto na Portaria SECTICS/MS nº 85, de 14 de outubro de 2025, encontra-se em
+
+curso e vem sendo conduzido de forma planejada, coordenada e gradual no âmbito
+
+do Ministério da Saúde. Nesse contexto, a presente transição tem como diretriz
+
+central assegurar a continuidade da análise ética dos protocolos de pesquisa com
+
+seres humanos, preservando a regularidade dos ﬂuxos, a legitimidade das decisões
+
+e o pleno funcionamento dos Comitês de Ética em Pesquisa.
+
+7.2.  As orientações reunidas nesta Nota Técnica e nos demais atos
+
+administrativos do Grupo de Trabalho Temporário (GTT) buscam oferecer à
+
+comunidade cientíﬁca, aos pesquisadores e aos Comitês de Ética em Pesquisa
+
+referências claras e atualizadas para a condução dos processos éticos durante o
+
+período de transição. O objetivo é reduzir incertezas, promover previsibilidade e
+
+viabilizar ajustes operacionais necessários, ao mesmo tempo em que se mantém o
+
+alinhamento às normas vigentes e a proteção dos participantes de pesquisa.
+
+7.3.  Esta Nota Técnica constitui, portanto, um instrumento de apoio à tomada
+
+de decisão e à adequada condução das atividades de pesquisa, sem prejuízo de
+
+futuras atualizações decorrentes de orientações da Instância Nacional de Ética em
+
+Pesquisa ou da edição de novos atos normativos. Reaﬁrma-se, por ﬁm, o
+
+compromisso institucional com a transparência, o diálogo permanente com a
+
+           Nota Técnica 1 (0052834543) SEI 25000.192788/2025-69 / pg. 4
+ comunidade cientíﬁca e a consolidação gradual de um Sistema Nacional de Ética em
+ Pesquisa com Seres Humanos mais eﬁciente, seguro e alinhado às melhores práticas
+ éticas.
+
+                                               MEIRUZE SOUSA FREITAS
+                           Diretora do Departamento de Ciência e Tecnologia
+
+                                                      Decit/SCTIE/MS
+
+                                      ANA LÚCIA SILVA MARÇAL PADUELLO
+               Coordenadora da Comissão Nacional de Ética em Pesquisa - CONEP
+
+ REFERÊNCIAS
+
+[1] Ver Anexo I para dúvidas frequentes sobre a Nota Técnica Nº 43/2025-Decit/SECTICS/MS
+
+ ANEXO I - DÚVIDAS FREQUENTES RELACIONADAS COM A NOTA TÉCNICA Nº
+ 43/2025-DECIT/SECTICS/MS.
+ Por que o protocolo de pesquisa que se encontrava em análise na Conep foi
+ encaminhado a outro CEP que não aquele da instituição proponente?
+ Se o protocolo de pesquisa estava em tramitação na Conep e foi transferido para um
+ CEP distinto daquele que realizou a análise inicial, isso ocorreu pelo fato de o projeto
+ se enquadrar como pesquisa de risco elevado, ou seja, cadastrado como área
+ temática nos termos da Resolução CNS nº 466/2012.
+ Conforme descrito na Nota Técnica Nº 43/2025-Decit/SECTICS/MS, todo protocolo de
+ pesquisa que se enquadrar em uma ou mais das áreas temáticas deﬁnidas pela
+ Resolução CNS nº 466/2012 será considerado de risco elevado. Dessa forma, em
+ respeito à Lei nº 14.874/2025 e ao Decreto nº 12.651/2025, o protocolo deve passar
+ a ser analisado por CEP acreditado, instância competente e legitimamente
+ designada para análise ética de projetos classiﬁcados como de risco elevado.
+ Ressalta-se ainda que todas as tramitações, incluindo eventuais emendas e
+ notiﬁcações, também serão tramitadas pelo CEP acreditado, sem necessidade de
+ análise por CEP credenciado.
+
+ Há algum procedimento adicional que o pesquisador dever realizar para
+ regularizar a tramitação e garantir a continuidade da análise ética do
+ protocolo de pesquisa?
+ Após a realização da transferência, o pesquisador deve ﬁcar atento a possíveis
+ rejeições documentais ou emissão de pendencias pelo CEP acreditado. Por ser a
+ instância competente e legitimamente designada para análise ética de protocolos
+ classiﬁcados como de risco elevado, o CEP acreditado é soberano em solicitar
+ atualizações ou documentos complementares para compor o protocolo de pesquisa,
+ assim como para deliberar pela sua aprovação.
+
+ Quais são os próximos trâmites que o pesquisador e o CEP da instituição
+ proponente devem aguardar a partir da transferência?
+ Uma vez realizada a transferência, o pesquisador e o CEP da instituição proponente
+ devem aguardar a manifestação do CEP acreditado, que pode ser dar pela rejeição
+
+                                Nota Técnica 1 (0052834543) SEI 25000.192788/2025-69 / pg. 5
+documental ou emissão de parecer. Destaca-se que, nos casos em que for
+identiﬁcado que o protocolo de pesquisa foi cadastrado, incorretamente, como de
+área temática pelo pesquisador, será emitido um parecer, por mera formalidade,
+sem análise ética, por parte do CEP acreditado contendo a informação de que a
+instância de análise ética daquele protocolo de pesquisa é o CEP credenciado da
+instituição de proponente. Nesses casos, o vínculo do projeto será novamente
+alterado, sendo válido o parecer inicial de aprovação emitido pelo CEP credenciado
+“de origem”.
+
+Como o CEP da instituição proponente vai acompanhar o protocolo de
+pesquisa que foi encaminhado para CEP acreditado?
+
+Uma vez realizada a transferência do protocolo de pesquisa para um CEP acreditado,
+a tramitação passa a ocorrer exclusivamente no CEP acreditado. O CEP da
+instituição proponente possui legitimidade para solicitar informações e
+esclarecimentos ao CEP acreditado ou a própria Inaep, a fim de se manter atualizado
+sobre a tramitação de um protocolo que inicialmente estava sob sua
+responsabilidade.
+
+É obrigatório continuar enviando relatório da pesquisa para o CEP?
+
+O envio dos relatórios de pesquisa é uma determinação estabelecida no inciso IX, do
+art. 27 da Lei nº 14.874/2024. Portanto, devem ser enviados sempre que o CEP
+solicitar, ou pelo menos uma vez por ano, durante a realização da pesquisa.
+
+Documento assinado eletronicamente por Meiruze Sousa Freitas, Diretor(a) do
+Departamento de Ciência e Tecnologia, em 12/01/2026, às 19:16, conforme
+horário oficial de Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº
+10.543, de 13 de novembro de 2020; e art. 8º, da Portaria nº 900 de 31 de Março
+de 2017.
+
+Documento assinado eletronicamente por Ana Lúcia Silva Marçal Paduello,
+Coordenador(a) da Comissão Nacional de Ética em Pesquisa, em
+13/01/2026, às 11:57, conforme horário oficial de Brasília, com fundamento no §
+3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e art. 8º, da
+Portaria nº 900 de 31 de Março de 2017.
+
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código
+verificador 0052834543 e o código CRC 3EBC9E31.
+
+Referência: Processo nº 25000.192788/2025-69                  SEI nº 0052834543
+
+                                            Departamento de Ciência e Tecnologia - DECIT
+SRTVN 701, Lote D Via W3 Norte, Edifício PO 700, 5º Andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+
+                                                                  Site - saude.gov.br
+
+Nota Técnica 1 (0052834543) SEI 25000.192788/2025-69 / pg. 6
+

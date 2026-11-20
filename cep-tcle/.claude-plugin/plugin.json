@@ -1,0 +1,10 @@
+{
+  "name": "cep-tcle",
+  "version": "1.2.0",
+  "description": "Assistente de triagem ética de TCLEs. Analisa documentos anonimizados, identifica requisitos aplicáveis ao tipo de pesquisa e aponta evidências, pendências e itens não verificáveis com base no marco brasileiro vigente. Não substitui a avaliação nem o parecer de um CEP.",
+  "author": {
+    "name": "Aldemar A Castro"
+  },
+  "license": "CC-BY-4.0",
+  "keywords": ["tcle", "cep", "etica-em-pesquisa", "consentimento", "inaep", "sinep"]
+}
