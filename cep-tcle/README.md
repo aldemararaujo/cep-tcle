@@ -10,12 +10,21 @@ No Claude Code (2.1 ou mais recente):
 
 ```
 claude plugin marketplace add aldemararaujo/cep-tcle
-claude plugin install cep-tcle@cep-tcle-local
+claude plugin install cep-tcle@cep-tcle
 ```
 
-Para receber atualizações: `claude plugin marketplace update cep-tcle-local` e depois `claude plugin update cep-tcle@cep-tcle-local`.
+Para receber atualizações: `claude plugin marketplace update cep-tcle` e depois `claude plugin update cep-tcle@cep-tcle`.
 
 Para desenvolver a partir de um clone local, use o caminho da pasta clonada no lugar de `aldemararaujo/cep-tcle`.
+
+**Instalou antes da versão 1.4.2?** O marketplace se chamava `cep-tcle-local`. Remova e instale de novo:
+
+```
+claude plugin uninstall cep-tcle@cep-tcle-local
+claude plugin marketplace remove cep-tcle-local
+claude plugin marketplace add aldemararaujo/cep-tcle
+claude plugin install cep-tcle@cep-tcle
+```
 
 ## Uso
 

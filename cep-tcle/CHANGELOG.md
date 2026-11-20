@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.2 (2026-11-20)
+
+- Marketplace renomeado de `cep-tcle-local` para `cep-tcle`. Instalação: `claude plugin install cep-tcle@cep-tcle`. Quem instalou com o nome antigo precisa remover e instalar de novo (ver README).
+
 ## 1.4.1 (2026-11-20)
 
 - Lei 14.063/2020 (assinaturas eletrônicas), texto compilado do Planalto, na base.

@@ -8,7 +8,7 @@ Plugin do Claude Code para triagem ética de Termos de Consentimento Livre e Esc
 
 ```
 claude plugin marketplace add aldemararaujo/cep-tcle
-claude plugin install cep-tcle@cep-tcle-local
+claude plugin install cep-tcle@cep-tcle
 ```
 
 Depois, em uma sessão nova do Claude Code:
