@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.0 (2026-11-20)
+
+- Despachos Inaep nº 2, 3 e 4/2026 nas versões do Diário Oficial. A cópia com timbre de entidade privada do Despacho nº 2 foi removida; o corpo do texto era idêntico ao oficial.
+- Módulo multicêntrico refeito com base no item V do Despacho nº 3/2026: o contato do CEP responsável pela análise única é exigido; o contato do CEP local é recomendado e a ausência dele não é falha.
+- Módulo de biobanco registra a consulta pública da nova resolução (Despacho nº 4/2026) e que, em 20/11/2026, ela não constava como publicada.
+- Despacho nº 1 renomeado para o mesmo padrão dos demais (`-dou`).
+
 ## 1.2.0 (2026-11-20)
 
 **Base normativa**

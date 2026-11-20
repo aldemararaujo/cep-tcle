@@ -128,11 +128,13 @@ Declare incertezas e conflitos normativos. Se a resposta depender de atualizaç�
 | `lei-14874-2024-compilada-planalto.txt` | Lei nº 14.874/2024, texto compilado | 1 | Planalto, obtido em 20/11/2026. Fonte preferencial da Lei. |
 | `lei-14874-2024-publicacao-original.txt` | Lei nº 14.874/2024, publicação original | 1 | Portal da Câmara; sem alterações posteriores. Use só para comparação. |
 | `decreto-12651-2025-planalto.txt` | Decreto nº 12.651/2025 (regulamenta a Lei) | 1 | Planalto, obtido em 20/11/2026. |
-| `inaep-despacho-01-2026.txt` | Despacho Inaep nº 1/2026 (funcionamento dos CEPs) | 2 | DOU. Não trata do conteúdo do TCLE. |
-| `inaep-despacho-02-2026-copia-anup.txt` | Despacho Inaep nº 2/2026 (contagem de prazos) | 2 | Cópia com timbre de entidade privada; versão oficial não obtida. Não fundamente afirmação categórica. |
+| `inaep-despacho-01-2026-dou.txt` | Despacho Inaep nº 1/2026 (funcionamento dos CEPs) | 2 | DOU de 28/04/2026. Não trata do conteúdo do TCLE. |
+| `inaep-despacho-02-2026-dou.txt` | Despacho Inaep nº 2/2026 (contagem dos prazos do art. 14 da Lei) | 2 | DOU de 28/04/2026. Não trata do conteúdo do TCLE. |
+| `inaep-despacho-03-2026-dou.txt` | Despacho Inaep nº 3/2026 (análise ética única em multicêntricas; item V trata do TCLE) | 2 | DOU de 01/06/2026; em vigor desde 08/06/2026. |
+| `inaep-despacho-04-2026-dou.txt` | Despacho Inaep nº 4/2026 (prorroga até 02/07/2026 a consulta pública da nova resolução de biobancos) | 2 | DOU de 02/06/2026. Só informa que a norma de biobancos estava em consulta. |
 | `inaep-despacho-05-2026-dou.txt` | Despacho Inaep nº 5/2026 (farmacocinéticos de alta toxicidade) | 2 | Extraído da edição do DOU de 03/07/2026. |
 | `inaep-informe-tecnico-despacho-05-2026.txt` | Informe técnico sobre o Despacho nº 5 | 2 | Portal da Inaep. |
-| `inaep-informe-tecnico-multicentricas-despacho-03-2026.txt` | Informe técnico sobre análise ética única em multicêntricas (v1.1, 30/09/2026) | 2 | Portal da Inaep. Explica o Despacho nº 3/2026, cujo texto não está na base. |
+| `inaep-informe-tecnico-multicentricas-despacho-03-2026.txt` | Informe técnico sobre análise ética única em multicêntricas (v1.1, 30/09/2026) | 2 | Portal da Inaep. Explica o Despacho nº 3/2026 em perguntas e respostas; em divergência, prevalece o texto do despacho. |
 | `inaep-decit-nota-tecnica-43-2025-transicao-risco.txt` | Nota Técnica nº 43/2025-DECIT (tramitação e classificação de risco na transição) | 2 | Portal da Inaep. |
 | `inaep-decit-nota-tecnica-01-2026-transicao-biobancos.txt` | Nota Técnica nº 1/2026-DECIT (transição, competências, biobancos) | 2 | Portal da Inaep. |
 | `res-cns-466-2012.txt` | Resolução CNS nº 466/2012 | 3 | Válida no que não contrariar Lei e Decreto (Decreto, art. 39). |
@@ -144,4 +146,4 @@ Declare incertezas e conflitos normativos. Se a resposta depender de atualizaç�
 | `conep-manual-pendencias-chs-2023.txt` | Manual de pendências em CHS (2023) | 4 | Orientação operacional. |
 | `lgpd-lei-13709-2018-planalto.txt` | LGPD, texto compilado | Subsidiária | Aplicação subsidiária (Lei 14.874, art. 61). |
 
-**Lacunas conhecidas:** textos oficiais dos Despachos Inaep nº 2, 3 e 4/2026; Carta Circular nº 1/2021/Conep e Ofício Circular nº 23/2022/Conep (ambiente virtual); eventual resolução da Inaep sobre biobancos e sobre Ciências Humanas e Sociais. Quando a análise depender deles, indique a necessidade de conferência.
+**Lacunas conhecidas:** Carta Circular nº 1/2021/Conep e Ofício Circular nº 23/2022/Conep (ambiente virtual); eventual resolução da Inaep sobre biobancos e sobre Ciências Humanas e Sociais. Quando a análise depender deles, indique a necessidade de conferência.

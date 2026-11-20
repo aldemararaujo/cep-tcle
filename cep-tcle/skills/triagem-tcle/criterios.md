@@ -13,6 +13,7 @@ Cada dispositivo abaixo foi conferido no texto da base (`references/texto/`) em 
 | R441 | `res-cns-441-2011.txt` |
 | OC11 | `conep-oficio-circular-11-2023-assentimento.txt` |
 | LGPD | `lgpd-lei-13709-2018-planalto.txt` |
+| D03 | `inaep-despacho-03-2026-dou.txt` |
 | IMC | `inaep-informe-tecnico-multicentricas-despacho-03-2026.txt` |
 | D05 | `inaep-despacho-05-2026-dou.txt` |
 | MCL | `conep-manual-pendencias-clinica-2015.txt` (itens 1.1 a 1.22 tratam do TCLE) |
@@ -42,7 +43,7 @@ Cada dispositivo abaixo foi conferido no texto da base (`references/texto/`) em 
 | G14 | Ausência de cláusula de renúncia de direitos ou de isenção de responsabilidade | LEI art. 18, § 3º; R466 IV.4 "c" | N | MCL itens 1.8, 1.11 e 1.15 listam expressões a evitar. |
 | G15 | Acesso aos resultados | LEI art. 54; R510 art. 17, VI | N | |
 | G16 | Contatos do pesquisador responsável | R510 art. 17, VIII; R466 IV.5 "d" | N | |
-| G17 | Contatos do CEP, com breve explicação do que é o CEP | R510 art. 17, IX; R466 IV.5 "d"; IMC 5.5 e 5.6 | N/O | IMC 5.6: contato da Inaep não é exigência geral. Menção à Conep na R466/R510 deve ser lida à luz da transição. |
+| G17 | Contatos do CEP, com breve explicação do que é o CEP | R510 art. 17, IX; R466 IV.5 "d"; D03 item V (multicêntricas); IMC 5.5 e 5.6 | N/O | Em multicêntricas, ver `modulos/multicentrico.md`. IMC 5.6: contato da Inaep não é exigência geral. Menção à Conep na R466/R510 deve ser lida à luz da transição. |
 | G18 | Entrega de via ao participante | R466 IV.3 "f"; R510 art. 17, § 3º | N | |
 | G19 | Data e assinaturas do pesquisador e do participante ou representante | LEI art. 18, § 1º; R466 IV.5 "d" | N | Rubrica em todas as páginas e assinaturas na mesma folha: R466 IV.5 "d" (orientação de norma do CNS mantida pelo DEC art. 39; conferir entendimento atual). |
 | G20 | Participante que não sabe ler: testemunha imparcial | LEI art. 2º, LIV; LEI art. 18, § 5º; R510 art. 15, § 2º | N | Condicional. |
@@ -65,6 +66,6 @@ Detalhes de cada módulo em `modulos/`. Fontes principais:
 | Pesquisa em ambiente virtual | `modulos/online-digital.md` | R510 art. 5º e art. 17; MCH seção "Pesquisa em ambiente virtual" |
 | Material biológico, biobanco e biorrepositório | `modulos/biobanco.md` | LEI arts. 39-48; DEC arts. 33-34; R441 itens 5, 6 e 10; MCL itens 1.21 e 1.22 |
 | Dados, uso futuro e transferência internacional | `modulos/biobanco.md` | LEI art. 40, X-XI; LEI art. 45; LEI art. 51, § 2º; DEC art. 34; LGPD arts. 7º, 11 e 13 |
-| Multicêntrico | `modulos/multicentrico.md` | DEC art. 27; IMC seção 5 |
+| Multicêntrico | `modulos/multicentrico.md` | LEI art. 14, § 7º; DEC art. 27; D03 item V; IMC seção 5 |
 | Emergência sem consentimento prévio | `modulos/clinico.md` | LEI art. 18, § 6º |
 | Dispensa de TCLE ou de registro | `modulos/chs-registro.md` | R466 IV.8; R510 arts. 14 e 16 |

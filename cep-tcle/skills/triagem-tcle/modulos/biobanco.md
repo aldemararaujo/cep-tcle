@@ -2,7 +2,7 @@
 
 Aplique quando houver coleta ou armazenamento de material biológico humano, biobanco, biorrepositório, uso futuro de dados ou envio de dados ou amostras para fora do País. Siglas dos arquivos em `../criterios.md`.
 
-**Transição:** o DEC art. 33 atribui à Inaep a nova norma de biobancos. Em 2026 houve consulta pública de proposta de resolução sobre o tema (Despacho Inaep nº 4/2026, não incluído na base). Até a publicação, a R441 vale no que não contrariar LEI e DEC (DEC art. 39). Recomende conferir se a nova resolução já foi publicada.
+**Transição:** o DEC art. 33 atribui à Inaep a nova norma de biobancos. A proposta de resolução foi objeto da Consulta Pública nº 01/2026, com prazo prorrogado até 02/07/2026 pelo Despacho Inaep nº 4/2026 (`references/texto/inaep-despacho-04-2026-dou.txt`). Em 20/11/2026, a página de legislação da Inaep não listava a resolução publicada. Até a publicação, a R441 vale no que não contrariar LEI e DEC (DEC art. 39). Recomende conferir se a nova resolução já foi publicada.
 
 | ID | Critério | Fontes verificadas | Nat. |
 |---|---|---|---|
