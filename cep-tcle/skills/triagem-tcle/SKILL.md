@@ -17,7 +17,7 @@ Todos os caminhos são relativos a este SKILL.md. Leia só o que a análise exig
 | `modulos/clinico.md` | Ensaio clínico, intervenção, placebo, acesso pós-estudo, emergência. |
 | `modulos/menores-assentimento.md` | Crianças, adolescentes, incapazes, dependência ou autoridade, povos e comunidades tradicionais, gestantes. |
 | `modulos/chs-registro.md` | Ciências Humanas e Sociais, registro não escrito, dispensa de TCLE ou de registro. |
-| `modulos/online-digital.md` | Qualquer etapa em ambiente virtual. |
+| `modulos/online-digital.md` | Qualquer etapa em ambiente virtual ou consentimento eletrônico. |
 | `modulos/biobanco.md` | Material biológico, biobanco, biorrepositório, uso futuro de dados, envio ao exterior. |
 | `modulos/multicentrico.md` | Mais de um centro. |
 | `references/texto/*.txt` | Texto pesquisável das normas. Use busca (Grep) para localizar e confirmar o dispositivo antes de citá-lo. |
@@ -142,8 +142,10 @@ Declare incertezas e conflitos normativos. Se a resposta depender de atualizaç�
 | `res-cns-441-2011.txt` | Resolução CNS nº 441/2011 (biobancos) | 3 | Idem; nova norma da Inaep em elaboração. |
 | `norma-operacional-cns-001-2013.txt` | Norma Operacional CNS nº 001/2013 | 3 | Procedimentos do antigo sistema CEP/Conep; verifique compatibilidade. |
 | `conep-oficio-circular-11-2023-assentimento.txt` | Ofício-Circular nº 11/2023/Conep (assentimento) | 4 | Orientação operacional. |
+| `conep-carta-circular-01-2021-ambiente-virtual.txt` | Carta Circular nº 1/2021/Conep (pesquisas com etapa em ambiente virtual) | 4 | Documento SEI assinado. O item 4.5 foi revogado pelo Ofício Circular nº 23/2022. |
+| `conep-oficio-circular-23-2022-consentimento-eletronico.txt` | Ofício Circular nº 23/2022/Conep (consentimento e assentimento eletrônico, inclusive em biobancos) | 4 | Documento SEI assinado. |
 | `conep-manual-pendencias-clinica-2015.txt` | Manual de pendências em pesquisa clínica (2015) | 4 | Orientação operacional; fundamentos podem estar desatualizados. |
 | `conep-manual-pendencias-chs-2023.txt` | Manual de pendências em CHS (2023) | 4 | Orientação operacional. |
 | `lgpd-lei-13709-2018-planalto.txt` | LGPD, texto compilado | Subsidiária | Aplicação subsidiária (Lei 14.874, art. 61). |
 
-**Lacunas conhecidas:** Carta Circular nº 1/2021/Conep e Ofício Circular nº 23/2022/Conep (ambiente virtual); eventual resolução da Inaep sobre biobancos e sobre Ciências Humanas e Sociais. Quando a análise depender deles, indique a necessidade de conferência.
+**Lacunas conhecidas:** Lei nº 14.063/2020 (assinaturas eletrônicas, citada pelo Ofício Circular nº 23/2022); eventual resolução da Inaep sobre biobancos e sobre Ciências Humanas e Sociais. Quando a análise depender deles, indique a necessidade de conferência.

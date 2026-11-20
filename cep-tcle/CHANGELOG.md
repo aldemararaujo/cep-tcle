@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0 (2026-11-20)
+
+- Carta Circular nº 1/2021/Conep (ambiente virtual) e Ofício Circular nº 23/2022/Conep (consentimento eletrônico) na base.
+- Módulo de ambiente virtual refeito com 22 critérios citando os itens desses documentos, separados entre o que se verifica no TCLE e o que se verifica no protocolo. Registra que o item 4.5 da Carta Circular foi revogado pelo Ofício nº 23/2022, item 5.5, e a incerteza sobre assinatura eletrônica diante da Lei 14.874/2024, art. 18, § 1º.
+- Módulo de biobanco: consentimento antes da incorporação ou da coleta, e consentimento eletrônico em biobancos.
+
 ## 1.3.0 (2026-11-20)
 
 - Despachos Inaep nº 2, 3 e 4/2026 nas versões do Diário Oficial. A cópia com timbre de entidade privada do Despacho nº 2 foi removida; o corpo do texto era idêntico ao oficial.

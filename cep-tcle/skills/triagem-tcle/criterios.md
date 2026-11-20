@@ -12,6 +12,8 @@ Cada dispositivo abaixo foi conferido no texto da base (`references/texto/`) em 
 | R510 | `res-cns-510-2016.txt` |
 | R441 | `res-cns-441-2011.txt` |
 | OC11 | `conep-oficio-circular-11-2023-assentimento.txt` |
+| CC01 | `conep-carta-circular-01-2021-ambiente-virtual.txt` |
+| OC23 | `conep-oficio-circular-23-2022-consentimento-eletronico.txt` |
 | LGPD | `lgpd-lei-13709-2018-planalto.txt` |
 | D03 | `inaep-despacho-03-2026-dou.txt` |
 | IMC | `inaep-informe-tecnico-multicentricas-despacho-03-2026.txt` |
@@ -63,7 +65,7 @@ Detalhes de cada módulo em `modulos/`. Fontes principais:
 | Autonomia limitada por dependência ou autoridade | `modulos/menores-assentimento.md` | R466 IV.6 "b"; R510 art. 11; DEC art. 32, § 1º, IV |
 | Povos e comunidades tradicionais | `modulos/menores-assentimento.md` | DEC art. 32, § 1º, III; R466 IV.6 "e"; R510 art. 13; LEI art. 24, § 3º (promulgação de parte vetada) |
 | Ciências Humanas e Sociais / registro não escrito | `modulos/chs-registro.md` | R510 arts. 4º-8º, 14-17; DEC art. 35; MCH |
-| Pesquisa em ambiente virtual | `modulos/online-digital.md` | R510 art. 5º e art. 17; MCH seção "Pesquisa em ambiente virtual" |
+| Pesquisa em ambiente virtual e consentimento eletrônico | `modulos/online-digital.md` | CC01; OC23 (revoga o item 4.5 da CC01); R510 art. 5º e art. 17; MCH seção "Pesquisa em ambiente virtual" |
 | Material biológico, biobanco e biorrepositório | `modulos/biobanco.md` | LEI arts. 39-48; DEC arts. 33-34; R441 itens 5, 6 e 10; MCL itens 1.21 e 1.22 |
 | Dados, uso futuro e transferência internacional | `modulos/biobanco.md` | LEI art. 40, X-XI; LEI art. 45; LEI art. 51, § 2º; DEC art. 34; LGPD arts. 7º, 11 e 13 |
 | Multicêntrico | `modulos/multicentrico.md` | LEI art. 14, § 7º; DEC art. 27; D03 item V; IMC seção 5 |

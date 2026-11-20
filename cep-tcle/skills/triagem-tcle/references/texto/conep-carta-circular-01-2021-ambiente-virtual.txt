@@ -1,0 +1,318 @@
+                                  Ministério da Saúde
+        Secretaria-Executiva do Conselho Nacional de Saúde
+
+                Comissão Nacional de Ética em Pesquisa
+
+Carta Circular nº 1/2021-CONEP/SECNS/MS
+
+                                           Brasília, 03 de março de 2021.
+
+Aos (Às) coordenadores (as) de Comitês de Ética em Pesquisa
+
+Assunto: Orientações para procedimentos em pesquisas com qualquer
+etapa em ambiente virtual.
+
+                 A Comissão Nacional de Ética em Pesquisa(Conep) orienta
+pesquisadores e Comitês de Ética em Pesquisa em relação a procedimentos que
+envolvam o contato com participantes e/ou coleta de dados em qualquer etapa
+da pesquisa, em ambiente virtual. Tais medidas visam preservar a proteção,
+segurança e os direitos dos participantes de pesquisa.
+
+                 Estas orientações quando aplicadas aos participantes de pesquisa
+em situação de vulnerabilidade devem estar em conformidade com as
+Resoluções do Conselho Nacional de Saúde – CNS – nº 466 de 2012 e a de nº
+510 de 2016.
+
+                 Entende-se por:
+
+0.1.    Meio ou ambiente virtual: aquele que envolve a utilização da
+
+internet (como e-mails, sites eletrônicos, formulários disponibilizados por
+
+programas, etc.), do telefone (ligação de áudio, de vídeo, uso de aplicativos de
+
+chamadas, etc.), assim como outros programas e aplicativos que utilizam esses
+
+meios.
+
+0.2.    Forma não presencial: contato realizado por meio ou ambiente
+
+virtual, inclusive telefônico, não envolvendo a presença física do pesquisador e
+
+do participante de pesquisa.
+
+0.3.    Dados pessoais: informação relacionada à pessoa natural
+
+identificada ou identificável (artigo 5º da Lei Geral de Proteção de Dados –
+
+LGPD – nº 13.709, de 14 de agosto de 2018), tais como números de
+
+documentos, de prontuário, etc.
+
+0.4.    Dados pessoais sensíveis - dados sobre origem racial ou étnica,
+
+religião, opinião política, filiação a sindicato ou a organização de caráter
+
+religioso, filosófico ou político, dado referente à saúde ou a vida sexual, dado
+
+genético ou biométrico, quando vinculado a uma pessoa natural (artigo 5º da
+
+LGPD nº 13.709, de 14 de agosto de 2018).
+
+        Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 1
+                 Nesse sentido, aplicam-se as seguintes orientações nas pesquisas
+com seres humanos que envolvam essas ferramentas:
+
+1.      EM RELAÇÃO À SUBMISSÃO DO PROTOCOLO AO SISTEMA
+
+CEP/CONEP:
+
+1.1.    O pesquisador deverá apresentar na metodologia do projeto de
+
+pesquisa a explicação de todas as etapas/fases não presenciais do estudo,
+
+enviando, inclusive, os modelos de formulários, termos e outros documentos
+
+que serão apresentados ao candidato a participante de pesquisa e aos
+
+participantes de pesquisa.
+
+1.2.    O pesquisador deverá descrever e justificar o procedimento a ser
+
+adotado para a obtenção do consentimento livre e esclarecido, bem como, o
+
+formato de registro ou assinatura do termo que será utilizado.
+
+1.2.1.  Caberá ao pesquisador destacar, além dos riscos e benefícios
+
+relacionados com a participação na pesquisa, aqueles riscos característicos do
+
+ambiente virtual, meios eletrônicos, ou atividades não presenciais, em função
+
+das limitações das tecnologias utilizadas. Adicionalmente, devem ser
+
+informadas as limitações dos pesquisadores para assegurar total
+
+confidencialidade e potencial risco de sua violação.
+
+1.3.    Quando os Registros de Consentimento Livre e Esclarecido / Termos
+
+de Consentimento Livre e Esclarecido forem documentais, devem ser
+
+apresentados, preferencialmente, na mesma formatação utilizada para
+
+visualização dos participantes da pesquisa.
+
+2.      EM RELAÇÃO AOS PROCEDIMENTOS QUE ENVOLVEM CONTATO
+
+ATRAVÉS DE MEIO VIRTUAL OU TELEFÔNICOS COM OS POSSÍVEIS
+
+PARTICIPANTES DE PESQUISA:
+
+2.1.    O convite para participação na pesquisa não deve ser feito com a
+
+utilização de listas que permitam a identificação dos convidados nem a
+
+visualização dos seus dados de contato (e-mail, telefone, etc) por terceiros.
+
+2.1.1.  Qualquer convite individual enviado por e-mail só poderá ter um
+
+remetente e um destinatário, ou ser enviado na forma de lista oculta.
+
+2.1.2.  Qualquer convite individual deve esclarecer ao candidato a
+
+participantes de pesquisa, que antes de responder às perguntas do pesquisador
+
+disponibilizadas em ambiente não presencial ou virtual (questionário/formulário
+
+ou entrevista), será apresentado o Termo de Consentimento Livre e Esclarecido
+
+(ou Termo de Assentimento, quando for o caso) para a sua anuência.
+
+2.2.    Quando a coleta de dados ocorrer em ambiente virtual (com uso de
+
+programas para coleta ou registro de dados, e-mail, entre outros), na
+
+modalidade de consentimento (Registro ou TCLE), o pesquisador deve enfatizar
+
+a importância do participante de pesquisa guardar em seus arquivos uma cópia
+
+            Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 2
+do documento eletrônico.
+
+2.2.1.  Deve-se garantir ao participante de pesquisa o direito de não
+
+responder qualquer questão, sem necessidade de explicação ou justificativa
+
+para tal, podendo também se retirar da pesquisa a qualquer momento.
+
+2.2.2.  Caso tenha pergunta obrigatória deve constar no TCLE o direito do
+
+participante de não responder a pergunta.
+
+2.2.3.  Deve-se garantir ao participante de pesquisa o direito de acesso ao
+
+teor do conteúdo do instrumento (tópicos que serão abordados) antes de
+
+responder as perguntas, para uma tomada de decisão informada.
+
+2.2.4.  O participante de pesquisa terá acesso às perguntas somente depois
+
+que tenha dado o seu consentimento.
+
+2.3.    Quando a pesquisa em ambiente virtual envolver a participação de
+
+menores de 18 anos, o primeiro contato para consentimento deve ser com os
+
+pais e/ou responsáveis, e a partir da concordância, deverá se buscar o
+
+assentimento do menor de idade.
+
+2.4.    Caberá ao pesquisador responsável conhecer a política de
+
+privacidade da ferramenta utilizada quanto a coleta de informações pessoais,
+
+mesmo que por meio de robôs, e o risco de compartilhamento dessas
+
+informações com parceiros comerciais para oferta de produtos e serviços de
+
+maneira a assegurar os aspectos éticos.
+
+2.5.    Deve ficar claro ao participante da pesquisa, no convite, que o
+
+consentimento será previamente apresentado e, caso, concorde em participar,
+
+será considerado anuência quando responder ao questionário/formulário ou
+
+entrevista da pesquisa.
+
+2.5.1.  Ficam excetuados os processos de consentimento previstos no Art.
+
+4° da Resolução CNS nº 510 de 2016.
+
+2.6.    Caberá ao pesquisador explicar como serão assumidos os custos
+
+diretos e indiretos da pesquisa, quando a mesma se der exclusivamente com a
+
+utilização de ferramentas eletrônicas sem custo para o seu uso ou já de
+
+propriedade do mesmo.
+
+3.      COM RELAÇÃO À SEGURANÇA NA TRANSFERÊNCIA E NO
+
+ARMAZENAMENTO DOS DADOS:
+
+3.1.    É da responsabilidade do pesquisador o armazenamento adequado
+
+dos dados coletados, bem como os procedimentos para assegurar o sigilo e a
+
+confidencialidade das informações do participante da pesquisa.
+
+3.2.    Uma vez concluída a coleta de dados, é recomendado ao pesquisador
+
+responsável fazer o download dos dados coletados para um dispositivo
+
+eletrônico local, apagando todo e qualquer registro de qualquer plataforma
+
+virtual, ambiente compartilhado ou "nuvem".
+
+3.3.    O mesmo cuidado deverá ser seguido para os registros de
+
+consentimento livre e esclarecido que sejam gravações de vídeo ou áudio. É
+
+recomendado ao pesquisador responsável fazer o download dos dados, não
+
+sendo indicado a sua manutenção em qualquer plataforma virtual, ambiente
+
+compartilhado ou "nuvem".
+
+        Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 3
+compartilhado ou "nuvem".
+
+3.4.  Em consonância ao disposto na Resolução CNS nº 510 de 2016,
+
+artigo 9 inciso V), para os participantes de pesquisas que utilizem metodologias
+
+próprias das Ciências Humanas e Sociais, deve haver a manifestação expressa
+
+de sua concordância ou não quanto à divulgação de sua identidade e das
+
+demais informações coletadas.
+
+4.    QUANTO AO CONTEÚDO DOS DOCUMENTOS TRAMITADOS:
+
+4.1.  Os documentos em formato eletrônico relacionados à obtenção do
+
+consentimento devem apresentar todas as informações necessárias para o
+
+adequado esclarecimento do participante, com as garantias e direitos previstos
+
+nas Resoluções CNS nº 466 de 2012 e 510 de 2016 e, de acordo com as
+
+particularidades da pesquisa.
+
+4.2.  O convite para a participação na pesquisa deverá conter,
+
+obrigatoriamente, link para endereço eletrônico ou texto com as devidas
+
+instruções de envio, que informem ser possível, a qualquer momento e sem
+
+nenhum prejuízo, a retirada do consentimento de utilização dos dados do
+
+participante da pesquisa. Nessas situações, o pesquisador responsável fica
+
+obrigado a enviar ao participante de pesquisa, a resposta de ciência do
+
+interesse do participante de pesquisa retirar seu consentimento
+
+4.3.  Nos casos em que não for possível a identificação do questionário do
+
+participante, o pesquisador deverá esclarecer a impossibilidade de exclusão dos
+
+dados da pesquisa durante o processo de registro / consentimento.
+
+4.4.  Durante o processo de consentimento, o pesquisador deverá
+
+esclarecer o participante de maneira clara e objetiva, como se dará o registro de
+
+seu consentimento para participar da pesquisa.
+
+4.5.  Quando a pesquisa na área biomédica exigir necessariamente a
+
+presença do participante de pesquisa junto à equipe, o TCLE deverá ser obtido
+
+na sua forma física, de acordo com o previsto na Resolução CNS nº 466 de
+
+2012, item IV.5.d. Esse consentimento deverá ser obtido ainda que o
+
+participante de pesquisa já tenha registrado o seu consentimento de forma
+
+eletrônica em etapa anterior da pesquisa. Os casos não contemplados neste
+
+documento, conflitantes ou ainda não previstos nas resoluções disponíveis,
+
+serão avaliados pelos colegiados do Sistema CEP/Conep.
+
+                       JORGE ALVES DE ALMEIDA VENANCIO
+       Coordenador da Comissão Nacional de Ética em Pesquisa
+
+      Documento assinado eletronicamente por Jorge Venâncio,
+      Administrador(a), em 09/03/2021, às 18:17, conforme horário oficial de
+      Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de
+      outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+      Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 4
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código verificador 0019351278 e o código CRC 69965C1B.
+
+Referência: Processo nº 25000.026908/2021-15                    SEI nº 0019351278
+
+                                           Comissão Nacional de Ética em Pesquisa - CONEP
+SRTV 701, Via W 5 Norte, lote D Edifício PO 700, 3º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+
+                                                                   Site - saude.gov.br
+
+Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 5
+

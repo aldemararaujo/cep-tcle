@@ -19,6 +19,8 @@ Aplique quando houver coleta ou armazenamento de material biológico humano, bio
 | B11 | Prazo de armazenamento: indeterminado em biobanco; conforme cronograma em biorrepositório | LEI arts. 41 e 42 | N |
 | B12 | Propriedade do material é do participante; guarda institucional | LEI art. 43 | N |
 | B13 | Dados compartilhados só anônimos ou codificados | LEI art. 51, § 1º | N |
+| B15 | Consentimento obtido antes da incorporação da amostra ao biobanco; se a coleta for só para o biobanco, antes da coleta | OC23 item 3.1 e I | O |
+| B16 | Consentimento eletrônico em biobanco: riscos do ambiente virtual, contato com a equipe e acesso ao termo em papel | OC23 itens 3.3, 3.5 e 3.6; ver `online-digital.md` | O |
 | B14 | Base legal de tratamento de dados para pesquisa | LEI art. 61; LGPD art. 7º, IV; LGPD art. 11, II, "c"; LGPD art. 13 (saúde pública) | N |
 
 **Pendências típicas:** MCL itens 1.21 (R441) e 1.22 (genes ou marcadores genéticos).
