@@ -3,3 +3,4 @@ evals/results/
 __pycache__/
 *.pyc
 CEP-TCLE-0.45.3.zip
+dist/

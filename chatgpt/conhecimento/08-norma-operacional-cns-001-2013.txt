@@ -1,0 +1,743 @@
+Norma Operacional CNS nº 001/2013
+Gerado do plugin CEP - TCLE versão 1.4.4.
+
+======================================================================
+ARQUIVO: norma-operacional-cns-001-2013.txt
+======================================================================
+
+                                        MINISTÉRIO DA SAÚDE
+                                  CONSELHO NACIONAL DE SAÚDE
+
+                               NORMA OPERACIONAL Nº 001/2013
+
+1. DISPOSIÇÕES GERAIS:
+
+A presente Norma Operacional dispõe sobre a organização e funcionamento do Sistema
+CEP/CONEP, e sobre os procedimentos para submissão, avaliação e acompanhamento da
+pesquisa e de desenvolvimento envolvendo seres humanos no Brasil, nos termos do item 5,
+do Capítulo XIII, da Resolução CNS n° 466 de 12 de dezembro de 2012.
+As propostas de pesquisa e de desenvolvimento como também sua efetivação e divulgação
+de pareceres dos Comitês de Ética em Pesquisa (CEP) e da Comissão Nacional de Ética
+em Pesquisa (CONEP) devem ocorrer por meio da Plataforma Brasil.
+É indispensável o cadastro na Plataforma Brasil, para apresentação da pesquisa à
+apreciação do Sistema CEP/CONEP e para sua respectiva avaliação ética, de todos os
+pesquisadores, dos CEP e das instituições envolvidas nas pesquisas.
+
+2. PROCEDIMENTOS ADMINISTRATIVOS DO SISTEMA CEP/CONEP
+   2.1. ASPECTOS COMUNS
+           A) Do conflito de interesses: os membros do CEP e da CONEP deverão atuar de
+
+forma voluntária, autônoma e independente no exercício de sua função, que é de elevado
+interesse público. É vedado, tanto aos titulares quanto aos suplentes, exercer atividades nas
+quais interesses privados possam comprometer o interesse público e sua imparcialidade no
+exercício de suas atividades no sistema CEP/CONEP. As relações financeiras levam aos
+conflitos mais facilmente reconhecidos e incluem relações de emprego, consultoria,
+propriedade de ações ou opções, honorários e patentes com instituições ou organizações
+financiadoras de pesquisa. Também podem surgir conflitos de interesse caracterizados pelo
+exercício do poder dentro da instituição mantenedora do CEP. Os membros do sistema
+CEP/CONEP deverão apresentar declaração, por escrito, comprovando a sua autonomia e
+independência no exercício como membro, já no momento da sua candidatura ou aceitação
+de indicação.
+
+           B) Do funcionamento: o funcionamento do Sistema CEP/CONEP será disciplinado
+por regimento interno, aprovado por sua plenária, com quórum mínimo de dois terços dos
+membros. O regimento deverá abordar, dentre outros, os seguintes aspectos: número de
+reuniões; número máximo de ausências/ano de seus membros; controle das presenças;
+quórum e modus operandi das reuniões deliberativas; horário de funcionamento; local e
+
+                                                                                  1/14
+horário de atendimento ao público em geral e aos pesquisadores; duração do mandato e
+forma de renovação dos seus membros; disposições sobre sigilo e confidencialidade;
+capacitação de seus membros e promoção da educação em ética em pesquisa envolvendo
+seres humanos.
+
+           C) Do sigilo: o conteúdo tratado durante todo o procedimento de análise dos
+protocolos tramitados no Sistema CEP/CONEP é de ordem estritamente sigilosa; suas
+reuniões serão sempre fechadas ao público. Os membros do CEP e da CONEP e todos os
+funcionários que terão acesso aos documentos, inclusive virtuais, e reuniões, deverão
+manter sigilo comprometendo-se, por declaração escrita, sob pena de responsabilidade.
+
+           D) Do registro das reuniões: durante as reuniões será lavrada ata, que deverá ser
+disponibilizada a todos os membros dos CEP/CONEP, no prazo de até 30 (trinta) dias. Da
+ata deverão constar: as deliberações da plenária; a data e horário de início e término da
+reunião; o registro nominal dos presentes e as justificativas das ausências.
+
+           E) Do parecer: o parecer deve ser elaborado de forma clara, objetiva, detalhada e
+estar suficientemente motivado para subsidiar a decisão do colegiado, com ênfase nos
+seguintes pontos: análise ética do protocolo; risco-benefício da pesquisa e sua relevância
+social; processo de recrutamento, inclusão e exclusão dos participantes da pesquisa;
+processo de obtenção do TCLE; justificativa para a dispensa do TCLE, se couber;
+procedimentos aptos à efetivação da garantia do sigilo e confidencialidade; proteção dos
+participantes da pesquisa que se encontram em situação de vulnerabilidade, quando
+pertinente; orçamento para realização da pesquisa; cronograma de execução. O parecer
+será validado na Plataforma Brasil preferencialmente durante os trabalhos da reunião.
+
+           F) Da análise ética: compete ao Sistema CEP/CONEP, a função de análise ética
+de protocolos de pesquisa com seres humanos, apresentados conforme o item três (3) da
+presente Norma (Protocolo de pesquisa).
+
+           G) Da deliberação ética: a análise do protocolo de pesquisa culminará com sua
+classificação como uma das seguintes categorias, conforme o caso:
+
+               1) Aprovado: quando o protocolo encontra-se totalmente adequado para
+execução.
+
+               2) Com pendência: quando a decisão é pela necessidade de correção, hipótese
+em que serão solicitadas alterações ou complementações do protocolo de pesquisa. Por
+mais simples que seja a exigência feita, o protocolo continua em “pendência”, enquanto esta
+não estiver completamente atendida.
+
+               3) Não Aprovado: quando a decisão considera que os óbices éticos do
+protocolo são de tal gravidade que não podem ser superados pela tramitação em
+“pendência”.
+
+               4) Arquivado: quando o pesquisador descumprir o prazo para enviar as
+respostas às pendências apontadas ou para recorrer.
+
+                                                                                  2/14
+             5) Suspenso: quando a pesquisa aprovada, já em andamento, deve ser
+
+interrompida por motivo de segurança, especialmente referente ao participante da pesquisa.
+
+             6) Retirado: quando o Sistema CEP/CONEP acatar a solicitação do pesquisador
+
+responsável mediante justificativa para a retirada do protocolo, antes de sua avaliação ética.
+
+Neste caso, o protocolo é considerado encerrado.
+
+             H) Da tramitação das emendas e extensões:
+
+             1. Emenda é toda proposta de modificação ao projeto original, apresentada
+
+com a justificativa que a motivou. As emendas devem ser apresentadas ao CEP de forma
+
+clara e sucinta, identificando a parte do protocolo a ser modificado e suas justificativas. A
+
+emenda será analisada pelas instâncias de sua aprovação final (CEP e/ou CONEP).
+
+             2. Extensão é a proposta de prorrogação ou continuidade da pesquisa com
+
+os mesmos participantes recrutados, sem mudança essencial nos objetivos e na
+
+metodologia do projeto original. Havendo modificações importantes de objetivos e métodos,
+
+deve ser apresentado outro protocolo de pesquisa.
+
+             I) Do arquivo: o Sistema CEP/CONEP deve manter, sob sua guarda e
+
+responsabilidade, os protocolos de pesquisa e demais documentos, inclusive digitalizados,
+
+pelo prazo mínimo de cinco (5) anos a contar do encerramento do protocolo. Decorrido este
+
+tempo, o CEP deverá avaliar os documentos com vistas a sua destinação final, de acordo
+
+com a legislação vigente.
+
+             1. Os protocolos anteriores à implementação da Plataforma Brasil poderão
+
+ser digitalizados para arquivamento.
+
+J) Da tramitação de Eventos Adversos Sérios (EAS): EAS é qualquer ocorrência
+
+médica desfavorável que resulta em: 1) Morte; 2) Ameaça ou risco de vida; 3)
+
+Hospitalização ou prolongamento de uma hospitalização preexistente, excetuando-se as
+
+cirurgias eletivas e as internações previstas no protocolo; 4) Incapacidade persistente ou
+
+significativa; 5) Anomalia congênita ou defeito de nascimento e 6) Ocorrência médica
+
+significativa que, baseada em julgamento médico apropriado, pode prejudicar o paciente
+
+e/ou requerer intervenção médica ou cirúrgica para prevenir quaisquer das demais
+
+ocorrências supracitadas. Os relatórios de pesquisa devem ser enviados semestralmente,
+
+comunicando ao CEP a ocorrência de eventos adversos esperados ou não esperados. O
+
+CEP assumirá, com o pesquisador, a corresponsabilidade pela preservação de condutas
+
+eticamente corretas no projeto e no desenvolvimento da pesquisa, cabendo-lhe, ainda,
+
+comunicar à CONEP e à Anvisa a ocorrência de eventos adversos graves. O formulário de
+
+notificação  encontra-se              disponível,  para       preenchimento,     em:
+
+http://conselho.saude.gov.br/web_comissoes/conep/index.html.
+
+K) Das denúncias e situações de infração ética: ao receber denúncias ou
+
+perceber situações de infrações éticas, sobretudo as que impliquem em riscos aos
+
+participantes de pesquisa, os fatos deverão ser comunicados às instancias competentes
+
+para averiguação e, quando couber, ao Ministério Público.
+
+                                      3/14
+   2.2. ASPECTOS OPERACIONAIS DOS CEP
+           A) Do credenciamento/recredenciamento dos CEP: o processo de
+
+credenciamento e renovação de um CEP é regulado por Resolução específica do CNS.
+               1. O registro, credenciamento ou renovação de registro e credenciamento do
+
+CEP será efetivado mediante solicitação formulada pelo responsável da instituição
+acompanhada do regimento interno e de documento de compromisso de assegurar as
+condições mínimas de funcionamento do CEP, dentre outros documentos exigidos em
+resolução específica.
+
+               2. A operacionalização do CEP inclui, dentre outros, a obrigatória capacitação,
+inicial e permanente, dos membros que o comporão devendo a comprovação de tal
+capacitação ser encaminhada à CONEP.
+
+           B) Da composição: o CEP será composto por, no mínimo, sete (7) membros, dentre
+eles, pelo menos, um representante de usuários, respeitando-se a proporcionalidade pelo
+número de membros. Pelo menos 50% dos membros deverão comprovar ter experiência em
+pesquisa. Poderá variar na sua composição, de acordo com as especificidades da instituição
+e dos temas de pesquisa a serem analisados. Terá, sempre, caráter multidisciplinar, não
+devendo haver mais que a metade dos seus membros pertencente à mesma categoria
+profissional, participando pessoas dos dois sexos. Poderá, ainda, contar com consultores
+“ad hoc”, pertencentes, ou não, à instituição, com a finalidade de fornecer subsídios
+técnicos.
+
+               1. Da indicação do membro usuário: a indicação da representação de
+usuários é feita, preferencialmente, pelos Conselhos Municipais ou Estaduais de Saúde,
+cabendo ao CNS, por meio da CONEP, contribuir no processo de fortalecimento da
+participação dos representantes de usuários. A indicação do usuário também poderá ser
+feita por movimentos sociais, entidades representativas de usuários e encaminhadas para a
+análise e aprovação da CONEP.
+
+               2. Da substituição de membros: ao CEP cabe comunicar as situações de
+vacância ou afastamento de membros e encaminhar à CONEP as substituições efetivadas,
+justificando-as.
+
+           C) Da vacância, afastamento e ausências: cabe ao CEP, ante as situações de
+vacância, afastamento ou ausências injustificadas por parte de seus membros, adotar as
+providências de substituição, comunicando o fato à CONEP.
+
+           D) Dos prazos: O prazo para emissão do parecer inicial pelo CEP é de trinta (30)
+dias a partir da aceitação na integralidade dos documentos do protocolo, cuja checagem
+documental deverá ser realizada em até 10 dias após a submissão.
+
+           E) Se o parecer for de pendência, o pesquisador terá o prazo de trinta (30) dias,
+contados a partir de sua emissão na Plataforma Brasil, para atendê-la. Decorrido este prazo,
+o CEP terá trinta (30) dias para emitir o parecer final, aprovando ou reprovando o protocolo.
+
+                                                                                  4/14
+           F) As pendências meramente documentais serão previamente apreciadas pelo
+corpo técnico-administrativo e/ou pela coordenação do CEP, e comunicadas, diretamente,
+ao pesquisador.
+
+           G) Do cumprimento das recomendações da CONEP: ao CEP cabe verificar, junto
+ao pesquisador, o cumprimento das recomendações feitas nos pareceres da CONEP, antes
+de autorizar o início da pesquisa. Ao verificar o não cumprimento dessas recomendações,
+cabe ao CEP manter o protocolo em “pendência” ou, em casos justificáveis, não aprová-lo,
+obedecendo ao prazo estabelecido para a tramitação de respostas a pendências.
+
+           H) Dos recursos: das deliberações do CEP cabe recurso de reconsideração, ao
+próprio CEP, no prazo de trinta (30) dias.
+
+           I) Se o CEP indeferir o recurso de reconsideração, o pesquisador poderá interpor
+recurso à CONEP, como última instância, no prazo de trinta (30) dias.
+
+           J) Do papel educativo e de capacitação: visa ao fortalecimento de suas decisões,
+bem como da proteção integral dos participantes de pesquisa. Para tanto o CEP deve
+aprovar, no primeiro bimestre de cada ano, um plano de capacitação permanente dos seus
+membros, podendo articular-se com outros Comitês para a execução desse plano.
+
+           K) Dos relatórios à CONEP: os relatórios de atividades dos CEP devem indicar,
+qualitativamente, como ocorreu a dinâmica de atuação do Comitê entre seus membros, bem
+como, junto a pesquisadores, participantes de pesquisa e instituição mantenedora. Devem
+ser enviados para a CONEP no primeiro bimestre de cada semestre, apontando os dados
+qualitativos das atividades dos últimos 6 meses, conforme orientação da página eletrônica
+da CONEP (Anexo I).
+
+           L) Das articulações dos CEP: os CEP devem articular-se entre si, bem como
+buscar estabelecer articulações fora do Sistema CEP-CONEP para o cumprimento de sua
+missão protetiva dos participantes de pesquisa. De sua rede de articulações, destacam-se:
+os movimentos sociais, as instituições de ensino, as entidades de representação de
+usuários e trabalhadores em saúde, as instâncias do Controle Social como Conselhos e
+Conferências, e órgãos de comunicação.
+
+   2.3. ASPECTOS OPERACIONAIS DA CONEP
+         A) Da caracterização e vinculação: a Comissão Nacional de Ética em Pesquisa
+
+(CONEP/CNS/MS) é uma instância colegiada, de natureza consultiva, deliberativa,
+normativa, educativa, independente, vinculada ao Conselho Nacional de Saúde, cujo
+processo eleitoral, organização e competências dar-se-ão de acordo com as normas do
+CNS.
+
+         B) Da Secretaria Executiva: a Secretaria de Ciência, Tecnologia e Insumos
+Estratégicos do Ministério da Saúde (SCTIE/MS) exerce a função de Secretaria Executiva
+
+                                                                                  5/14
+da CONEP/CNS, sendo responsável por sua gestão organizacional e por promover a
+articulação do Sistema CEP-CONEP com a Política Nacional de Ciência, Tecnologia e
+Inovação em Saúde (PNCTIS), respeitando as atribuições superiores da Comissão e do
+CNS. Compete, ainda, ao secretário da SCTIE/MS indicar um secretário-executivo, um
+coordenador adjunto e dois membros representantes da SCTIE/MS para compor a
+CONEP/CNS, nos termos da Resolução CNS 446/2011.
+
+         C) Da composição: a CONEP/CNS/MS terá composição multidisciplinar, com
+participação equitativa de gênero e será composta por 30 (trinta) membros titulares e 5
+(cinco) membros suplentes, que assumirão em eventuais vacâncias ou impossibilidades dos
+titulares sendo que dentre os membros titulares, 8 (oito) representarão os segmentos do
+Conselho Nacional de Saúde, de forma paritária (Conforme Art. 2 da Resolução 446/2011
+do CNS).
+
+         D) Da deliberação ética: a deliberação ética da CONEP observará, além das
+categorias elencadas no item 2.1.H supra, as seguintes:
+
+             1. Aprovado com recomendações ao CEP: quando a CONEP considera que as
+correções do protocolo podem ser verificadas somente no âmbito do CEP.
+
+             2. Devolvido: quando houver erro de submissão de protocolo de pesquisa por
+parte do CEP, à CONEP.
+
+         E) Da vacância, afastamento e ausências: cabe à CONEP comunicar ao CNS as
+situações de vacância, afastamento ou ausências injustificadas por parte de seus membros,
+para providências de substituição.
+
+         F) Da análise ética: O prazo para emissão do parecer inicial, pela CONEP, é de
+sessenta (60) dias, a partir do aceite da documentação.
+
+         A CONEP terá até 15 dias para fazer a revisão documental, a partir do dia da
+submissão do protocolo pelo pesquisador.
+
+         Frente ao parecer com pendência, o pesquisador terá o prazo de trinta (30) dias,
+contados a partir de sua emissão na Plataforma Brasil, para atendê-la. Após o recebimento
+da resposta da pendência por parte do pesquisador, a CONEP terá o prazo máximo de
+quarenta e cinco (45) dias para emitir parecer final, aprovando ou reprovando o protocolo.
+
+         As pendências meramente documentais serão previamente apreciadas pelo corpo
+técnico-administrativo e/ou pela coordenação da CONEP e comunicadas, diretamente, ao
+pesquisador, devendo, o mesmo, observar a relação documental necessária às
+especificidades do seu protocolo, no Anexo II.
+
+         G) Do recurso: A CONEP decidirá:
+             1) O recurso de reconsideração interposto contra as decisões proferidas nos
+
+protocolos que são da competência originária da CONEP. O pesquisador terá trinta (30) dias
+para interpor recurso, apresentando fato novo que justifique a reanálise, cabendo à CONEP
+emitir o seu parecer final em quarenta e cinco (45) dias;
+
+                                                                                  6/14
+             2) Recurso interposto pelo pesquisador como descrito no item 2.2.F. em razão do
+indeferimento de anterior recurso de reconsideração. Das deliberações do CEP cabe
+recurso à CONEP, no prazo de trinta (30) dias.
+
+             A CONEP analisará o recurso encaminhado pelo CEP, proferindo decisão no
+sentido de:
+
+            i.Aprovado;
+           ii.Aprovado com recomendações ao CEP;
+          iii.Com pendências;
+          iv.Não aprovado: mediante a não aprovação do recurso, encerra-se a tramitação do
+protocolo, que será arquivado.
+         H) Das audiências: a CONEP concede audiências mediante solicitações dos
+pesquisadores, interessados, quando, durante o processo de análise, a plenária da CONEP
+considere importante que o próprio pesquisador faça a sua argumentação verbal ou em
+outras situações que se mostrem pertinentes, sempre a critério do juízo de oportunidade e
+conveniência da referida plenária. As audiências devem ser solicitadas pelo e-mail
+conep.audiencia@saude.gov.br.
+         I) Do papel educativo e de capacitação: dentre as diversas atribuições da
+CONEP, encontra-se o seu papel educativo, visando ao fortalecimento de suas decisões
+internas, bem como da proteção final dos participantes de pesquisa. Para tanto, a CONEP
+promove e participa de eventos educativos. A agenda de participação da CONEP é de
+atribuição da sua plenária, mediante demandas apresentadas à sua Secretaria Executiva
+pelo e-mail conep.eventos@saude.gov.br.
+         J) Do relatório das atividades: a CONEP deve elaborar e encaminhar para a
+análise e aprovação do CNS, o seu relatório anual de atividades no primeiro bimestre de
+cada ano, mediante análise da execução do seu planejamento orçamentário.
+         K) Do plano de trabalho: a CONEP deve elaborar e encaminhar para a análise e
+aprovação do CNS, no primeiro trimestre de cada ano, seu plano de trabalho, em
+consonância com o plano trienal do CNS e com a previsão orçamentária anual.
+         L) Do credenciamento/recredenciamento dos CEP: o processo de
+credenciamento e renovação de um CEP é regulado por Resolução específica do CNS. À
+CONEP compete credenciar, recredenciar ou descredenciar os CEP.
+         M) Do processo de monitoramento dos CEP: os CEP serão monitorados pela
+CONEP por meio de:
+
+             1. Análise do CEP na Plataforma Brasil;
+             2. Análise do relatório semestral do CEP;
+             3. Visitas de Inspeção, deliberadas pela Coordenação da CONEP, realizadas por
+membros da CONEP e CNS, que poderão ocorrer a qualquer momento, com ou sem aviso
+prévio ao CEP;
+
+                                                                                  7/14
+             4. Denúncias oriundas de pesquisadores, participantes de pesquisas, membros
+de CEP e da CONEP e outras.
+
+         N) Das articulações da CONEP: a CONEP deve articular-se interna e externamente
+ao Sistema CEP-CONEP para o cumprimento de sua missão protetiva dos participantes de
+pesquisa. De sua rede de articulações destacam-se: a Anvisa, a Secretaria de Ciência,
+Tecnologia e Insumos Estratégicos – SCTIE, os órgãos do Poder Legislativo, os órgãos do
+Poder Judiciário, o Ministério Público, os movimentos sociais, as instituições de ensino, as
+entidades científicas, as entidades de representação de usuários, trabalhadores, setor
+produtivo e prestadores de serviços em saúde e outras instâncias do Controle Social como
+Conselhos e Conferências e órgãos de comunicação.
+
+3 – PROTOCOLO DE PESQUISA
+     3.1) Protocolo de pesquisa: é o conjunto de documentos, que pode ser variável a
+
+depender do tema, incluindo o projeto, e que apresenta a proposta de uma pesquisa a ser
+analisada pelo Sistema CEP-CONEP. (vide Anexo II desta Norma Operacional).
+
+     3.2) Requisitos para submissão de um protocolo: O protocolo, para ser submetido à
+revisão ética, deverá ter seu pesquisador responsável cadastrado na Plataforma Brasil no
+endereço eletrônico: http://www.saude.gov.br/plataformabrasil e seguir as orientações para o
+cadastramento. Somente serão apreciados protocolos de pesquisa lançados na Plataforma
+e que apresentarem toda a documentação solicitada, em Português, acompanhado dos
+originais em língua estrangeira, quando houver.
+
+     3.3) Todos os protocolos de pesquisa devem conter:
+           a) Folha de rosto: todos os campos devem ser preenchidos, datados e assinados, com
+
+identificação dos signatários. As informações prestadas devem ser compatíveis com as do
+protocolo. A identificação das assinaturas deve conter, com clareza, o nome completo e a
+função de quem assina, preferencialmente, indicados por carimbo. O título da pesquisa será
+apresentado em língua portuguesa e será idêntico ao do projeto de pesquisa;
+
+           b) Declarações pertinentes, conforme a lista de checagem apresentada no Anexo II da
+presente norma, devidamente assinadas;
+
+           c) Declaração de compromisso do pesquisador responsável, devidamente assinada, de
+anexar os resultados da pesquisa na Plataforma Brasil, garantindo o sigilo relativo às
+propriedades intelectuais e patentes industriais;
+
+           d) Garantia de que os benefícios resultantes do projeto retornem aos participantes da
+pesquisa, seja em termos de retorno social, acesso aos procedimentos, produtos ou agentes da
+pesquisa;
+
+           e) Orçamento financeiro: detalhar os recursos, fontes e destinação; forma e valor da
+remuneração do pesquisador; apresentar em moeda nacional ou, quando em moeda
+estrangeira, com o valor do câmbio oficial em Real, obtido no período da proposição da
+pesquisa; apresentar previsão de ressarcimento de despesas do participante e seus
+
+                                                                                  8/14
+acompanhantes, quando necessário, tais como transporte e alimentação e compensação
+material nos casos ressalvados no item II.10 da Resolução do CNS 466/12;
+
+           f) Cronograma que descreva a duração total e as diferentes etapas da pesquisa, com
+compromisso explícito do pesquisador de que a pesquisa somente será iniciada a partir da
+aprovação pelo Sistema CEP-CONEP;
+
+           g) Termo de Consentimento Livre e Esclarecido (TCLE) é um documento público
+específico para cada pesquisa, incluindo informações sobre as circunstâncias sob as quais o
+consentimento será obtido, sobre o responsável por obtê-lo e a natureza da informação a ser
+fornecida aos participantes da pesquisa, ou a dispensa do TCLE deve ser justificadamente
+solicitada pelo pesquisador responsável ao Sistema CEP/CONEP, para apreciação;
+
+           h) Demonstrativo da existência de infraestrutura necessária e apta ao desenvolvimento
+da pesquisa e para atender eventuais problemas dela resultantes, com documento que
+expresse a concordância da instituição e/ou organização por meio de seu responsável maior
+com competência;
+
+           i) Outros documentos que se fizerem necessários, de acordo com a especificidade da
+pesquisa;
+
+           j) Projeto de pesquisa original na íntegra.
+
+     3.4) Do projeto de pesquisa: o projeto de pesquisa é o documento fundamental para que
+o Sistema CEP-CONEP possa proceder a análise ética da proposta, devendo ser formulado
+pelo pesquisador e, em caso de projetos multicêntricos internacionais, revisados, interpretados
+e corretamente traduzidos para o português. Os itens do projeto variam de acordo com sua
+natureza e procedimentos metodológicos utilizados.
+
+             3.4.1) Todos os protocolos de pesquisa devem conter, obrigatoriamente:
+               1 – Tema: contido no título;
+               2 – Objeto da pesquisa: o que se pretende pesquisar;
+               3 – Relevância social: importância da pesquisa em seu campo de atuação,
+
+apresentada pelo pesquisador;
+               4 – Objetivos: propósitos da pesquisa;
+               5 – Local de realização da pesquisa: com detalhamento das instalações, dos
+
+serviços, centros, comunidades e instituições nas quais se processarão as várias etapas da
+pesquisa. Em caso de estudos nacionais ou internacionais multicêntricos, deve ser apresentada
+lista de centros brasileiros participantes, constando o nome do pesquisador responsável,
+instituição, Unidade Federativa (UF) a que a instituição pertence e o CEP responsável pelo
+acompanhamento do estudo em cada um dos centros. Em caso de estudos das Ciências
+Sociais e Humanas, o pesquisador, quando for o caso, deve descrever o campo da pesquisa,
+caracterizando-o geográfica, social e/ou culturalmente, conforme o caso;
+
+               6 – População a ser estudada: características esperadas da população, tais como:
+tamanho, faixa etária, sexo, cor/raça (classificação do IBGE) e etnia, orientação sexual e
+
+                                                                                  9/14
+identidade de gênero, classes e grupos sociais, e outras que sejam pertinentes à descrição da
+população e que possam, de fato, ser significativas para a análise ética da pesquisa; na
+ausência da delimitação da população, deve ser apresentada justificativa para a não
+apresentação da descrição da população, e das razões para a utilização de grupos vulneráveis,
+quando for o caso;
+
+                     6.1 – As especificidades éticas das pesquisas com população indígena, dadas
+as suas particularidades, são contempladas em Resolução Complementar do Conselho
+Nacional de Saúde/CNS.
+
+               7 – Garantias éticas aos participantes da pesquisa: medidas que garantam a
+liberdade de participação, a integridade do participante da pesquisa e a preservação dos dados
+que possam identificá-lo, garantindo, especialmente, a privacidade, sigilo e confidencialidade e
+o modo de efetivação. Protocolos específicos da área de ciências humanas que, por sua
+natureza, possibilitam a revelação da identidade dos seus participantes de pesquisa, poderão
+estar isentos da obrigatoriedade da garantia de sigilo e confidencialidade, desde que o
+participante seja devidamente informado e dê o seu consentimento;
+
+               8 – Método a ser utilizado: descrição detalhada dos métodos e procedimentos
+justificados com base em fundamentação científica; a descrição da forma de abordagem ou
+plano de recrutamento dos possíveis indivíduos participantes, os métodos que afetem
+diretamente ou indiretamente os participantes da pesquisa, e que possam, de fato, ser
+significativos para a análise ética;
+
+               9 – Cronograma: informando a duração total e as diferentes etapas da pesquisa,
+em número de meses, com compromisso explícito do pesquisador de que a pesquisa somente
+será iniciada a partir da aprovação pelo Sistema CEP-CONEP;
+
+               10 – Orçamento: Apresentado de acordo com o item 3.3.e;
+               11 – Critérios de inclusão e exclusão dos participantes da pesquisa: devem ser
+apresentados de acordo com as exigências da metodologia a ser utilizada;
+               12 – Riscos e benefícios envolvidos na execução da pesquisa: o risco, avaliando
+sua gradação, e descrevendo as medidas para sua minimização e proteção do participante da
+pesquisa; as medidas para assegurar os necessários cuidados, no caso de danos aos
+indivíduos; os possíveis benefícios, diretos ou indiretos, para a população estudada e a
+sociedade;
+               13 – Critérios de encerramento ou suspensão de pesquisa: devem ser
+explicitados, quando couber;
+               14 – Resultados do estudo: garantia do pesquisador que os resultados do estudo
+serão divulgados para os participantes da pesquisa e instituições onde os dados foram obtidos.
+               15 – Divulgação dos resultados: garantia pelo pesquisador de encaminhar os
+resultados da pesquisa para publicação, com os devidos créditos aos autores;
+
+                       15.1 - Nos casos que envolverem patenteamento, possíveis postergações da
+divulgação dos resultados devem ser notificadas e autorizadas pelo Sistema CEP-CONEP;
+
+                                                                                 10/14
+               16 – Declarações de responsabilidade, devidamente assinadas, do pesquisador, por
+responsável maior com competência da instituição, do promotor e do patrocinador, conforme
+Anexo II, observada a Área Temática;
+
+               17 – Declaração assinada por responsável institucional, disponibilizando a existência
+de infraestrutura necessária ao desenvolvimento da pesquisa e para atender eventuais
+problemas dela resultantes.
+
+             3.4.2) Requisitos específicos dos protocolos de pesquisa:
+                       a) Se o propósito for testar um produto ou dispositivo para a saúde, novo no
+
+Brasil, de procedência estrangeira ou não, deverá ser indicada a situação atual de registro junto
+às agências regulatórias do país de origem, se houver;
+
+                       b) Identificar as fontes materiais de pesquisa, tais como espécimes, registros,
+dados, a serem obtidos de seres humanos, indicando se esse material será obtido
+especificamente para os propósitos da pesquisa ou se, também será usado para outros fins;
+
+                       c) Relação das instituições participantes, na dependência do protocolo
+proposto:
+
+                         i. Protocolos multicêntricos no Brasil: elencar o centro coordenador, centros
+participantes (indicando o pesquisador responsável pela pesquisa no centro e o CEP que
+acompanhará o andamento do estudo);
+
+                         ii. Protocolos com centros coparticipantes: elencar, além do centro
+proponente do estudo, os centros coparticipantes.
+
+                           d) Pesquisas com coordenação e/ou patrocínio originados fora do Brasil
+com copatrocínio do Governo Brasileiro deverão explicitá-lo por meio de anuência oficial emitida
+pelo gestor federal de Ciência, Tecnologia e Insumos Estratégicos em Saúde.
+
+      Norma elaborada aprovada pelo Plenário do Conselho Nacional de Saúde, de 11 e 12 de
+                                                                                                         setembro de 2013.
+
+                                                                                         Data da Expedição: 30/09/2013
+                                                                                 Data para Entrada em Vigor: Imediata
+
+                                                                                 11/14
+          Anexo I – Roteiro de Elaboração de Relatório semestral dos CEP:
+
+O relatório deve informar:
+1. Reuniões:
+
+    Periodicidade das reuniões;
+    Descrição da dinâmica das reuniões;
+    Percentual de presença de membros;
+    Demanda de Projetos; média de tempo dedicado à análise de projetos;
+    Média de tempo de tramitação de projetos na plataforma
+2. Estrutura e funcionamento: (informar se persistem ou se houve modificações das
+condições mínimas de funcionamento informadas no momento do registro do CEP)
+    Composição do colegiado adequada (multi e transdisciplinar), representante de
+usuários, etc
+    Funcionário administrativo designado (exclusivo para o CEP ou não)
+    Horário definido para funcionamento da secretaria, telefone para contato, sala exclusiva,
+arquivo etc.)
+
+                                                                                 12/14
+    Demanda de Projetos;
+3. Acompanhamento do desenvolvimento dos projetos de Pesquisa: (informar as
+medidas que foram tomadas)
+
+    Relatórios dos pesquisadores; (periodicidade)
+    Notificação de eventos adversos
+    Instauração de sindicâncias em caso de denúncias de irregularidades
+4. Papel Consultivo e Educativo do CEP: (relacionar os eventos)
+    Orientação fornecida e material consultivo disponibilizado a pesquisadores
+    Atividades educativas internas aos membros do CEP e a comunidade científica (a partir
+
+     do cronograma previamente apresentado, relacionar os eventos)
+    Atividades educativas para participantes da pesquisa e comunidade em geral.
+    Reuniões com outros CEP;
+    Participação dos membros em Eventos, fóruns, seminários, mesas redondas.
+O Relatório da demanda de Projetos analisados pelo CEP será consultado na Plataforma
+Brasil.
+
+                                                                                 13/14
+        Anexo II – Lista de checagem documental para protocolos de pesquisa
+   envolvendo ou não o armazenamento de material biológico (biorrepositório) e
+
+                          protocolos de desenvolvimento de biobanco:
+
+                                         CONSELHO NACIONAL DE SAÚDE
+                             COMISSÃO NACIONAL DE ÉTICA EM PESQUISA
+
+                            LISTA DE CHECAGEM PARA PROTOCOLOS DE PESQUISA
+                            ITENS OBRIGATÓRIOS PARA PROTOCOLOS DE PESQUISA
+   01. Todos os documentos anexados pelo pesquisador devem possibilitar o uso dos recursos
+         “Copiar” e “Colar” em qualquer palavra ou trecho do texto.
+   02. Protocolo de pesquisa: Anexar arquivo integral do Projeto de Pesquisa. Conforme o item 1
+         desta lista de checagem, este documento deve possibilitar o uso dos recursos “Copiar” e “Colar”.
+   03. Apresentar “Folha de Rosto” com os termos de compromisso devidamente datados e
+         assinados. O termo de compromisso deve ser assinado pelo responsável maior da Instituição.
+         Caso o pesquisador seja o responsável maior da Instituição, o seu substituto deverá assinar o
+         documento.
+   04. Apresentar Termo de Consentimento Livre e Esclarecido – TCLE. Na ausência do TCLE,
+         apresentar justificativa.
+DOCUMENTOS NECESSÁRIOS PARA ARMAZENAMENTO DE MATERIAL BIOLÓGICO HUMANO EM
+ BIORREPOSITÓRIO (ATRELADO A UM PROJETO DE PESQUISA ESPECÍFICO)– De acordo com a
+
+                                     Resolução CNS 441/2011 e Portaria MS 2.201/11
+OBS: O prazo de vigência do biorrepositório é o prazo de vigência do projeto ao qual está atrelado.
+
+   01. Quanto ao consentimento do participante: O TCLE apresentado deve conter consentimento de
+         autorização para a coleta, o depósito,armazenamento e utilização do material biológico humano
+         atrelado ao projeto de pesquisa específico (Resolução CNS 441/11, itens 2.II e 6; Portaria MS
+         2.201/11, Capítulo II, Artigos 5° e Capítulo III, Artigo 8).
+
+   02. Pesquisa envolvendo mais de uma instituição: Apresentar acordo entre as instituições
+         participantes contemplando operacionalização, compartilhamento, utilização do material biológico
+         humano armazenado em Biorrepositório, inclusive a possibilidade de dissolução futura da parceria e
+         a consequente partilha e destinação dos dados e materiais armazenados. (Resolução CNS
+         441/2011, item 13; Portaria MS 2.201/11, Capítulo IV, seção II, artigo 19).
+
+   03. Constituição ou participação em biorrepositório no exterior: Apresentar documento garantindo
+         ao pesquisador e à instituição brasileiros o direito ao acesso e utilização do material biológico
+         humano armazenado no exterior (e não apenas das amostras depositadas pelo pesquisador). Deve
+         ser garantida, no mínimo, a proporcionalidade na participação e deve ser apresentado o
+         compromisso da instituição destinatária no exterior quanto à vedação do patenteamento e da
+         utilização comercial de material biológico humano, em atenção à normativa brasileira em especial,
+         ao item 14 da Resolução CNS 441/2011 e Portaria MS 2.201/11, capítulo IV, seção I, artigos 11 e
+
+                                                                                     14/14
+         12.
+DOCUMENTOS NECESSÁRIOS PARA ARMAZENAMENTO DE MATERIAL BIOLÓGICO HUMANO EM
+
+        BIORREPOSITÓRIO (ATRELADO A UM PROJETO DE PESQUISA ESPECÍFICO, VISANDO À
+    POSSIBILIDADE DE UTILIZAÇÃO EM INVESTIGAÇÕES FUTURAS) – De acordo com a Resolução
+
+                                               CNS 441/2011 e Portaria MS 2.201/11
+OBS: O prazo de vigência do biorrepositório pode ser autorizado por até 10 anos, sendo possíveis
+
+                                   renovações (Resolução CNS 441/11, artigo 12, item I).
+   01. Quanto à justificativa de necessidade para utilização futura de amostra armazenada.
+
+         Apresentar documento contendo justificativa quanto à utilização futura das amostras biológicas
+         humanas coletadas e armazenadas durante a pesquisa (Resolução CNS 441/11, itens 2.I e 12).
+   02. Quanto ao consentimento do participante: O TCLE apresentado deve conter consentimento de
+         autorização para a coleta, o depósito, o armazenamento e a utilização do material biológico humano
+         atrelado ao projeto de pesquisa específico (Resolução CNS 441/11, itens 2.II e 6; Portaria MS
+         2.201/11, Capítulo II, Artigos 5° e Capítulo III, Artigo 8). O mesmo TCLE deve ainda informar ao
+         participante a possibilidade de utilização futura da amostra armazenada. Ressalta-se que o uso da
+         mesma estará condicionado à: (a) apresentação de novo projeto de pesquisa para ser analisado e
+         aprovado pelo Sistema CEP/CONEP e (b) obrigatoriamente, ao reconsentimento do participante de
+         pesquisa por meio de um TCLE específico referente ao novo projeto de pesquisa (Resolução CNS
+         441/11, item 6 ePortaria MS 2.201/11, capítulo II, artigo 5 e capítulo IV, seção II, artigos 17, 18 e
+         22).
+   03. Quanto à Declaração de submissão ao Sistema CEP/CONEP em caso de novos estudos:
+         Apresentar documento, devidamente assinado pelo pesquisador, atestando o compromisso de que
+         toda nova pesquisa a ser realizada com o material armazenado será submetida à aprovação do
+         CEP institucional e, quando for o caso, da CONEP (Resolução CNS 441/11, item 2.III). Para cada
+         novo projeto será necessário um novo TCLE.
+   04. Pesquisa envolvendo mais de uma instituição: Apresentar acordo entre as instituições
+         participantes contemplando operacionalização, compartilhamento e utilização do material biológico
+         humano armazenado em Biorrepositório, inclusive a possibilidade de dissolução futura da parceria e
+         a consequente partilha e destinação dos dados e materiais armazenados. (Resolução CNS
+         441/2011, item 13; Portaria MS 2.201/11, Capítulo IV, seção II, artigo 19).
+   05. Constituição ou participação em biorrepositório no exterior: Apresentar documento garantindo
+         ao pesquisador e à instituição brasileiros o direito ao acesso e utilização do material biológico
+         humano armazenado no exterior (e não apenas das amostras depositadas pelo pesquisador). Deve
+         ser garantida, no mínimo, a proporcionalidade na participação e deve ser apresentado o
+         compromisso da instituição destinatária no exterior quanto à vedação do patenteamento e da
+         utilização comercial de material biológico humano, em atenção à normativa brasileira em especial,
+         ao item 14 da Resolução CNS 441/2011 e Portaria MS 2.201/11, capítulo IV, seção I, artigos 11 e
+         12.
+       DOCUMENTOS NECESSÁRIOS PARA UTILIZAÇÃO DE MATERIAL BIOLÓGICO HUMANO
+
+                                                 ARMAZENADO EM BIOBANCO
+   01. Quanto à justificativa de necessidade de utilização: Apresentar justificativa para a utilização de
+
+         amostras biológicas humanas armazenadas em Biobanco (Resolução CNS 441/11, item 15.II.a).
+
+                                                                                     15/14
+     02. Quanto ao consentimento do participante: Apresentar o modelo de TCLE aprovado quando da
+          autorização de armazenamento do material biológico humano em Biobanco. No caso da intenção de
+          utilização de amostras armazenadas em Biobanco em que o participante optou pelo novo
+          consentimento a cada pesquisa, se faz necessária a apresentação de modelo de TCLE específico e
+          referente à pesquisa em questão ou a solicitação da sua dispensa (Resolução CNS 441/11, itens
+          15.II.b e 15.II.c; Portaria MS 2.201/11, Capítulo II, artigo 4°, parágrafos 1° ao 4° e capítulo III, artigo
+          8º).
+
+     03. Quanto ao Regulamento de funcionamento: Apresentar documento comprobatório da aprovação
+          da constituição e funcionamento do Biobanco institucional no qual as amostras estão armazenadas.
+
+DOCUMENTOS NECESSÁRIOS SOMENTE PARA SOLICITAÇÃO DE CONSTITUIÇÃO OU
+    REGULARIZAÇÃO DE FUNCIONAMENTO DE BIOBANCO INSTITUCIONAL (PROTOCOLO DE
+    DESENVOLVIMENTO)
+
+OBS: Esta função ainda não está implementada no Sistema Plataforma Brasil e, portanto, a
+    documentação deve ser enviada via correio (cópias impressa e em CD) para a CONEP
+     01.Quanto ao Ofício de encaminhamento: Apresentar o documento assinado pelo coordenador do
+          CEP.
+     02. Apresentar o Regulamento (Protocolo de Desenvolvimento) de acordo com os itens 1.V e 3 da
+    Resolução CNS 441/2011 e seção III, artigo 23 da Portaria MS 2.201/11, contendo:
+              a. Identificação dos responsáveis pelo Biobanco (Declaração de gerenciamento e Termo de
+                    Responsabilidade Institucional;Portaria MS 2.201/11, Capítulo I, Artigo 3º, item XVII e
+                    Capítulo IV, Seção III, Artigo 23).
+              b. Modelo de TCLE a ser utilizado (Resolução CNS 441/2011, item 5; Portaria MS 2.201/11,
+                    Capítulo II, Artigo 4º e Capítulo IV, Seção III, Artigo 24) devidamente aprovado pelo CEP: o
+                    TCLE obrigatoriamente deve conter as seguintes alternativas, excludentes entre si: (I)
+                    necessidade de novo consentimento a cada pesquisa e (II) dispensa de novo consentimento
+                    a cada pesquisa.
+              c. Informações a serem registradas relativas ao participante e às amostras.
+              d. Procedimentos operacionais relativos às etapas de coleta, processamento, armazenamento,
+                    distribuição e descarte das amostras (Portaria MS 2.201/11, Capítulo IV, Seção III, Artigo
+                    23).
+              e. Regimento Interno do Biobanco (Portaria MS 2.201/11, Capítulo I, Artigo 3º, item XIV e
+           Capítulo IV, Seção III, Artigo 23).
+     03. Declaração de compromisso de envio de Relatório de atividades (Resolução CNS 441/2011,
+            item 11.I; Portaria MS 2.201/11, Capítulo IV, Seção III, Artigo 35).
+     04. Constituição ou participação em biobancono exterior: Apresentar documento garantindo ao
+          pesquisador e à instituição brasileiros o direito ao acesso e utilização do material biológico humano
+          armazenado no exterior (e não apenas das amostras depositadas pelo pesquisador). Deve ser
+          garantida, no mínimo, a proporcionalidade na participação e deve ser apresentado o compromisso
+          da instituição destinatária no exterior quanto à vedação do patenteamento e da utilização comercial
+          de material biológico humano, em atenção à normativa brasileira em especial, ao item 14 da
+          Resolução CNS 441/2011 e Portaria MS 2.201/11, capítulo IV, seção I, artigos 11 e 12.
+     05. Armazenamento e compartilhamento de amostras entre Biobancos institucionais: Apresentar
+
+                                                                                       16/14
+          acordo entre as instituições participantes contemplando operacionalização, compartilhamento,
+          utilização do material biológico humano armazenado em Biobanco, inclusive a possibilidade de
+          dissolução futura da parceria e a consequente partilha e destinação dos dados e materiais
+          armazenados (Resolução CNS 441/2011, item 13; Portaria MS 2.201/11, Capítulo IV, Seção III,
+          Artigo 31).
+Caso haja documentos originais em língua estrangeira, além da versão traduzida para o Português,
+    devem ser apresentadas as versões originais.
+
+                                                                                       17/14
+

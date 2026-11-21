@@ -26,6 +26,10 @@ claude plugin marketplace add aldemararaujo/cep-tcle
 claude plugin install cep-tcle@cep-tcle
 ```
 
+**Usa ChatGPT?** Há duas opções, descritas no [README da raiz](../README.md):
+- **App do ChatGPT para computador ou Codex:** o plugin tem manifesto no formato da OpenAI (`.codex-plugin/plugin.json`). Rode `codex plugin marketplace add aldemararaujo/cep-tcle` e instale pelo Diretório de plugins.
+- **chatgpt.com ou celular:** baixe o pacote para GPT personalizado nos [releases](https://github.com/aldemararaujo/cep-tcle/releases/latest) e siga o [LEIA-ME do ChatGPT](../chatgpt/LEIA-ME.md).
+
 ## Uso
 
 | Comando | O que faz |
@@ -68,6 +72,8 @@ Os 8 casos cobrem: TCLE adequado de CHS, ensaio clínico com falhas, menores sem
 2. Gere o texto: `pdftotext -enc UTF-8 -layout arquivo.pdf references/texto/arquivo.txt`.
 3. Atualize a tabela "Base de referência" e a data no topo do SKILL.md, e `criterios.md` ou o módulo afetado.
 4. Rode os testes e registre a mudança no CHANGELOG.
+5. Aumente a `version` em `.claude-plugin/plugin.json`, `.codex-plugin/plugin.json` e no `marketplace.json` da raiz.
+6. Gere o pacote do ChatGPT: `python ferramentas/gerar_pacote_chatgpt.py` (na raiz do repositório). Se a norma nova for um arquivo novo, acrescente-o ao dicionário `NORMAS` do script. Anexe o .zip de `dist/` a um novo release no GitHub.
 
 ## Licença
 

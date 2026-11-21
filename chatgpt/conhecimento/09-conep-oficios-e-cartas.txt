@@ -1,0 +1,931 @@
+Conep: Ofício-Circular 11/2023, Carta Circular 1/2021 e Ofício Circular 23/2022
+Gerado do plugin CEP - TCLE versão 1.4.4.
+
+======================================================================
+ARQUIVO: conep-oficio-circular-11-2023-assentimento.txt
+======================================================================
+
+28/07/2023, 12:26                             SEI/MS - 0034999751 - Ofício-Circular
+
+                                        Ministério da Saúde
+                                        Secretaria-Executiva
+                   Departamento de Gestão Interfederativa e Participativa
+                    Secretaria-Executiva do Conselho Nacional de Saúde
+                            Comissão Nacional de Ética em Pesquisa
+
+OFÍCIO CIRCULAR Nº 11/2023/CONEP/SECNS/DGIP/SE/MS
+
+                                                                                     Brasília, 26 de julho de 2023.
+
+Aos(Às) coordenadores(as), membros, funcionários(as) administrativos(as) de Comitês de Ética em
+Pesquisa e pesquisadores(as).
+
+ASSUNTO: Orientações relacionadas ao processo de obtenção do assentimento de participantes de
+pesquisa menores de 18 anos e de pessoas com "ausência de autonomia", permanente ou temporária,
+para consentir.
+
+1.                 A Comissão Nacional de Ética em Pesquisa (Conep), em reconhecimento ao respeito e a
+
+dignidade de participantes de pesquisa menores de 18 anos e de pessoas com "ausência de autonomia",
+
+permanente ou temporária, para consentir, estabelece, para pesquisadores e análise do Sistema
+
+CEP/Conep, as seguintes orientações sobre os processos e o registro do assentimento, ao redigir o
+
+projeto detalhado e o termo de assentimento.
+
+2.                 As orientações constantes neste documento fundamentam-se nas definições para o
+
+assentimento livre e esclarecido e o termo de assentimento, previstas nos itens II.2 e II.24, da Resolução
+
+CNS Nº 466/2012, assim como, nas definições para o assentimento livre e esclarecido e o processo de
+
+consentimento e assentimento, previstas nos incisos I e XX, do art. 2º Resolução CNS Nº 510/2016.
+
+3.                 O processo de consentimento em participar na pesquisa é essencial e inicia-se pela
+
+elaboração do convite dirigido a quem exerce a parentalidade (pai ou mãe) ou por tutela (representante
+
+legal), sem prejuízo da escuta do participante menor de 18 anos de idade ou da pessoa com "ausência de
+
+autonomia", permanente ou temporária, para consentir.
+
+4.                 Deve-se garantir que o assentimento seja feito em forma de convite sem nenhum grau de
+
+indução ou coação, redigido em linguagem compreensível e de fácil entendimento para a elucidação
+
+adequada sobre a pesquisa.
+
+5.                 O processo de assentimento deve considerar a capacidade de entendimento do
+
+participante menor de 18 anos de idade e o discernimento da pessoa com "ausência de autonomia",
+
+permanente ou temporária, para consentir.
+
+6.                 A proteção integral da criança e do adolescente é dever de todas as pessoas, do poder
+
+público e da sociedade em geral (Estatuto da Criança e do Adolescente, artigo 4ª). Baseado nesse
+
+princípio, delimita-se, como idade mínima, os sete anos para a obrigatoriedade de obtenção do termo ou
+
+registro de assentimento.
+
+7.                 Aos pesquisadores e para a análise pelo Sistema CEP/Conep, recomenda-se uma avaliação
+
+das necessidades de cada participante de pesquisa, suas capacidades e maturidade emocional, para a
+
+apresentação de diferentes termos ou registros de assentimento, segundo a faixa etária (da infância e
+
+adolescência) e a complexidade da pesquisa.
+
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=37756424&infra_si… 1/3
+28/07/2023, 12:26                            SEI/MS - 0034999751 - Ofício-Circular
+
+8.                 Para pesquisas em que se aplica a Resolução CNS Nº 510/2016, o registro do assentimento
+
+pode ser obtido na forma escrita ou em outras formas sejam elas: sonora, imagética, ou outras que
+
+atendam às características da pesquisa e dos participantes.
+
+9.                 Alerta-se que a referida resolução, em seu artigo 16, estabelece que "o pesquisador deverá
+
+justificar o meio de registro mais adequado, considerando, para isso, o grau de risco envolvido, as
+
+características do processo da pesquisa e do participante”.
+
+10.                Na elaboração do termo ou registro de assentimento deve-se adotar linguagem simples e
+
+compreensível para o nível de entendimento do participante de pesquisa, sem constituir-se em uma
+
+reprodução de informações redigidas no termo/ registro de consentimento livre e esclarecido destinado
+
+àqueles que exercem a parentalidade (pai ou mãe) ou tutela (representante legal).
+
+11.                No processo do assentimento do participante de pesquisa, recomendam-se os seguintes
+
+itens no termo ou registro de assentimento:
+
+                   a) Introdução - apresente-se como pesquisador (a) ao potencial participante da
+                   pesquisa; explicando quem é, o que faz, o que está pesquisando e porque ele(a) está
+                   sendo convidado a participar da pesquisa. Em seguida, o (a) convide a ser um
+                   participante da pesquisa. Esclareça também que os responsáveis serão consultados e
+                   permitirão que ele(a) participe da pesquisa. Explique que se ele ou ela não quiser, sua
+                   decisão será respeitada (sempre que for possível). Ademais, dizer que ela poderá
+                   conversar com alguém antes de concordar ou não em participar. Para as pessoas com
+                   "ausência de autonomia", permanente ou temporária, para consentir, explicar conforme
+                   o grau de entendimento da pessoa.
+
+                   b) Objetivos – explicar em linguagem compreensível para o participante os propósitos
+                   da pesquisa.
+
+                   c) Voluntariedade de participação – explicar em linguagem amigável e compreensível
+                   que é ele ou ela quem decide se quer ou não participar da pesquisa. Em caso de decidir
+                   não participar, dizer que nada mudará no seu tratamento ou na relação com os
+                   profissionais responsáveis pelo atendimento. E ainda, mesmo que inicialmente, tenha
+                   aceitado participar, é possível mudar de ideia e desistir, sem nenhum problema.
+
+                   d) Informação sobre o produto investigacional – caso a pesquisa envolva fármacos ou
+                   imunobiológicos, explicar qual é o produto que está sendo pesquisado, que vai ser
+                   administrado, por qual via de administração, para o que ele serve e o que está sendo
+                   testado.
+
+                   e) Procedimentos – explicar em linguagem simples quais são os procedimentos
+                   utilizados, procurando atender a expectativa do(a) participante. Por exemplo: que a sua
+                   participação na pesquisa vai implicar no comparecimento “x” vezes no local de estudo,
+                   que será coletado sangue (ou outro material biológico) “x” vezes, sem associação de
+                   volume a objetos usados no seu cotidiano de vida para alimentar-se (por exemplo:
+                   colher de sopa, colher de sobremesa), quanto tempo está previsto para a realização dos
+                   procedimentos, e que outros procedimentos podem ser necessários.
+
+                   f) Riscos – explicar todos os riscos em linguagem compreensível para os/as
+                   participantes, bem como as ações adotadas para minimizá-los ou corrigi-los.
+
+                   g) Desconfortos – explicar de forma simples qualquer desconforto físico e/ou
+                   emocional, restrições a atividades cotidianas, dor ou doença.
+
+                   h) Benefícios – descrever todos os benefícios que serão gerados com a pesquisa,
+                   mesmo que não sejam benefícios diretos.
+
+                   i) Indução à participação – com base na Resolução CNS Nº 466/2012 é vedado
+                   oferecimento de incentivos financeiros, brindes, ou outros que possam interferir na
+                   plena liberdade de participar da pesquisa.
+
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=37756424&infra_si… 2/3
+28/07/2023, 12:26                                                           SEI/MS - 0034999751 - Ofício-Circular
+
+                   j) Direito ao ressarcimento - assegurar que o ressarcimento das despesas com o
+                   tratamento, viagem e alimentação, bem como outras despesas, e que seus pais ou
+                   responsáveis não arcarão com nenhum custo da pesquisa.
+
+                   k) Confidencialidade – informar que outras pessoas poderão saber sobre
+                   a participação na pesquisa, deixando claro que as informações sobre os participantes
+                   são confidenciais e ninguém, exceto pessoas diretamente relacionadas a pesquisa,
+                   poderá ter acesso a elas.
+
+                   l) Divulgação dos resultados - esclarecer que depois que a pesquisa acabar, os
+                   resultados serão informados para o participante e também poderão ser publicados em
+                   uma revista, ou livro, ou conferência etc.
+
+                   m) Direito de recusa ou retirada do assentimento informado - reforçar para o(a)
+                   participante que a participação é voluntária.
+
+                   n) Contato com o pesquisador/a – listar o nome do pesquisador(a) ou de pessoas com
+                   as quais o(a) participante poderá entrar em contato facilmente, caso queira conversar
+                   sobre a pesquisa. No caso de participantes menores de 18 anos explicar que podem ser
+                   inclusive seus professores, amigos, parentes.
+
+                   o) Contato com o Comitê de Ética em Pesquisa (CEP) - fazer breve explicação do que é
+                   um CEP e informar o contato telefônico e/ou e-mail.
+
+                   p) Contato com a Conep (quando aplicável) - fazer breve explicação do que é a Conep e
+                   informar o contato telefônico e/ou e-mail.
+
+12.                A implementação destas orientações entra em vigor a partir desta data.
+
+                   Cordialmente,
+
+                                                LAIS ALVES DE SOUZA BONILHA
+                                Coordenadora da Comissão Nacional de Ética em Pesquisa
+
+                   Documento assinado eletronicamente por Laís Alves de Souza Bonilha, Coordenador(a) da
+                   Comissão Nacional de Ética em Pesquisa, em 27/07/2023, às 19:07, conforme horário oficial de
+                   Brasília, com fundamento no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e
+                   art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+                   A autenticidade deste documento pode ser conferida no site
+                   http://sei.saude.gov.br/sei/controlador_externo.php?
+                   acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador
+                   0034999751 e o código CRC BCCEE3E9.
+
+Referência: Processo nº 25000.107605/2023-56                                                                                 SEI nº 0034999751
+
+                                                    Comissão Nacional de Ética em Pesquisa - CONEP
+                   SRTV 701, Via W 5 Norte, lote D Edifício PO 700, 3º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+
+                                                                       Site - saude.gov.br
+
+https://sei.saude.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=37756424&infra_si… 3/3
+
+======================================================================
+ARQUIVO: conep-carta-circular-01-2021-ambiente-virtual.txt
+======================================================================
+
+                                  Ministério da Saúde
+        Secretaria-Executiva do Conselho Nacional de Saúde
+
+                Comissão Nacional de Ética em Pesquisa
+
+Carta Circular nº 1/2021-CONEP/SECNS/MS
+
+                                           Brasília, 03 de março de 2021.
+
+Aos (Às) coordenadores (as) de Comitês de Ética em Pesquisa
+
+Assunto: Orientações para procedimentos em pesquisas com qualquer
+etapa em ambiente virtual.
+
+                 A Comissão Nacional de Ética em Pesquisa(Conep) orienta
+pesquisadores e Comitês de Ética em Pesquisa em relação a procedimentos que
+envolvam o contato com participantes e/ou coleta de dados em qualquer etapa
+da pesquisa, em ambiente virtual. Tais medidas visam preservar a proteção,
+segurança e os direitos dos participantes de pesquisa.
+
+                 Estas orientações quando aplicadas aos participantes de pesquisa
+em situação de vulnerabilidade devem estar em conformidade com as
+Resoluções do Conselho Nacional de Saúde – CNS – nº 466 de 2012 e a de nº
+510 de 2016.
+
+                 Entende-se por:
+
+0.1.    Meio ou ambiente virtual: aquele que envolve a utilização da
+
+internet (como e-mails, sites eletrônicos, formulários disponibilizados por
+
+programas, etc.), do telefone (ligação de áudio, de vídeo, uso de aplicativos de
+
+chamadas, etc.), assim como outros programas e aplicativos que utilizam esses
+
+meios.
+
+0.2.    Forma não presencial: contato realizado por meio ou ambiente
+
+virtual, inclusive telefônico, não envolvendo a presença física do pesquisador e
+
+do participante de pesquisa.
+
+0.3.    Dados pessoais: informação relacionada à pessoa natural
+
+identificada ou identificável (artigo 5º da Lei Geral de Proteção de Dados –
+
+LGPD – nº 13.709, de 14 de agosto de 2018), tais como números de
+
+documentos, de prontuário, etc.
+
+0.4.    Dados pessoais sensíveis - dados sobre origem racial ou étnica,
+
+religião, opinião política, filiação a sindicato ou a organização de caráter
+
+religioso, filosófico ou político, dado referente à saúde ou a vida sexual, dado
+
+genético ou biométrico, quando vinculado a uma pessoa natural (artigo 5º da
+
+LGPD nº 13.709, de 14 de agosto de 2018).
+
+        Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 1
+                 Nesse sentido, aplicam-se as seguintes orientações nas pesquisas
+com seres humanos que envolvam essas ferramentas:
+
+1.      EM RELAÇÃO À SUBMISSÃO DO PROTOCOLO AO SISTEMA
+
+CEP/CONEP:
+
+1.1.    O pesquisador deverá apresentar na metodologia do projeto de
+
+pesquisa a explicação de todas as etapas/fases não presenciais do estudo,
+
+enviando, inclusive, os modelos de formulários, termos e outros documentos
+
+que serão apresentados ao candidato a participante de pesquisa e aos
+
+participantes de pesquisa.
+
+1.2.    O pesquisador deverá descrever e justificar o procedimento a ser
+
+adotado para a obtenção do consentimento livre e esclarecido, bem como, o
+
+formato de registro ou assinatura do termo que será utilizado.
+
+1.2.1.  Caberá ao pesquisador destacar, além dos riscos e benefícios
+
+relacionados com a participação na pesquisa, aqueles riscos característicos do
+
+ambiente virtual, meios eletrônicos, ou atividades não presenciais, em função
+
+das limitações das tecnologias utilizadas. Adicionalmente, devem ser
+
+informadas as limitações dos pesquisadores para assegurar total
+
+confidencialidade e potencial risco de sua violação.
+
+1.3.    Quando os Registros de Consentimento Livre e Esclarecido / Termos
+
+de Consentimento Livre e Esclarecido forem documentais, devem ser
+
+apresentados, preferencialmente, na mesma formatação utilizada para
+
+visualização dos participantes da pesquisa.
+
+2.      EM RELAÇÃO AOS PROCEDIMENTOS QUE ENVOLVEM CONTATO
+
+ATRAVÉS DE MEIO VIRTUAL OU TELEFÔNICOS COM OS POSSÍVEIS
+
+PARTICIPANTES DE PESQUISA:
+
+2.1.    O convite para participação na pesquisa não deve ser feito com a
+
+utilização de listas que permitam a identificação dos convidados nem a
+
+visualização dos seus dados de contato (e-mail, telefone, etc) por terceiros.
+
+2.1.1.  Qualquer convite individual enviado por e-mail só poderá ter um
+
+remetente e um destinatário, ou ser enviado na forma de lista oculta.
+
+2.1.2.  Qualquer convite individual deve esclarecer ao candidato a
+
+participantes de pesquisa, que antes de responder às perguntas do pesquisador
+
+disponibilizadas em ambiente não presencial ou virtual (questionário/formulário
+
+ou entrevista), será apresentado o Termo de Consentimento Livre e Esclarecido
+
+(ou Termo de Assentimento, quando for o caso) para a sua anuência.
+
+2.2.    Quando a coleta de dados ocorrer em ambiente virtual (com uso de
+
+programas para coleta ou registro de dados, e-mail, entre outros), na
+
+modalidade de consentimento (Registro ou TCLE), o pesquisador deve enfatizar
+
+a importância do participante de pesquisa guardar em seus arquivos uma cópia
+
+            Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 2
+do documento eletrônico.
+
+2.2.1.  Deve-se garantir ao participante de pesquisa o direito de não
+
+responder qualquer questão, sem necessidade de explicação ou justificativa
+
+para tal, podendo também se retirar da pesquisa a qualquer momento.
+
+2.2.2.  Caso tenha pergunta obrigatória deve constar no TCLE o direito do
+
+participante de não responder a pergunta.
+
+2.2.3.  Deve-se garantir ao participante de pesquisa o direito de acesso ao
+
+teor do conteúdo do instrumento (tópicos que serão abordados) antes de
+
+responder as perguntas, para uma tomada de decisão informada.
+
+2.2.4.  O participante de pesquisa terá acesso às perguntas somente depois
+
+que tenha dado o seu consentimento.
+
+2.3.    Quando a pesquisa em ambiente virtual envolver a participação de
+
+menores de 18 anos, o primeiro contato para consentimento deve ser com os
+
+pais e/ou responsáveis, e a partir da concordância, deverá se buscar o
+
+assentimento do menor de idade.
+
+2.4.    Caberá ao pesquisador responsável conhecer a política de
+
+privacidade da ferramenta utilizada quanto a coleta de informações pessoais,
+
+mesmo que por meio de robôs, e o risco de compartilhamento dessas
+
+informações com parceiros comerciais para oferta de produtos e serviços de
+
+maneira a assegurar os aspectos éticos.
+
+2.5.    Deve ficar claro ao participante da pesquisa, no convite, que o
+
+consentimento será previamente apresentado e, caso, concorde em participar,
+
+será considerado anuência quando responder ao questionário/formulário ou
+
+entrevista da pesquisa.
+
+2.5.1.  Ficam excetuados os processos de consentimento previstos no Art.
+
+4° da Resolução CNS nº 510 de 2016.
+
+2.6.    Caberá ao pesquisador explicar como serão assumidos os custos
+
+diretos e indiretos da pesquisa, quando a mesma se der exclusivamente com a
+
+utilização de ferramentas eletrônicas sem custo para o seu uso ou já de
+
+propriedade do mesmo.
+
+3.      COM RELAÇÃO À SEGURANÇA NA TRANSFERÊNCIA E NO
+
+ARMAZENAMENTO DOS DADOS:
+
+3.1.    É da responsabilidade do pesquisador o armazenamento adequado
+
+dos dados coletados, bem como os procedimentos para assegurar o sigilo e a
+
+confidencialidade das informações do participante da pesquisa.
+
+3.2.    Uma vez concluída a coleta de dados, é recomendado ao pesquisador
+
+responsável fazer o download dos dados coletados para um dispositivo
+
+eletrônico local, apagando todo e qualquer registro de qualquer plataforma
+
+virtual, ambiente compartilhado ou "nuvem".
+
+3.3.    O mesmo cuidado deverá ser seguido para os registros de
+
+consentimento livre e esclarecido que sejam gravações de vídeo ou áudio. É
+
+recomendado ao pesquisador responsável fazer o download dos dados, não
+
+sendo indicado a sua manutenção em qualquer plataforma virtual, ambiente
+
+compartilhado ou "nuvem".
+
+        Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 3
+compartilhado ou "nuvem".
+
+3.4.  Em consonância ao disposto na Resolução CNS nº 510 de 2016,
+
+artigo 9 inciso V), para os participantes de pesquisas que utilizem metodologias
+
+próprias das Ciências Humanas e Sociais, deve haver a manifestação expressa
+
+de sua concordância ou não quanto à divulgação de sua identidade e das
+
+demais informações coletadas.
+
+4.    QUANTO AO CONTEÚDO DOS DOCUMENTOS TRAMITADOS:
+
+4.1.  Os documentos em formato eletrônico relacionados à obtenção do
+
+consentimento devem apresentar todas as informações necessárias para o
+
+adequado esclarecimento do participante, com as garantias e direitos previstos
+
+nas Resoluções CNS nº 466 de 2012 e 510 de 2016 e, de acordo com as
+
+particularidades da pesquisa.
+
+4.2.  O convite para a participação na pesquisa deverá conter,
+
+obrigatoriamente, link para endereço eletrônico ou texto com as devidas
+
+instruções de envio, que informem ser possível, a qualquer momento e sem
+
+nenhum prejuízo, a retirada do consentimento de utilização dos dados do
+
+participante da pesquisa. Nessas situações, o pesquisador responsável fica
+
+obrigado a enviar ao participante de pesquisa, a resposta de ciência do
+
+interesse do participante de pesquisa retirar seu consentimento
+
+4.3.  Nos casos em que não for possível a identificação do questionário do
+
+participante, o pesquisador deverá esclarecer a impossibilidade de exclusão dos
+
+dados da pesquisa durante o processo de registro / consentimento.
+
+4.4.  Durante o processo de consentimento, o pesquisador deverá
+
+esclarecer o participante de maneira clara e objetiva, como se dará o registro de
+
+seu consentimento para participar da pesquisa.
+
+4.5.  Quando a pesquisa na área biomédica exigir necessariamente a
+
+presença do participante de pesquisa junto à equipe, o TCLE deverá ser obtido
+
+na sua forma física, de acordo com o previsto na Resolução CNS nº 466 de
+
+2012, item IV.5.d. Esse consentimento deverá ser obtido ainda que o
+
+participante de pesquisa já tenha registrado o seu consentimento de forma
+
+eletrônica em etapa anterior da pesquisa. Os casos não contemplados neste
+
+documento, conflitantes ou ainda não previstos nas resoluções disponíveis,
+
+serão avaliados pelos colegiados do Sistema CEP/Conep.
+
+                       JORGE ALVES DE ALMEIDA VENANCIO
+       Coordenador da Comissão Nacional de Ética em Pesquisa
+
+      Documento assinado eletronicamente por Jorge Venâncio,
+      Administrador(a), em 09/03/2021, às 18:17, conforme horário oficial de
+      Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de
+      outubro de 2015; e art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+      Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 4
+A autenticidade deste documento pode ser conferida no site
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código verificador 0019351278 e o código CRC 69965C1B.
+
+Referência: Processo nº 25000.026908/2021-15                    SEI nº 0019351278
+
+                                           Comissão Nacional de Ética em Pesquisa - CONEP
+SRTV 701, Via W 5 Norte, lote D Edifício PO 700, 3º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+
+                                                                   Site - saude.gov.br
+
+Carta Circular 1 (0019351278) SEI 25000.026908/2021-15 / pg. 5
+
+======================================================================
+ARQUIVO: conep-oficio-circular-23-2022-consentimento-eletronico.txt
+======================================================================
+
+                                               Ministério da Saúde
+                                               Secretaria Executiva
+                   Departamento de Gestão Interfederativa e Participativa
+                      Secretaria-Executiva do Conselho Nacional de Saúde
+                               Comissão Nacional de Ética em Pesquisa
+
+OFÍCIO CIRCULAR Nº 23/2022/CONEP/SECNS/DGIP/SE/MS
+
+                                                                                       Brasília, 17 de outubro de 2022.
+
+Aos(Às) Coordenadores(as), membros(as) e funcionários(as) administrativos de
+Comitês de Ética em Pesquisa - CEPs.
+Aos (Às) Gestores(as) de Biobancos.
+Aos (Às) Pesquisadores(as) do Sistema CEP/Conep.
+
+Assunto: Normatização do uso de consentimento e assentimento eletrônico
+para participantes de pesquisa e de biobancos.
+
+        Prezados(as),
+
+                 A Comissão Nacional de Ética em Pesquisa (Conep) orienta
+pesquisadores (as), gestores (as) de biobancos e Comitês de Ética em Pesquisa
+em relação aos procedimentos que envolvam o consentimento e assentimento
+eletrônico de participantes de pesquisa e de biobancos. Tais medidas visam
+preservar a proteção, a segurança e os direitos dos participantes, incorporando
+os avanços tecnológicos disponíveis, a fim de garantir a sua autonomia.
+
+                 Essas orientações devem estar em conformidade com o estabelecido
+nas Resoluções vigentes do Conselho Nacional de Saúde (CNS).
+
+                 Nesse sentido, aplicam-se as seguintes orientações nas pesquisas
+com seres humanos que envolvam a formalização do consentimento e
+assentimento eletrônico.
+
+1.      TERMOS E DEFINIÇÕES.
+
+1.1.    Para fins deste Ofício, adotam-se termos e definições conforme
+segue:
+
+I - Assinatura eletrônica: etapa final dos processos de consentimento e
+assentimento eletrônico, que demonstra a concordância do participante em
+
+        Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 1
+fazer parte de uma pesquisa ou de um biobanco.
+
+II - Atividade realizada de forma remota: é aquela realizada a distância, sem a
+necessidade de o(a) pesquisador(a) e participantes estarem nos mesmos local e
+momento.
+
+III - Atividade realizada de forma presencial: é aquela realizada com
+pesquisador(a) e participante nos mesmos local e momento.
+
+IV - Consentimento e assentimento eletrônico: consistem na formalização do
+consentimento e assentimento em sistema eletrônico, plataforma ou ferramenta
+eletrônica que permita níveis elevados de segurança para as informações do
+consentidor, que pode ser realizado de forma presencial ou remota.
+
+V - Dados pessoais identificadores: informações relacionadas à pessoa natural
+identificada ou identificável, que de forma individual ou conjunta permitam a
+identificação da pessoa, tais como: nome do(da) participante(ou codinome);
+informações postais; números de telefone; endereços eletrônicos (e-mail ou
+página de internet); números de registros individuais; características
+morfológicas individuais; entre outros.
+
+VI - Dados pessoais sensíveis: dados pessoais que, se conhecidos e
+processados, podem ser utilizados de forma discriminatória ou dolosa para o
+indivíduo, grupo familiar ou social e até mesmo para a coletividade, tais como:
+dados sobre a origem racial ou étnica; condição socioeconômica; convicções
+religiosas; opiniões políticas; filiação a sindicatos ou a organizações de caráter
+religioso, filosófico ou político; dados referentes à saúde, à orientação e vida
+sexual; dados genéticos e biométricos.
+
+VII - Meio ou ambiente virtual: aquele que envolve a utilização da internet
+(como e-mails, sites/sítios eletrônicos, formulários disponibilizados por
+programas etc.), do telefone (ligação de áudio, de vídeo, uso de aplicativos de
+chamadas etc.), assim como de outros programas e aplicativos que utilizam
+esses meios.
+
+VIII - Participante de pesquisa: pessoa que, de forma esclarecida e voluntária,
+ou sob o esclarecimento e autorização de seu(s) responsável(eis) legal(is),
+aceita ser pesquisada.
+
+2.    SOBRE O PROCESSO DE CONSENTIMENTO PARA PARTICIPAÇÃO
+
+EM PESQUISA.
+
+2.1.  Todo protocolo de pesquisa que pretenda utilizar consentimento e
+
+assentimento eletrônico deve fundamentar a sua escolha com base nos
+
+potenciais benefícios e na minimização de riscos para o(a) participante de
+
+pesquisa, apresentando a devida justificativa ao Sistema CEP/Conep.
+
+I - Caberá ao(à) pesquisador(a) destacar, além dos riscos e benefícios
+relacionados à participação na pesquisa, aqueles riscos característicos do
+ambiente virtual, dos meios eletrônicos, ou das atividades não presenciais, em
+função das limitações das tecnologias utilizadas. Adicionalmente, as medidas
+adotadas devem ser informadas, para assegurar total sigilo e confidencialidade
+das informações do (da) participante.
+
+II - É da responsabilidade do(da) pesquisador(a) o armazenamento adequado
+dos dados coletados, bem como os procedimentos para assegurar o sigilo e a
+confidencialidade das informações do(da) participante da pesquisa.
+
+      Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 2
+2.2.  O protocolo de pesquisa deve detalhar os meios de formalização do
+
+processo de consentimento e assentimento.
+
+I - Deve apresentar documento de consentimento com linguagem adequada às
+particularidades dos participantes.
+
+II - Deve descrever a forma como o tema da pesquisa será explicitado,
+considerando as características dos participantes, as suas particularidades, a
+forma como se dará o acesso à tecnologia, como será a interação com a equipe
+do projeto, bem como o local em que será realizado o processo de
+consentimento.
+
+III - A responsabilidade do (da) pesquisador (a) é indelegável e indeclinável e
+compreende os aspectos éticos e legais, não sendo transferível ao sistema/à
+ferramenta/à plataforma pelas eventuais falhas no processo e registro do
+consentimento e assentimento.
+
+IV - O processo de consentimento e assentimento poderá ocorrer de forma
+presencial ou remota, devendo o (a) pesquisador (a) explicar ao (à)
+participante, de maneira simples e objetiva, como se dará o registro de seu
+consentimento e assentimento para participar da pesquisa. Essas informações
+devem constar no protocolo de pesquisa e nos termos de consentimento e de
+assentimento.
+
+V - A equipe de pesquisa deve oferecer ao (à) participante, antes da
+formalização do consentimento e assentimento, oportunidades para discutir as
+informações do estudo, em tempo real.
+
+VI - Durante o processo de consentimento e assentimento, devem ser
+disponibilizados horários e formas de contato com o (a) pesquisador (a) e sua
+equipe, tais como conferências com vídeo, ligações telefônicas, mensagens
+eletrônicas, e-mail, aplicativos de mensagem, ou chat on-line, propiciando
+oportunidades para que o (a) participante tire suas dúvidas.
+
+VII - Independentemente do meio utilizado para a comunicação, a equipe da
+pesquisa deve explicar ao (à) participante sobre a importância da segurança do
+local onde se dará o processo de consentimento, para que sejam garantidos o
+sigilo e a confidencialidade necessários.
+
+VIII - O protocolo de pesquisa com consentimento e assentimento eletrônico
+e/ou qualquer parte realizada remotamente deve seguir os princípios e as
+normas dispostos na Carta Circular nº 1/2021-CONEP/SECNS/MS, que apresenta
+orientações para procedimentos em pesquisas com qualquer etapa em ambiente
+virtual.
+
+2.3.  A formalização do consentimento e assentimento em meio eletrônico
+
+pode ser utilizada para complementar esse processo e substituir o registro e/ou
+
+termo em papel, quando devidamente justificado na apreciação ética.
+
+I - Deve ser garantido ao(à) participante a possibilidade de ter acesso aos
+termos em papel ou no formato adequado à sua especificidade, devendo estas
+opções estarem identificadas no protocolo para apreciação ética.
+
+2.4.  As pesquisas já aprovadas que optarem pela inclusão de registro do
+
+consentimento e assentimento em meio eletrônico, em adição às formas já
+
+utilizadas, devem submeter tal alteração procedimental à apreciação ética por
+
+meio de Emenda ao respectivo protocolo de pesquisa vigente.
+
+      Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 3
+3.    SOBRE O PROCESSO DE CONSENTIMENTO DE BIOBANCOS
+
+3.1.  O consentimento e assentimento do(da) participante deve ser obtido
+
+antes da incorporação da amostra biológica ao biobanco.
+
+I - Para amostras biológicas coletadas exclusivamente para biobancos, o
+consentimento e assentimento do (da) participante deverão ser obtidos
+previamente à coleta.
+
+3.2.  Todo Protocolo de Desenvolvimento de biobanco que pretenda
+
+utilizar consentimento e assentimento eletrônico deve fundamentar a sua
+
+escolha com base nos potenciais benefícios e na minimização de riscos para o
+
+(a) participante, apresentando a devida justificativa ao Sistema CEP/Conep.
+
+3.3.  Caberá ao(à) responsável pelo biobanco destacar, além dos riscos e
+
+benefícios relacionados à participação no biobanco, aqueles riscos
+
+característicos do ambiente virtual, dos meios eletrônicos, ou das atividades
+
+não presenciais, em função das limitações das tecnologias utilizadas.
+
+Adicionalmente, devem ser informadas as medidas adotadas para assegurar
+
+sigilo e confidencialidade das informações do participante.
+
+3.4.  A responsabilidade do(a) gestor(a) do biobanco é indelegável e
+
+indeclinável e compreende os aspectos éticos e legais, não sendo transferível
+
+ao sistema/à ferramenta/à plataforma pelas eventuais falhas no processo e
+
+registro do consentimento e assentimento.
+
+3.5.  O Protocolo de Desenvolvimento do biobanco deve detalhar os meios
+
+de formalização do consentimento.
+
+I - Deve apresentar documento de consentimento com linguagem adequada às
+particularidades dos participantes.
+
+II - No documento, deve ser descrito o escopo do biobanco, as características
+dos participantes, a forma ou o local de obtenção do consentimento e
+assentimento, como se dará o acesso do participante à tecnologia utilizada e
+como se dará a interação com a equipe do biobanco.
+
+III - O processo de consentimento e assentimento pode ocorrer de forma
+presencial ou remota, devendo o(a) responsável pelo biobanco explicar ao(à)
+participante, de maneira simples e objetiva, como se dará o registro de seu
+consentimento para participar do biobanco. Essas informações devem constar no
+Protocolo de Desenvolvimento e no Termo de Consentimento Livre e Esclarecido
+do biobanco.
+
+IV - A equipe do biobanco deve oferecer aos participantes, antes da
+formalização do consentimento e assentimento, oportunidades para discutir, em
+tempo real, as informações sobre o armazenamento das amostras biológicas.
+
+V - Durante o processo de consentimento e assentimento, devem ser
+disponibilizados horários e formas de contato com o biobanco, tais como
+conferências com vídeo, ligações telefônicas, mensagens eletrônicas, e-mails,
+aplicativos de mensagens, ou chats on-line, propiciando oportunidades para que
+o participante tire suas dúvidas.
+
+VI - Independentemente do meio utilizado para comunicação, a equipe do
+
+      Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 4
+biobanco deve explicar ao (à) participante a importância da segurança do local
+onde se dará o processo de consentimento e assentimento, para que sejam
+garantidos o sigilo e a confidencialidade necessários.
+
+VII - O biobanco que optar por utilizar consentimento e assentimento eletrônico
+e/ou qualquer atividade realizada remotamente deve seguir os princípios e as
+normas dispostos na Carta Circular nº 1/2021-CONEP/SECNS/MS, que dispõe
+sobre pesquisas em ambiente virtual.
+
+3.6.  A formalização do consentimento e assentimento em meio eletrônico
+
+pode ser utilizada para complementar esse processo e substituir o termo em
+
+papel, quando devidamente justificado na apreciação ética.
+
+I - Deve ser garantido ao (à) participante a possibilidade de ter acesso aos
+termos em papel ou no formato adequado à sua especificidade, devendo essas
+opções estarem identificadas no protocolo de desenvolvimento do biobanco.
+
+3.7.  Os biobancos já aprovados que optarem pela inclusão de registro do
+
+consentimento e assentimento em meio eletrônico, em adição às formas já
+
+utilizadas, devem submeter tal alteração procedimental à apreciação ética por
+
+meio de Emenda ao respectivo protocolo de desenvolvimento vigente.
+
+4.    SOBRE O SISTEMA UTILIZADO PARA CONSENTIMENTO E
+
+ASSENTIMENTO ELETRÔNICO
+
+4.1.  O sistema eletrônico utilizado para a formalização do consentimento
+
+e assentimento deve permitir acesso restrito e deve incluir métodos que
+
+garantam a confidencialidade das informações do (da) participante de pesquisa
+
+ou de biobanco. O sistema deve criptografar as informações do (da) participante
+
+e, quando isso não for possível em função das especificidades do estudo, o
+
+pesquisador ou o responsável pelo biobanco deve apresentar medida
+
+equivalente de segurança e as devidas justificativas para seu uso.
+
+4.2.  O sistema deve permitir o consentimento e assentimento eletrônico
+
+em formato de áudio, vídeo ou documento PDF, entre outros. Quando o
+
+consentimento e assentimento for documental, este deve ser apresentado,
+
+preferencialmente, nos mesmos formatos e formatações acessados pelos
+
+participantes da pesquisa.
+
+4.3.  Em relação à plataforma ou ao sistema utilizado para o
+
+consentimento e assentimento eletrônico:
+
+I - Deve atender aos critérios de Classificação das Assinaturas Eletrônicas,
+definidos pelo artigo 4°, da Lei nº 14.063, de 23 de setembro de 2020.
+
+II - Deve atender a todos os requisitos das normas éticas vigentes.
+
+III - Deve permitir o envio individualizado do consentimento e assentimento,
+evitando que os participantes sejam identificados.
+
+IV - Deve garantir a integridade do documento.
+
+V - Deve garantir o sigilo dos dados pessoais e dados pessoais sensíveis dos
+participantes de pesquisa e biobanco.
+
+VI - Deve permitir o armazenamento seguro do consentimento e assentimento
+
+      Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 5
+eletrônico.
+
+VII - Deve permitir o envio, ao(à) participante, do documento assinado por
+ele(ela) e pelo(a) pesquisador(a) ou pessoa por ele(ela) delegada.
+
+VIII - Deve permitir a elaboração de documento não definitivo para apreciação
+do consentimento e assentimento pelo Sistema CEP/Conep e a realização dos
+devidos ajustes antes da implementação e aplicação do consentimento e
+assentimento.
+
+IX - Preferencialmente, permitir auditorias e monitorias.
+
+5.    QUANTO AO CONTEÚDO DOS DOCUMENTOS TRAMITADO:
+
+5.1.  Os documentos em formato eletrônico relacionados à obtenção do
+
+consentimento e do assentimento devem apresentar todas os elementos
+
+necessários à adequada informação do participante, com as garantias e os
+
+direitos previstos nas resoluções vigentes.
+
+5.2.  O convite para a participação na pesquisa ou biobanco deverá
+
+conter, obrigatoriamente, link para endereço eletrônico ou texto com as devidas
+
+instruções de envio.
+
+5.3.  O(a) pesquisador(a) ou responsável pelo biobanco deve submeter
+
+para apreciação ética o registro de consentimento e assentimento, Termo de
+
+Consentimento Livre e Esclarecido (TCLE) ou Termo de Assentimento em
+
+formato que permita copiar o texto do documento e, ainda, link ou forma de
+
+acesso que será disponibilizado ao(à) participante.
+
+5.4.  O documento de registro de consentimento e assentimento deve
+
+conter um link que possibilite a retirada do consentimento e assentimento
+
+do(da) participante. O instrumento que viabiliza a retirada desses documentos
+
+deve apresentar os mesmos critérios de segurança e confidencialidade.
+
+5.5.  Este Ofício Circular revoga o item 4.5 da Carta Circular
+
+nº 1/2021/CONEP/SECNS/MS e complementa o previsto na letra d, do item IV.5,
+
+da Resolução CNS nº 466, de 12 de dezembro de 2012 e no § 3º, do inciso X,
+
+art. 17, da Resolução CNS nº 510, de 07 de abril de 2016.
+
+      Atenciosamente,
+
+                           LAÍS ALVES DE SOUZA BONILHA
+       Coordenadora da Comissão Nacional de Ética em Pesquisa
+
+      Documento assinado eletronicamente por Laís Alves de Souza Bonilha,
+      Coordenador(a) da Comissão Nacional de Ética em Pesquisa, em
+      17/10/2022, às 18:00, conforme horário oficial de Brasília, com fundamento
+      no § 3º, do art. 4º, do Decreto nº 10.543, de 13 de novembro de 2020; e
+      art. 8º, da Portaria nº 900 de 31 de Março de 2017.
+
+      A autenticidade deste documento pode ser conferida no site
+
+               Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 6
+http://sei.saude.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o
+código verificador 0029816933 e o código CRC 055F71B8.
+
+Referência: Processo nº 25000.144929/2022-94                      SEI nº 0029816933
+
+                                           Comissão Nacional de Ética em Pesquisa - CONEP
+SRTV 701, Via W 5 Norte, lote D Edifício PO 700, 3º andar - Bairro Asa Norte, Brasília/DF, CEP 70719-040
+
+                                                                   Site - saude.gov.br
+
+Ofício-Circular 23 (0029816933) SEI 25000.144929/2022-94 / pg. 7
+

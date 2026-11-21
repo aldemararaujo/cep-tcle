@@ -1,0 +1,29 @@
+{
+  "name": "cep-tcle",
+  "version": "1.4.4",
+  "description": "Assistente de triagem ética de TCLEs. Analisa documentos anonimizados, identifica requisitos aplicáveis ao tipo de pesquisa e aponta evidências, pendências e itens não verificáveis com base no marco brasileiro vigente. Não substitui a avaliação nem o parecer de um CEP.",
+  "author": {
+    "name": "Aldemar A Castro",
+    "url": "https://github.com/aldemararaujo"
+  },
+  "homepage": "https://github.com/aldemararaujo/cep-tcle",
+  "repository": "https://github.com/aldemararaujo/cep-tcle",
+  "license": "CC-BY-4.0",
+  "keywords": ["tcle", "cep", "etica-em-pesquisa", "consentimento", "inaep", "sinep"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CEP - TCLE",
+    "shortDescription": "Triagem ética de TCLEs pela Lei 14.874/2024, Inaep e Resoluções CNS",
+    "longDescription": "Assistente de triagem ética de Termos de Consentimento Livre e Esclarecido. Identifica os requisitos aplicáveis ao tipo de pesquisa e aponta evidências, pendências e itens não verificáveis com base na Lei 14.874/2024, no Decreto 12.651/2025, nas orientações da Inaep e nas Resoluções CNS 466/2012, 510/2016 e 441/2011. Não substitui a avaliação nem o parecer de um CEP.",
+    "developerName": "Aldemar A Castro",
+    "category": "Education & Research",
+    "capabilities": ["Triagem de TCLE", "Matriz de conformidade", "Comparação TCLE e projeto", "Explicação de critérios"],
+    "defaultPrompt": [
+      "Fazer uma triagem rápida deste TCLE anonimizado",
+      "Gerar relatório completo com matriz de conformidade",
+      "Comparar o TCLE com o projeto de pesquisa"
+    ],
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}

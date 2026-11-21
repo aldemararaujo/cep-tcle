@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.4 (2026-11-21)
+
+- Suporte a usuários do ChatGPT:
+  - manifesto `.codex-plugin/plugin.json` e catálogo `.agents/plugins/marketplace.json`, para instalar o plugin no app do ChatGPT para computador e no Codex;
+  - pacote para GPT personalizado (`chatgpt/`): instruções com menos de 8.000 caracteres e 13 arquivos de conhecimento gerados do plugin por `ferramentas/gerar_pacote_chatgpt.py`, também disponível como .zip nos releases.
+- README da raiz com os três caminhos de instalação.
+
 ## 1.4.3 (2026-11-20)
 
 - Critério G11 (ressarcimento) passa a citar a Lei 14.874/2024, art. 12, VII: o TCLE deve especificar formas, quantias e periodicidade do ressarcimento. Encontrado na revisão do app web tcle, que já usa os critérios deste plugin.
